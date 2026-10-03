@@ -1,0 +1,1897 @@
+{
+  "routine-activity-theory": [
+    {
+      "type": "JOUR",
+      "authors": [
+        "Cohen, Lawrence E.",
+        "Felson, Marcus"
+      ],
+      "keywords": [
+        "日常活動理論",
+        "原典",
+        "海外研究"
+      ],
+      "year": "1979",
+      "title": "Social Change and Crime Rate Trends: A Routine Activity Approach",
+      "journal": "American Sociological Review",
+      "volume": "44",
+      "issue": "4",
+      "first_page": "588",
+      "last_page": "608",
+      "doi": "10.2307/2094589",
+      "url": "https://doi.org/10.2307/2094589"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Cohen, Lawrence E.",
+        "Kluegel, James R.",
+        "Land, Kenneth C."
+      ],
+      "keywords": [
+        "日常活動理論",
+        "構造的選択モデル",
+        "理論発展",
+        "海外研究"
+      ],
+      "year": "1981",
+      "title": "Social Inequality and Predatory Criminal Victimization: An Exposition and Test of a Formal Theory",
+      "journal": "American Sociological Review",
+      "volume": "46",
+      "issue": "5",
+      "first_page": "505",
+      "last_page": "524",
+      "doi": "10.2307/2094935",
+      "url": "https://doi.org/10.2307/2094935"
+    },
+    {
+      "type": "CHAP",
+      "authors": [
+        "Felson, Marcus"
+      ],
+      "keywords": [
+        "日常活動理論",
+        "Guardianship",
+        "Handler",
+        "Place manager",
+        "理論発展"
+      ],
+      "year": "1995",
+      "title": "Those Who Discourage Crime",
+      "first_page": "53",
+      "last_page": "66",
+      "publisher": "Criminal Justice Press",
+      "url": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/those-who-discourage-crime-crime-and-place-p-53-66-1995-john-e-eck"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Osgood, D. Wayne",
+        "Wilson, Janet K.",
+        "O'Malley, Patrick M.",
+        "Bachman, Jerald G.",
+        "Johnston, Lloyd D."
+      ],
+      "keywords": [
+        "日常活動理論",
+        "非構造的社会活動",
+        "非行",
+        "実証研究"
+      ],
+      "year": "1996",
+      "title": "Routine Activities and Individual Deviant Behavior",
+      "journal": "American Sociological Review",
+      "volume": "61",
+      "issue": "4",
+      "first_page": "635",
+      "last_page": "655",
+      "doi": "10.2307/2096397",
+      "url": "https://doi.org/10.2307/2096397"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Reynald, Danielle M."
+      ],
+      "keywords": [
+        "日常活動理論",
+        "Guardianship",
+        "監視",
+        "実証研究"
+      ],
+      "year": "2009",
+      "title": "Guardianship in Action: Developing a New Tool for Measurement",
+      "journal": "Crime Prevention and Community Safety",
+      "volume": "11",
+      "issue": "1",
+      "first_page": "1",
+      "last_page": "20",
+      "doi": "10.1057/cpcs.2008.19",
+      "url": "https://doi.org/10.1057/cpcs.2008.19"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "McNeeley, Susan"
+      ],
+      "keywords": [
+        "日常活動理論",
+        "ライフスタイル理論",
+        "レビュー",
+        "海外研究"
+      ],
+      "year": "2015",
+      "title": "Lifestyle-Routine Activities and Crime Events",
+      "journal": "Journal of Contemporary Criminal Justice",
+      "volume": "31",
+      "issue": "1",
+      "first_page": "30",
+      "last_page": "52",
+      "doi": "10.1177/1043986214552607",
+      "url": "https://doi.org/10.1177/1043986214552607"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Leukfeldt, Eric Rutger",
+        "Yar, Majid"
+      ],
+      "keywords": [
+        "日常活動理論",
+        "サイバー犯罪",
+        "実証研究",
+        "海外研究"
+      ],
+      "year": "2016",
+      "title": "Applying Routine Activity Theory to Cybercrime: A Theoretical and Empirical Analysis",
+      "journal": "Deviant Behavior",
+      "volume": "37",
+      "issue": "3",
+      "first_page": "263",
+      "last_page": "280",
+      "doi": "10.1080/01639625.2015.1012409",
+      "url": "https://doi.org/10.1080/01639625.2015.1012409"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Engström, Alexander"
+      ],
+      "keywords": [
+        "日常活動理論",
+        "ライフスタイル理論",
+        "システマティックレビュー",
+        "測定"
+      ],
+      "year": "2021",
+      "title": "Conceptualizing Lifestyle and Routine Activities in the Early 21st Century: A Systematic Review of Self-Report Measures in Studies on Direct-Contact Offenses in Young Populations",
+      "journal": "Crime & Delinquency",
+      "volume": "67",
+      "issue": "5",
+      "doi": "10.1177/0011128720937640",
+      "url": "https://doi.org/10.1177/0011128720937640"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Hayes, Brittany E.",
+        "Maher, Cooper A."
+      ],
+      "keywords": [
+        "日常活動理論",
+        "ライフスタイル理論",
+        "性暴力",
+        "システマティックレビュー",
+        "理論の限界"
+      ],
+      "year": "2024",
+      "title": "A Systematic Review of Lifestyle-Routine Activity Theory in the Context of Direct-Contact Sexual Victimization",
+      "journal": "Trauma, Violence, & Abuse",
+      "volume": "25",
+      "issue": "1",
+      "first_page": "369",
+      "last_page": "392",
+      "doi": "10.1177/15248380231153864",
+      "url": "https://doi.org/10.1177/15248380231153864"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "島田, 貴仁",
+        "大山, 智也"
+      ],
+      "keywords": [
+        "日常活動理論",
+        "構造的選択モデル",
+        "犯罪予防行動",
+        "日本研究",
+        "実証研究"
+      ],
+      "year": "2019",
+      "title": "日常活動－ライフスタイルと犯罪予防行動が犯罪被害に与える影響―構造的選択モデルの検証―",
+      "journal": "犯罪社会学研究",
+      "volume": "44",
+      "first_page": "98",
+      "last_page": "116",
+      "doi": "10.20621/jjscrim.44.0_98",
+      "url": "https://doi.org/10.20621/jjscrim.44.0_98"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "御田, 成顕",
+        "大地, 俊介",
+        "桑畑, 弘幸",
+        "尾分, 達也",
+        "藤掛, 一郎"
+      ],
+      "keywords": [
+        "日常活動理論",
+        "盗伐",
+        "森林犯罪",
+        "日本研究",
+        "事例研究"
+      ],
+      "year": "2019",
+      "title": "日常活動理論を用いた盗伐発生メカニズムの理解―宮崎県南部における事例―",
+      "journal": "日本森林学会誌",
+      "volume": "101",
+      "issue": "5",
+      "first_page": "207",
+      "last_page": "213",
+      "doi": "10.4005/jjfs.101.207",
+      "url": "https://doi.org/10.4005/jjfs.101.207"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Suzuki, Ai"
+      ],
+      "keywords": [
+        "日常活動理論",
+        "消費者詐欺",
+        "サイバー詐欺",
+        "日本研究",
+        "実証研究"
+      ],
+      "year": "2024",
+      "title": "Routine Activities and Consumer Fraud Victimization: Findings from a Social Survey in Chiba Prefecture, Japan",
+      "journal": "Crime Prevention and Community Safety",
+      "volume": "26",
+      "first_page": "373",
+      "last_page": "384",
+      "doi": "10.1057/s41300-024-00219-2",
+      "url": "https://doi.org/10.1057/s41300-024-00219-2"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Suzuki, Ai",
+        "Shikata, Ko",
+        "Shimada, Takahito"
+      ],
+      "keywords": [
+        "日常活動理論",
+        "一般犯罪理論",
+        "サイバー詐欺",
+        "日本研究",
+        "実証研究"
+      ],
+      "year": "2025",
+      "title": "Patterns and Predictors of Cyber Fraud Victimization: Testing Routine Activity Theory and General Theory of Crime in Japan",
+      "journal": "Journal of Economic Criminology",
+      "volume": "9",
+      "first_page": "100186",
+      "doi": "10.1016/j.jeconc.2025.100186",
+      "url": "https://doi.org/10.1016/j.jeconc.2025.100186"
+    }
+  ],
+  "protection-motivation-theory": [
+    {
+      "type": "JOUR",
+      "authors": [
+        "Rogers, Ronald W."
+      ],
+      "keywords": [
+        "防護動機理論",
+        "Protection Motivation Theory",
+        "原典",
+        "理論提唱",
+        "海外研究",
+        "脅威アピール",
+        "理論研究",
+        "行動変容"
+      ],
+      "year": "1975",
+      "title": "A Protection Motivation Theory of Fear Appeals and Attitude Change",
+      "journal": "The Journal of Psychology",
+      "volume": "91",
+      "issue": "1",
+      "first_page": "93",
+      "last_page": "114",
+      "doi": "10.1080/00223980.1975.9915803",
+      "url": "https://doi.org/10.1080/00223980.1975.9915803"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Rogers, Ronald W.",
+        "Mewborn, C. R."
+      ],
+      "keywords": [
+        "防護動機理論",
+        "実証研究",
+        "海外研究",
+        "脅威アピール",
+        "反応効果性",
+        "防御的回避",
+        "行動変容"
+      ],
+      "year": "1976",
+      "title": "Fear appeals and attitude change: Effects of a threat's noxiousness, probability of occurrence, and the efficacy of coping responses",
+      "journal": "Journal of Personality and Social Psychology",
+      "volume": "34",
+      "issue": "1",
+      "first_page": "54",
+      "last_page": "61",
+      "doi": "10.1037/0022-3514.34.1.54",
+      "url": "https://doi.org/10.1037/0022-3514.34.1.54"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Maddux, James E.",
+        "Rogers, Ronald W."
+      ],
+      "keywords": [
+        "防護動機理論",
+        "理論発展",
+        "実証研究",
+        "海外研究",
+        "自己効力感",
+        "脅威アピール",
+        "理論研究",
+        "行動変容"
+      ],
+      "year": "1983",
+      "title": "Protection motivation and self-efficacy: A revised theory of fear appeals and attitude change",
+      "journal": "Journal of Experimental Social Psychology",
+      "volume": "19",
+      "issue": "5",
+      "first_page": "469",
+      "last_page": "479",
+      "doi": "10.1016/0022-1031(83)90023-9",
+      "url": "https://doi.org/10.1016/0022-1031(83)90023-9"
+    },
+    {
+      "type": "CHAP",
+      "authors": [
+        "Rogers, Ronald W."
+      ],
+      "keywords": [
+        "防護動機理論",
+        "原典",
+        "理論発展",
+        "海外研究",
+        "脅威評価",
+        "対処評価",
+        "反応コスト",
+        "理論研究",
+        "行動変容"
+      ],
+      "year": "1983",
+      "title": "Cognitive and physiological processes in fear appeals and attitude change: A revised theory of protection motivation",
+      "first_page": "153",
+      "last_page": "176",
+      "publisher": "Guilford Press",
+      "url": "https://cir.nii.ac.jp/crid/1573387449065406592"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Floyd, Donna L.",
+        "Prentice-Dunn, Steven",
+        "Rogers, Ronald W."
+      ],
+      "keywords": [
+        "防護動機理論",
+        "メタ分析",
+        "レビュー",
+        "海外研究",
+        "健康行動",
+        "脅威評価",
+        "対処評価",
+        "行動変容"
+      ],
+      "year": "2000",
+      "title": "A Meta-Analysis of Research on Protection Motivation Theory",
+      "journal": "Journal of Applied Social Psychology",
+      "volume": "30",
+      "issue": "2",
+      "first_page": "407",
+      "last_page": "429",
+      "doi": "10.1111/j.1559-1816.2000.tb02323.x",
+      "url": "https://doi.org/10.1111/j.1559-1816.2000.tb02323.x"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Milne, Sarah",
+        "Sheeran, Paschal",
+        "Orbell, Sheina"
+      ],
+      "keywords": [
+        "防護動機理論",
+        "メタ分析",
+        "レビュー",
+        "海外研究",
+        "健康行動",
+        "行動意図",
+        "意図行動ギャップ",
+        "行動変容"
+      ],
+      "year": "2000",
+      "title": "Prediction and Intervention in Health-Related Behavior: A Meta-Analytic Review of Protection Motivation Theory",
+      "journal": "Journal of Applied Social Psychology",
+      "volume": "30",
+      "issue": "1",
+      "first_page": "106",
+      "last_page": "143",
+      "doi": "10.1111/j.1559-1816.2000.tb02308.x",
+      "url": "https://doi.org/10.1111/j.1559-1816.2000.tb02308.x"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Ruiter, Robert A. C.",
+        "Kessels, Loes T. E.",
+        "Peters, Gjalt-Jorn Y.",
+        "Kok, Gerjo"
+      ],
+      "keywords": [
+        "防護動機理論",
+        "レビュー",
+        "反証",
+        "海外研究",
+        "脅威アピール",
+        "自己効力感",
+        "反応効果性",
+        "行動変容"
+      ],
+      "year": "2014",
+      "title": "Sixty years of fear appeal research: Current state of the evidence",
+      "journal": "International Journal of Psychology",
+      "volume": "49",
+      "issue": "2",
+      "first_page": "63",
+      "last_page": "70",
+      "doi": "10.1002/ijop.12042",
+      "url": "https://doi.org/10.1002/ijop.12042"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Tannenbaum, Melanie B.",
+        "Hepler, Justin",
+        "Zimmerman, Rick S.",
+        "Saul, Lindsey",
+        "Jacobs, Samantha",
+        "Wilson, Kristina",
+        "Albarracín, Dolores"
+      ],
+      "keywords": [
+        "防護動機理論",
+        "メタ分析",
+        "反証",
+        "海外研究",
+        "脅威アピール",
+        "恐怖",
+        "行動変容",
+        "レビュー"
+      ],
+      "year": "2015",
+      "title": "Appealing to fear: A meta-analysis of fear appeal effectiveness and theories",
+      "journal": "Psychological Bulletin",
+      "volume": "141",
+      "issue": "6",
+      "first_page": "1178",
+      "last_page": "1204",
+      "doi": "10.1037/a0039729",
+      "url": "https://doi.org/10.1037/a0039729"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Sommestad, Teodor",
+        "Karlzén, Henrik",
+        "Hallberg, Jonas"
+      ],
+      "keywords": [
+        "防護動機理論",
+        "メタ分析",
+        "海外研究",
+        "サイバー犯罪",
+        "情報セキュリティ",
+        "行動特異性",
+        "レビュー",
+        "行動変容",
+        "犯罪予防"
+      ],
+      "year": "2015",
+      "title": "A Meta-Analysis of Studies on Protection Motivation Theory and Information Security Behaviour",
+      "journal": "International Journal of Information Security and Privacy",
+      "volume": "9",
+      "issue": "1",
+      "first_page": "26",
+      "last_page": "46",
+      "doi": "10.4018/IJISP.2015010102",
+      "url": "https://doi.org/10.4018/IJISP.2015010102"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Clubb, Audrey C.",
+        "Hinkle, Joshua C."
+      ],
+      "keywords": [
+        "防護動機理論",
+        "理論発展",
+        "海外研究",
+        "犯罪予防",
+        "Victimization",
+        "防犯行動",
+        "protective measures",
+        "理論研究",
+        "行動変容"
+      ],
+      "year": "2015",
+      "title": "Protection motivation theory as a theoretical framework for understanding the use of protective measures",
+      "journal": "Criminal Justice Studies",
+      "volume": "28",
+      "issue": "3",
+      "first_page": "336",
+      "last_page": "355",
+      "doi": "10.1080/1478601X.2015.1050590",
+      "url": "https://doi.org/10.1080/1478601X.2015.1050590"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Jansen, Jurjen",
+        "van Schaik, Paul"
+      ],
+      "keywords": [
+        "防護動機理論",
+        "実証研究",
+        "海外研究",
+        "サイバー犯罪",
+        "オンラインバンキング",
+        "詐欺",
+        "自己効力感",
+        "反応効果性",
+        "行動変容",
+        "犯罪予防"
+      ],
+      "year": "2018",
+      "title": "Testing a model of precautionary online behaviour: The case of online banking",
+      "journal": "Computers in Human Behavior",
+      "volume": "87",
+      "first_page": "371",
+      "last_page": "383",
+      "doi": "10.1016/j.chb.2018.05.010",
+      "url": "https://doi.org/10.1016/j.chb.2018.05.010"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Mou, Jian",
+        "Cohen, Jason F.",
+        "Bhattacherjee, Anol",
+        "Kim, Jongki"
+      ],
+      "keywords": [
+        "防護動機理論",
+        "メタ分析",
+        "海外研究",
+        "サイバー犯罪",
+        "情報セキュリティ",
+        "MASEM",
+        "自己効力感",
+        "反応効果性",
+        "レビュー",
+        "行動変容",
+        "犯罪予防"
+      ],
+      "year": "2022",
+      "title": "A Test of Protection Motivation Theory in the Information Security Literature: A Meta-Analytic Structural Equation Modeling Approach",
+      "journal": "Journal of the Association for Information Systems",
+      "volume": "23",
+      "issue": "1",
+      "first_page": "196",
+      "last_page": "236",
+      "doi": "10.17705/1jais.00723",
+      "url": "https://doi.org/10.17705/1jais.00723"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Dodge, Cassandra E.",
+        "Fisk, Nathan",
+        "Burruss, George W.",
+        "Moule, Richard K., Jr.",
+        "Jaynes, Chae M."
+      ],
+      "keywords": [
+        "防護動機理論",
+        "実証研究",
+        "海外研究",
+        "サイバー犯罪",
+        "サイバーセキュリティ",
+        "実験",
+        "反応コスト",
+        "自己効力感",
+        "行動変容",
+        "犯罪予防"
+      ],
+      "year": "2023",
+      "title": "What motivates users to adopt cybersecurity practices? A survey experiment assessing protection motivation theory",
+      "journal": "Criminology & Public Policy",
+      "volume": "22",
+      "issue": "4",
+      "first_page": "849",
+      "last_page": "868",
+      "doi": "10.1111/1745-9133.12641",
+      "url": "https://doi.org/10.1111/1745-9133.12641"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Balla, Jessica",
+        "Hagger, Martin S."
+      ],
+      "keywords": [
+        "防護動機理論",
+        "レビュー",
+        "反証",
+        "限界",
+        "海外研究",
+        "測定",
+        "因果推論",
+        "理論検証",
+        "行動変容"
+      ],
+      "year": "2025",
+      "title": "Protection motivation theory and health behaviour: Conceptual review, discussion of limitations, and recommendations for best practice and future research",
+      "journal": "Health Psychology Review",
+      "volume": "19",
+      "issue": "1",
+      "first_page": "145",
+      "last_page": "171",
+      "doi": "10.1080/17437199.2024.2413011",
+      "url": "https://doi.org/10.1080/17437199.2024.2413011"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Burruss, George W.",
+        "Weber, Courtney L.",
+        "Fisher, Taylor"
+      ],
+      "keywords": [
+        "防護動機理論",
+        "実証研究",
+        "海外研究",
+        "サイバー犯罪",
+        "フィッシング",
+        "ランダム化実験",
+        "反応効果性",
+        "反応コスト",
+        "RCT",
+        "行動変容",
+        "犯罪予防"
+      ],
+      "year": "2026",
+      "title": "Video-based cybersecurity training and protection motivation: Evidence from a randomized experiment",
+      "journal": "Journal of Experimental Criminology",
+      "doi": "10.1007/s11292-026-09764-2",
+      "url": "https://doi.org/10.1007/s11292-026-09764-2"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "木村, 堅一"
+      ],
+      "keywords": [
+        "防護動機理論",
+        "国内研究",
+        "実証研究",
+        "脅威アピール",
+        "反応効果性",
+        "自己効力感",
+        "反応コスト",
+        "日本研究",
+        "行動変容"
+      ],
+      "year": "2000",
+      "title": "説得に及ぼす脅威アピールの効果―防護動機理論からの検討―",
+      "journal": "実験社会心理学研究",
+      "volume": "39",
+      "issue": "2",
+      "first_page": "135",
+      "last_page": "149",
+      "doi": "10.2130/jjesp.39.135",
+      "url": "https://doi.org/10.2130/jjesp.39.135"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "島田, 貴仁",
+        "荒井, 崇史"
+      ],
+      "keywords": [
+        "防護動機理論",
+        "国内研究",
+        "実証研究",
+        "犯罪予防",
+        "性犯罪",
+        "警察広報",
+        "脅威アピール",
+        "反応効果性",
+        "日本研究",
+        "行動変容"
+      ],
+      "year": "2012",
+      "title": "犯罪情報と対処行動の効果性が犯罪対処行動意図に与える影響",
+      "journal": "心理学研究",
+      "volume": "82",
+      "issue": "6",
+      "first_page": "523",
+      "last_page": "531",
+      "doi": "10.4992/jjpsy.82.523",
+      "url": "https://doi.org/10.4992/jjpsy.82.523"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "島田, 貴仁",
+        "荒井, 崇史"
+      ],
+      "keywords": [
+        "防護動機理論",
+        "国内研究",
+        "実証研究",
+        "犯罪予防",
+        "自転車盗",
+        "フィールド実験",
+        "Victimization",
+        "行動維持",
+        "日本研究",
+        "行動変容"
+      ],
+      "year": "2017",
+      "title": "脅威アピールでの被害の記述と受け手の脆弱性が犯罪予防行動に与える影響",
+      "journal": "心理学研究",
+      "volume": "88",
+      "issue": "3",
+      "first_page": "230",
+      "last_page": "240",
+      "doi": "10.4992/jjpsy.88.16032",
+      "url": "https://doi.org/10.4992/jjpsy.88.16032"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "白川, 真裕",
+        "島田, 貴仁",
+        "樋口, 匡貴"
+      ],
+      "keywords": [
+        "防護動機理論",
+        "国内研究",
+        "実証研究",
+        "犯罪予防",
+        "特殊詐欺",
+        "警察広報",
+        "Twitter",
+        "行動意図",
+        "意図行動ギャップ",
+        "日本研究",
+        "行動変容"
+      ],
+      "year": "2023",
+      "title": "公的機関の犯罪予防のための情報発信の実験的研究―防護動機理論に基づく実装と効果検証―",
+      "journal": "心理学研究",
+      "volume": "93",
+      "issue": "6",
+      "first_page": "516",
+      "last_page": "525",
+      "doi": "10.4992/jjpsy.93.21044",
+      "url": "https://doi.org/10.4992/jjpsy.93.21044"
+    }
+  ],
+  "cpted": [
+    {
+      "type": "BOOK",
+      "authors": [
+        "Jeffery, C. Ray"
+      ],
+      "keywords": [
+        "CPTED",
+        "原典",
+        "海外研究",
+        "理論",
+        "理論研究",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "1971",
+      "title": "Crime Prevention Through Environmental Design",
+      "publisher": "Sage Publications",
+      "url": "https://openlibrary.org/books/OL5077532M/Crime_prevention_through_environmental_design"
+    },
+    {
+      "type": "BOOK",
+      "authors": [
+        "Newman, Oscar"
+      ],
+      "keywords": [
+        "CPTED",
+        "Defensible Space",
+        "原典",
+        "海外研究",
+        "領域性",
+        "自然監視",
+        "理論研究",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "1972",
+      "title": "Defensible Space: Crime Prevention Through Urban Design",
+      "publisher": "Macmillan",
+      "url": "https://ndlsearch.ndl.go.jp/en/books/R100000002-I000006286044"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Moffat, R. E."
+      ],
+      "keywords": [
+        "CPTED",
+        "理論発展",
+        "海外研究",
+        "監視性",
+        "領域性",
+        "アクセス管理",
+        "理論研究",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "1983",
+      "title": "Crime Prevention Through Environmental Design: A Management Perspective",
+      "journal": "Canadian Journal of Criminology",
+      "volume": "25",
+      "issue": "1",
+      "first_page": "19",
+      "last_page": "31",
+      "doi": "10.3138/cjcrim.25.1.19",
+      "url": "https://doi.org/10.3138/cjcrim.25.1.19"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Cozens, Paul M.",
+        "Saville, Gregory",
+        "Hillier, David"
+      ],
+      "keywords": [
+        "CPTED",
+        "レビュー",
+        "海外研究",
+        "理論評価",
+        "反証",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2005",
+      "title": "Crime Prevention Through Environmental Design (CPTED): A Review and Modern Bibliography",
+      "journal": "Property Management",
+      "volume": "23",
+      "issue": "5",
+      "first_page": "328",
+      "last_page": "356",
+      "doi": "10.1108/02637470510631483",
+      "url": "https://doi.org/10.1108/02637470510631483"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Ekblom, Paul"
+      ],
+      "keywords": [
+        "CPTED",
+        "理論発展",
+        "反証",
+        "海外研究",
+        "概念整理",
+        "理論研究",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2011",
+      "title": "Deconstructing CPTED… and Reconstructing It for Practice, Knowledge Management and Research",
+      "journal": "European Journal on Criminal Policy and Research",
+      "volume": "17",
+      "issue": "1",
+      "first_page": "7",
+      "last_page": "28",
+      "doi": "10.1007/s10610-010-9132-9",
+      "url": "https://doi.org/10.1007/s10610-010-9132-9"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Cozens, Paul",
+        "Love, Terence"
+      ],
+      "keywords": [
+        "CPTED",
+        "レビュー",
+        "理論発展",
+        "海外研究",
+        "第二世代CPTED",
+        "反証",
+        "理論研究",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2015",
+      "title": "A Review and Current Status of Crime Prevention through Environmental Design (CPTED)",
+      "journal": "Journal of Planning Literature",
+      "volume": "30",
+      "issue": "4",
+      "first_page": "393",
+      "last_page": "412",
+      "doi": "10.1177/0885412215595440",
+      "url": "https://doi.org/10.1177/0885412215595440"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Mihinjac, Mateja",
+        "Saville, Gregory"
+      ],
+      "keywords": [
+        "CPTED",
+        "理論発展",
+        "海外研究",
+        "第三世代CPTED",
+        "liveability",
+        "sustainability",
+        "理論研究",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2019",
+      "title": "Third-Generation Crime Prevention Through Environmental Design (CPTED)",
+      "journal": "Social Sciences",
+      "volume": "8",
+      "issue": "6",
+      "first_page": "182",
+      "doi": "10.3390/socsci8060182",
+      "url": "https://doi.org/10.3390/socsci8060182"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Casteel, Carri",
+        "Peek-Asa, Corinne"
+      ],
+      "keywords": [
+        "CPTED",
+        "システマティックレビュー",
+        "海外研究",
+        "強盗",
+        "店舗防犯",
+        "レビュー",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2000",
+      "title": "Effectiveness of Crime Prevention Through Environmental Design (CPTED) in Reducing Robberies",
+      "journal": "American Journal of Preventive Medicine",
+      "volume": "18",
+      "issue": "4 Suppl",
+      "first_page": "99",
+      "last_page": "115",
+      "doi": "10.1016/S0749-3797(00)00146-X",
+      "url": "https://doi.org/10.1016/S0749-3797(00)00146-X"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Sidebottom, Aiden",
+        "Tompson, Lisa",
+        "Thornton, Amy",
+        "Bullock, Karen",
+        "Tilley, Nick",
+        "Bowers, Kate",
+        "Johnson, Shane D."
+      ],
+      "keywords": [
+        "CPTED",
+        "メタ分析",
+        "システマティックレビュー",
+        "海外研究",
+        "侵入窃盗",
+        "アクセス管理",
+        "EMMIE",
+        "レビュー",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2018",
+      "title": "Gating Alleys to Reduce Crime: A Meta-Analysis and Realist Synthesis",
+      "journal": "Justice Quarterly",
+      "volume": "35",
+      "issue": "1",
+      "first_page": "55",
+      "last_page": "86",
+      "doi": "10.1080/07418825.2017.1293135",
+      "url": "https://doi.org/10.1080/07418825.2017.1293135"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Piza, Eric L.",
+        "Welsh, Brandon C.",
+        "Farrington, David P.",
+        "Thomas, Amanda L."
+      ],
+      "keywords": [
+        "CPTED",
+        "システマティックレビュー",
+        "メタ分析",
+        "海外研究",
+        "CCTV",
+        "監視性",
+        "財産犯",
+        "レビュー",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2019",
+      "title": "CCTV Surveillance for Crime Prevention: A 40-Year Systematic Review with Meta-Analysis",
+      "journal": "Criminology & Public Policy",
+      "volume": "18",
+      "issue": "1",
+      "first_page": "135",
+      "last_page": "159",
+      "doi": "10.1111/1745-9133.12419",
+      "url": "https://doi.org/10.1111/1745-9133.12419"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Welsh, Brandon C.",
+        "Farrington, David P.",
+        "Douglas, Stephen"
+      ],
+      "keywords": [
+        "CPTED",
+        "システマティックレビュー",
+        "メタ分析",
+        "海外研究",
+        "街路照明",
+        "監視性",
+        "財産犯",
+        "レビュー",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2022",
+      "title": "The Impact and Policy Relevance of Street Lighting for Crime Prevention: A Systematic Review Based on a Half-Century of Evaluation Research",
+      "journal": "Criminology & Public Policy",
+      "volume": "21",
+      "issue": "3",
+      "first_page": "739",
+      "last_page": "765",
+      "doi": "10.1111/1745-9133.12585",
+      "url": "https://doi.org/10.1111/1745-9133.12585"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Chalfin, Aaron",
+        "Hansen, Benjamin",
+        "Lerner, Jason",
+        "Parker, Lucie"
+      ],
+      "keywords": [
+        "CPTED",
+        "実証研究",
+        "RCT",
+        "海外研究",
+        "街路照明",
+        "暴力犯罪",
+        "公共住宅",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2022",
+      "title": "Reducing Crime Through Environmental Design: Evidence from a Randomized Experiment of Street Lighting in New York City",
+      "journal": "Journal of Quantitative Criminology",
+      "volume": "38",
+      "issue": "1",
+      "first_page": "127",
+      "last_page": "157",
+      "doi": "10.1007/s10940-020-09490-6",
+      "url": "https://doi.org/10.1007/s10940-020-09490-6"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Curtis-Ham, Sophie",
+        "Cantal, Clara",
+        "Gravitas Research Ltd."
+      ],
+      "keywords": [
+        "CPTED",
+        "実証研究",
+        "RCT",
+        "反証",
+        "海外研究",
+        "侵入窃盗",
+        "再被害",
+        "対象物強化",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2023",
+      "title": "Locks, Lights, and Lines of Sight: An RCT Evaluating the Impact of a CPTED Intervention on Repeat Burglary Victimisation",
+      "journal": "Journal of Experimental Criminology",
+      "volume": "19",
+      "issue": "2",
+      "first_page": "397",
+      "last_page": "424",
+      "doi": "10.1007/s11292-021-09494-7",
+      "url": "https://doi.org/10.1007/s11292-021-09494-7"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Senna, Isangelo",
+        "Iglesias, Fabio",
+        "Matsunaga, Lucas Heiki"
+      ],
+      "keywords": [
+        "CPTED",
+        "実証研究",
+        "海外研究",
+        "犯罪不安",
+        "自然監視",
+        "領域性",
+        "公共空間",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2025",
+      "title": "Measuring the Effects of Crime Prevention Through Environmental Design (CPTED) on Fear of Crime in Public Spaces",
+      "journal": "Crime Prevention and Community Safety",
+      "volume": "27",
+      "first_page": "1",
+      "last_page": "17",
+      "doi": "10.1057/s41300-025-00223-0",
+      "url": "https://doi.org/10.1057/s41300-025-00223-0"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Widmark, Jens"
+      ],
+      "keywords": [
+        "CPTED",
+        "システマティックレビュー",
+        "メタ分析",
+        "海外研究",
+        "住宅地",
+        "財産犯",
+        "暴力犯罪",
+        "レビュー",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2026",
+      "title": "Crime Prevention in Residential Areas: A Systematic Review and Meta-Analysis of Environmental Design Approaches",
+      "journal": "European Journal on Criminal Policy and Research",
+      "volume": "32",
+      "first_page": "943",
+      "last_page": "971",
+      "doi": "10.1007/s10610-026-09659-y",
+      "url": "https://doi.org/10.1007/s10610-026-09659-y"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Widmark, Jens"
+      ],
+      "keywords": [
+        "CPTED",
+        "実証研究",
+        "差の差法",
+        "反証",
+        "海外研究",
+        "住宅地",
+        "屋外犯罪",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2026",
+      "title": "Estimating the Effects of Outdoor Crime Prevention Interventions Using a Staggered Difference-in-Differences Model",
+      "journal": "Crime Prevention and Community Safety",
+      "volume": "28",
+      "first_page": "25",
+      "last_page": "40",
+      "doi": "10.1057/s41300-026-00233-6",
+      "url": "https://doi.org/10.1057/s41300-026-00233-6"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "MacDonald, John M.",
+        "Chalfin, Aaron",
+        "Moritz, Maya",
+        "Wade, Brian",
+        "Mendlein, Alyssa K.",
+        "Braga, Anthony A.",
+        "South, Eugenia"
+      ],
+      "keywords": [
+        "CPTED",
+        "実証研究",
+        "差の差法",
+        "海外研究",
+        "街路照明",
+        "銃犯罪",
+        "大規模実装",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2026",
+      "title": "Can Enhanced Street Lighting Improve Public Safety at Scale?",
+      "journal": "Criminology & Public Policy",
+      "volume": "25",
+      "issue": "1",
+      "first_page": "31",
+      "last_page": "62",
+      "doi": "10.1111/1745-9133.70006",
+      "url": "https://doi.org/10.1111/1745-9133.70006"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Amemiya, Mamoru",
+        "Hino, Kimihiro"
+      ],
+      "keywords": [
+        "CPTED",
+        "国内研究",
+        "レビュー",
+        "防犯まちづくり",
+        "第二世代CPTED",
+        "日本研究",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2007",
+      "title": "英米における「防犯まちづくり」の理論の系譜と近年の動向",
+      "journal": "都市計画報告集",
+      "volume": "6",
+      "issue": "3",
+      "first_page": "100",
+      "last_page": "107",
+      "doi": "10.11361/reportscpij.6.3_100",
+      "url": "https://doi.org/10.11361/reportscpij.6.3_100"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Noda, Daisuke",
+        "Murosaki, Yoshiteru",
+        "Takamatsu, Takachika"
+      ],
+      "keywords": [
+        "CPTED",
+        "国内研究",
+        "実証研究",
+        "歩行者",
+        "街路",
+        "犯罪不安",
+        "日本研究",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "1999",
+      "title": "防犯環境設計に関する研究：都市における歩行者経路属性と犯罪の関係について",
+      "journal": "都市計画論文集",
+      "volume": "34",
+      "first_page": "781",
+      "last_page": "786",
+      "doi": "10.11361/journalcpij.34.781",
+      "url": "https://doi.org/10.11361/journalcpij.34.781"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Nagaie, Tadashi",
+        "Inohae, Takuro",
+        "Hokao, Kazunori"
+      ],
+      "keywords": [
+        "CPTED",
+        "国内研究",
+        "実証研究",
+        "犯罪不安",
+        "Space Syntax",
+        "監視性",
+        "領域性",
+        "日本研究",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2007",
+      "title": "防犯環境設計における監視性、領域性の特性評価及び犯罪不安の関連について：スペースシンタックス理論におけるアクシャルラインとイソビスタを用いて",
+      "journal": "都市計画論文集",
+      "volume": "42.3",
+      "first_page": "505",
+      "last_page": "510",
+      "doi": "10.11361/journalcpij.42.3.505",
+      "url": "https://doi.org/10.11361/journalcpij.42.3.505"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Matsumoto, Yoshihiko",
+        "Kashiwagi, Yusuke"
+      ],
+      "keywords": [
+        "CPTED",
+        "国内研究",
+        "実証研究",
+        "侵入窃盗",
+        "自然監視",
+        "戸建住宅",
+        "地域差",
+        "日本研究",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2023",
+      "title": "戸建住宅の侵入窃盗被害に関する研究（その1）：侵入開口部と道路との位置関係における地域性の事例検討",
+      "journal": "日本建築学会計画系論文集",
+      "volume": "88",
+      "issue": "806",
+      "first_page": "1358",
+      "last_page": "1365",
+      "doi": "10.3130/aija.88.1358",
+      "url": "https://doi.org/10.3130/aija.88.1358"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Matsumoto, Yoshihiko",
+        "Kashiwagi, Yusuke"
+      ],
+      "keywords": [
+        "CPTED",
+        "国内研究",
+        "実証研究",
+        "侵入窃盗",
+        "対象物強化",
+        "CPガラス",
+        "手口転換",
+        "日本研究",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2023",
+      "title": "戸建住宅の侵入窃盗被害に関する研究（その2）：開口部防犯対策効果の検討",
+      "journal": "日本建築学会計画系論文集",
+      "volume": "88",
+      "issue": "814",
+      "first_page": "3334",
+      "last_page": "3340",
+      "doi": "10.3130/aija.88.3334",
+      "url": "https://doi.org/10.3130/aija.88.3334"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Matsumoto, Yoshihiko",
+        "Kashiwagi, Yusuke"
+      ],
+      "keywords": [
+        "CPTED",
+        "国内研究",
+        "実証研究",
+        "侵入窃盗",
+        "ライフスタイル",
+        "住宅設計",
+        "日常活動",
+        "日本研究",
+        "犯罪予防",
+        "防犯環境設計",
+        "環境犯罪学"
+      ],
+      "year": "2024",
+      "title": "戸建住宅の侵入窃盗被害に関する研究（その3）：居住者のライフスタイルと住宅設計の侵入リスクへの影響",
+      "journal": "日本建築学会計画系論文集",
+      "volume": "89",
+      "issue": "821",
+      "first_page": "1352",
+      "last_page": "1357",
+      "doi": "10.3130/aija.89.1352",
+      "url": "https://doi.org/10.3130/aija.89.1352"
+    }
+  ],
+  "ebp": [
+    {
+      "type": "RPRT",
+      "authors": [
+        "Sherman, Lawrence W."
+      ],
+      "keywords": [
+        "EBP",
+        "原典",
+        "海外研究",
+        "警察"
+      ],
+      "year": "1998",
+      "title": "Evidence-Based Policing",
+      "publisher": "Police Foundation",
+      "url": "https://www.policinginstitute.org/publication/evidence-based-policing/"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Sherman, Lawrence W."
+      ],
+      "keywords": [
+        "EBP",
+        "理論発展",
+        "海外研究",
+        "Targeting",
+        "Testing",
+        "Tracking"
+      ],
+      "year": "2013",
+      "title": "The Rise of Evidence-Based Policing: Targeting, Testing, and Tracking",
+      "journal": "Crime and Justice",
+      "volume": "42",
+      "first_page": "377",
+      "last_page": "451",
+      "doi": "10.1086/670819",
+      "url": "https://doi.org/10.1086/670819"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Lum, Cynthia",
+        "Koper, Christopher S.",
+        "Telep, Cody W."
+      ],
+      "keywords": [
+        "EBP",
+        "理論発展",
+        "海外研究",
+        "Evidence-Based Policing Matrix"
+      ],
+      "year": "2011",
+      "title": "The Evidence-Based Policing Matrix",
+      "journal": "Journal of Experimental Criminology",
+      "volume": "7",
+      "issue": "1",
+      "first_page": "3",
+      "last_page": "26",
+      "doi": "10.1007/s11292-010-9108-2",
+      "url": "https://doi.org/10.1007/s11292-010-9108-2"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Koper, Christopher S.",
+        "Lum, Cynthia",
+        "Telep, Cody W.",
+        "Petersen, Kevin"
+      ],
+      "keywords": [
+        "EBP",
+        "レビュー",
+        "海外研究",
+        "最近5年",
+        "Evidence-Based Policing Matrix"
+      ],
+      "year": "2025",
+      "title": "The evidence-based policing matrix at 14 years",
+      "journal": "Journal of Experimental Criminology",
+      "doi": "10.1007/s11292-025-09725-1",
+      "url": "https://doi.org/10.1007/s11292-025-09725-1"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Braga, Anthony A.",
+        "Turchan, Brandon",
+        "Papachristos, Andrew V.",
+        "Hureau, David M."
+      ],
+      "keywords": [
+        "EBP",
+        "システマティックレビュー",
+        "メタ分析",
+        "海外研究",
+        "Hot spots policing",
+        "犯罪予防"
+      ],
+      "year": "2019",
+      "title": "Hot spots policing of small geographic areas effects on crime",
+      "journal": "Campbell Systematic Reviews",
+      "volume": "15",
+      "first_page": "e1046",
+      "doi": "10.1002/cl2.1046",
+      "url": "https://doi.org/10.1002/cl2.1046"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Hinkle, Joshua C.",
+        "Weisburd, David",
+        "Telep, Cody W.",
+        "Petersen, Kevin"
+      ],
+      "keywords": [
+        "EBP",
+        "システマティックレビュー",
+        "メタ分析",
+        "海外研究",
+        "Problem-Oriented Policing",
+        "SARA"
+      ],
+      "year": "2020",
+      "title": "Problem-oriented policing for reducing crime and disorder: An updated systematic review and meta-analysis",
+      "journal": "Campbell Systematic Reviews",
+      "volume": "16",
+      "issue": "2",
+      "first_page": "e1089",
+      "doi": "10.1002/cl2.1089",
+      "url": "https://doi.org/10.1002/cl2.1089"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Mazerolle, Lorraine",
+        "Bennett, Sarah",
+        "Davis, Jacqueline",
+        "Sargeant, Elise",
+        "Manning, Matthew"
+      ],
+      "keywords": [
+        "EBP",
+        "システマティックレビュー",
+        "海外研究",
+        "Procedural Justice",
+        "Police Legitimacy"
+      ],
+      "year": "2013",
+      "title": "Legitimacy in Policing: A Systematic Review",
+      "journal": "Campbell Systematic Reviews",
+      "volume": "9",
+      "issue": "1",
+      "first_page": "i",
+      "last_page": "147",
+      "doi": "10.4073/csr.2013.1",
+      "url": "https://doi.org/10.4073/csr.2013.1"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Wood, George",
+        "Tyler, Tom R.",
+        "Papachristos, Andrew V."
+      ],
+      "keywords": [
+        "EBP",
+        "実証研究",
+        "海外研究",
+        "Procedural Justice",
+        "Police Training"
+      ],
+      "year": "2020",
+      "title": "Procedural justice training reduces police use of force and complaints against officers",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "volume": "117",
+      "issue": "18",
+      "first_page": "9815",
+      "last_page": "9821",
+      "doi": "10.1073/pnas.1920671117",
+      "url": "https://doi.org/10.1073/pnas.1920671117"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Weisburd, David",
+        "Telep, Cody W.",
+        "Vovak, Heather",
+        "Zastrow, Taryn",
+        "Braga, Anthony A.",
+        "Turchan, Brandon"
+      ],
+      "keywords": [
+        "EBP",
+        "実証研究",
+        "RCT",
+        "海外研究",
+        "最近5年",
+        "Procedural Justice",
+        "Hot spots policing"
+      ],
+      "year": "2022",
+      "title": "Reforming the police through procedural justice training: A multicity randomized trial at crime hot spots",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "volume": "119",
+      "issue": "14",
+      "first_page": "e2118780119",
+      "doi": "10.1073/pnas.2118780119",
+      "url": "https://doi.org/10.1073/pnas.2118780119"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Roach, Jason",
+        "Weir, Kevin",
+        "Phillips, Paul",
+        "Gaskell, Karen",
+        "Walton, Miles"
+      ],
+      "keywords": [
+        "ナッジ",
+        "実証研究",
+        "海外研究",
+        "車上ねらい",
+        "犯罪予防"
+      ],
+      "year": "2017",
+      "title": "Nudging down theft from insecure vehicles: A pilot study",
+      "journal": "International Journal of Police Science & Management",
+      "volume": "19",
+      "issue": "1",
+      "first_page": "31",
+      "last_page": "38",
+      "doi": "10.1177/1461355716677876",
+      "url": "https://doi.org/10.1177/1461355716677876"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Crowe, Andrew",
+        "Cooper, John",
+        "Roach, Jason"
+      ],
+      "keywords": [
+        "ナッジ",
+        "実証研究",
+        "RCT",
+        "海外研究",
+        "最近5年",
+        "侵入窃盗",
+        "MINDSPACE",
+        "EAST"
+      ],
+      "year": "2024",
+      "title": "Nudging down residential burglaries: A randomized control trial",
+      "journal": "Policing: A Journal of Policy and Practice",
+      "volume": "18",
+      "first_page": "paae068",
+      "doi": "10.1093/police/paae068",
+      "url": "https://doi.org/10.1093/police/paae068"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Mertens, Stephanie",
+        "Herberz, Mario",
+        "Hahnel, Ulf J. J.",
+        "Brosch, Tobias"
+      ],
+      "keywords": [
+        "ナッジ",
+        "メタ分析",
+        "海外研究",
+        "最近5年",
+        "Choice Architecture",
+        "Publication Bias"
+      ],
+      "year": "2022",
+      "title": "The effectiveness of nudging: A meta-analysis of choice architecture interventions across behavioral domains",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "volume": "119",
+      "issue": "1",
+      "first_page": "e2107346118",
+      "doi": "10.1073/pnas.2107346118",
+      "url": "https://doi.org/10.1073/pnas.2107346118"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Maier, Maximilian",
+        "Bartoš, František",
+        "Stanley, T. D.",
+        "Shanks, David R.",
+        "Harris, Adam J. L.",
+        "Wagenmakers, Eric-Jan"
+      ],
+      "keywords": [
+        "ナッジ",
+        "反証",
+        "海外研究",
+        "最近5年",
+        "Publication Bias"
+      ],
+      "year": "2022",
+      "title": "No evidence for nudging after adjusting for publication bias",
+      "journal": "Proceedings of the National Academy of Sciences",
+      "volume": "119",
+      "issue": "31",
+      "first_page": "e2200300119",
+      "doi": "10.1073/pnas.2200300119",
+      "url": "https://doi.org/10.1073/pnas.2200300119"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Shimada, Takahito"
+      ],
+      "keywords": [
+        "EBP",
+        "国内研究",
+        "最近5年",
+        "犯罪予防",
+        "翻訳犯罪学",
+        "ロジックモデル",
+        "研究者実務家協働"
+      ],
+      "year": "2025",
+      "title": "犯罪の一次予防におけるエビデンスの創出と普及—研究者と実務家の協働による理論と実践の循環へ—",
+      "journal": "犯罪心理学研究",
+      "volume": "62",
+      "issue": "S",
+      "first_page": "73",
+      "last_page": "85",
+      "doi": "10.20754/jjcp.62.S_73",
+      "url": "https://doi.org/10.20754/jjcp.62.S_73"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "Suzuki, Ai",
+        "Shimada, Takahito"
+      ],
+      "keywords": [
+        "ナッジ",
+        "実証研究",
+        "国内研究",
+        "最近5年",
+        "自転車盗",
+        "準実験",
+        "施錠行動"
+      ],
+      "year": "2026",
+      "title": "Impact of Antitheft Nudging Signage on Bicycle Owners’ Locking Behavior: A Quasi-Experimental Study in Rural Japan",
+      "journal": "International Criminal Justice Review",
+      "volume": "36",
+      "issue": "3",
+      "first_page": "269",
+      "last_page": "293",
+      "doi": "10.1177/10575677251405837",
+      "url": "https://doi.org/10.1177/10575677251405837"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "大井, 方子",
+        "林, 良平",
+        "島田, 貴仁",
+        "日比野, 桂",
+        "三船, 恒裕",
+        "渡邊, ひとみ",
+        "山川, 智子",
+        "近藤, 秀明",
+        "新土居, 大河",
+        "田村, のぞみ"
+      ],
+      "keywords": [
+        "ナッジ",
+        "実証研究",
+        "反証",
+        "国内研究",
+        "最近5年",
+        "自転車盗",
+        "クラスターRCT",
+        "施錠行動"
+      ],
+      "year": "2025",
+      "title": "自転車施錠行動の直接的規定要因とポスター介入の効果",
+      "journal": "行動経済学",
+      "volume": "18",
+      "issue": "Special_issue",
+      "first_page": "S1",
+      "last_page": "S4",
+      "doi": "10.11167/jbef.18.S10.pp.S1-S4",
+      "url": "https://doi.org/10.11167/jbef.18.S10.pp.S1-S4"
+    },
+    {
+      "type": "CONF",
+      "authors": [
+        "金子, 侑生",
+        "荒井, 崇史",
+        "齋藤, 知範"
+      ],
+      "keywords": [
+        "ナッジ",
+        "国内研究",
+        "最近5年",
+        "犯罪予防",
+        "情報探索",
+        "学会発表"
+      ],
+      "year": "2023",
+      "title": "犯罪予防に関する情報探索行動の促進要因―ナッジ理論に基づいた検討―",
+      "doi": "10.4992/pacjpa.87.0_1C-047-PE",
+      "url": "https://doi.org/10.4992/pacjpa.87.0_1C-047-PE"
+    },
+    {
+      "type": "JOUR",
+      "authors": [
+        "石原, 周太郎",
+        "寺尾, 隆",
+        "竹本, 拓治"
+      ],
+      "keywords": [
+        "ナッジ",
+        "国内研究",
+        "最近5年",
+        "SNS型詐欺",
+        "防犯啓発"
+      ],
+      "year": "2025",
+      "title": "SNS型詐欺の被害防止に向けた啓発ポスターの制作とナッジ要素の検証―福井大学における行動経済学教育の実践報告―",
+      "journal": "パーソナルファイナンス研究",
+      "volume": "12",
+      "first_page": "19",
+      "last_page": "34",
+      "doi": "10.20752/japf.12.0_19",
+      "url": "https://doi.org/10.20752/japf.12.0_19"
+    }
+  ]
+}

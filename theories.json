@@ -1,14 +1,38 @@
 [
   {
-    "id":"routine-activity-theory", "ja":"日常活動理論", "en":"Routine Activity Theory", "short":"犯罪の機会が成立する条件を考えるための理論。", "slide_status":"pending", "source_status":"スライド原本未受領"
+    "id": "routine-activity-theory",
+    "ja": "日常活動理論",
+    "en": "Routine Activity Theory",
+    "short": "犯罪が起こる機会の条件を整理し、場所・時間・対象・監視の状態から介入を考える理論。",
+    "slide_status": "published",
+    "reference_file": "routine_activity_theory_13_references.ris",
+    "source_status": "添付された3枚スライドを掲載。参考文献は添付RISの登録情報を収録。"
   },
   {
-    "id":"rational-choice-theory", "ja":"合理的選択理論", "en":"Rational Choice Perspective", "short":"犯罪に関わる利益・負担・リスクの判断を考える視点。", "slide_status":"pending", "source_status":"スライド原本未受領"
+    "id": "protection-motivation-theory",
+    "ja": "防護動機理論",
+    "en": "Protection Motivation Theory",
+    "short": "危険への評価と、対策の有効性・自分が実行できるか・実行負担の評価から、防護行動を考える理論。",
+    "slide_status": "published",
+    "reference_file": "protection_motivation_theory_selected_19_tagged.ris",
+    "source_status": "添付された3枚スライドを掲載。参考文献は添付RISの登録情報を収録。"
   },
   {
-    "id":"protection-motivation-theory", "ja":"防護動機理論", "en":"Protection Motivation Theory", "short":"危険への脅威評価と、対処行動に関する評価を考える理論。", "slide_status":"pending", "source_status":"スライド原本未受領"
+    "id": "cpted",
+    "ja": "CPTED（防犯環境設計）",
+    "en": "Crime Prevention Through Environmental Design",
+    "short": "環境の設計・利用・管理を通じて犯罪機会を減らす考え方。",
+    "slide_status": "published",
+    "reference_file": "CPTED_literature_2026-09-13_tagged.ris",
+    "source_status": "添付された3枚スライドを掲載。参考文献は添付RISの登録情報を収録。"
   },
   {
-    "id":"cpted", "ja":"CPTED（環境設計による犯罪予防）", "en":"Crime Prevention Through Environmental Design", "short":"環境の設計・管理を通じて犯罪機会を減らす考え方。", "slide_status":"pending", "source_status":"スライド原本未受領"
+    "id": "ebp",
+    "ja": "EBPとは何か",
+    "en": "Evidence-Based Policing",
+    "short": "研究・データ・比較検証に基づいて警察施策を選び、試し、評価し、改善する実務の考え方。",
+    "slide_status": "published",
+    "reference_file": "EBP_nudge_policing_literature_2026-09-16.ris",
+    "source_status": "添付された3枚スライドを掲載。参考文献は添付RISの登録情報を収録。"
   }
 ]
