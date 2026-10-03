@@ -1,0 +1,5067 @@
+[
+  {
+    "id": "capability-opportunity-motivation-behaviour",
+    "ja": "COM-Bモデル",
+    "en": "Capability, Opportunity, Motivation – Behaviour",
+    "cat": "効果検証・設計",
+    "schema_version": "4.0",
+    "academic_domain": "評価・実装研究",
+    "explanation": "能力（身体的・心理的）、機会（物理的・社会的）、動機（熟慮的・自動的）が相互作用して行動を生むと整理する。",
+    "application_hypothesis": "知識、施設、意欲の不足を切り分ける。",
+    "limitations": "分類しただけで因果原因を証明したことにはならない。各障壁について観察・調査・実験を行う。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Michie et al. (2011), Behaviour Change Wheel / COM-B",
+        "url": "https://doi.org/10.1186/1748-5908-6-42",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "response-efficacy",
+      "risk-perception",
+      "self-efficacy"
+    ],
+    "articles": [],
+    "original_definition": "行動を能力・機会・動機の3条件から分析するモデル。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "枠組み。効果の確立を意味しない",
+    "categories": [
+      "効果検証・設計"
+    ],
+    "academic_domains": [
+      "評価",
+      "実装研究"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "easy-attractive-social-timely",
+    "ja": "EAST",
+    "en": "Easy, Attractive, Social, Timely",
+    "cat": "効果検証・設計",
+    "schema_version": "4.0",
+    "academic_domain": "評価・実装研究",
+    "explanation": "EASTはEasy・Attractive・Social・Timelyの4観点から行動を妨げる負担や提示方法を点検する、政策設計の実務的整理。",
+    "application_hypothesis": "施錠の手間・目立ち方・規範・提示時点を点検する。",
+    "limitations": "4要素を盛り込むだけで効果が出るわけではない。診断と比較検証が必要なチェック枠組み。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Behavioural Insights Team, EAST",
+        "url": "https://ojs.unbc.ca/index.php/design/article/view/1658",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      },
+      {
+        "title": "Behavioural Insights Team, EAST (updated 2024)",
+        "url": "https://www.bi.team/publications/east-four-simple-ways-to-apply-behavioural-insights/",
+        "checked": "bibliographic_and_concept",
+        "source_type": "policy_framework",
+        "role": "政策・実務上の枠組み"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "簡単・魅力的・社会的・タイムリーの4視点から施策を設計する枠組み。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "枠組み。効果の確立を意味しない",
+    "categories": [
+      "効果検証・設計"
+    ],
+    "academic_domains": [
+      "評価",
+      "実装研究"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "messenger-incentives-norms-defaults-salience-priming-affect-commitments-ego",
+    "ja": "MINDSPACE",
+    "en": "Messenger, Incentives, Norms, Defaults, Salience, Priming, Affect, Commitments, Ego",
+    "cat": "効果検証・設計",
+    "schema_version": "4.0",
+    "academic_domain": "評価・実装研究",
+    "explanation": "Messenger・Incentives・Norms・Defaults・Salience・Priming・Affect・Commitments・Egoの9要因を整理した政策設計上の枠組み。",
+    "application_hypothesis": "広報に含まれるナッジ要素を整理する。",
+    "limitations": "各要素に強固で同等の実証根拠があるわけではない。特に微弱なプライミング効果の再現性は個別に確認する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Institute for Government (2010), MINDSPACE",
+        "url": "https://www.instituteforgovernment.org.uk/sites/default/files/publications/MINDSPACE.pdf",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      },
+      {
+        "title": "Dolan et al. (2010), MINDSPACE",
+        "url": "https://www.instituteforgovernment.org.uk/publication/report/mindspace",
+        "checked": "bibliographic_and_concept",
+        "source_type": "policy_framework",
+        "role": "政策・実務上の枠組み"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "authority-bias",
+      "messenger-effect"
+    ],
+    "articles": [],
+    "original_definition": "行動に影響する9要素を整理した政策設計の枠組み。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "枠組み。効果の確立を意味しない",
+    "categories": [
+      "効果検証・設計"
+    ],
+    "academic_domains": [
+      "評価",
+      "実装研究"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "anchoring",
+    "ja": "アンカリング",
+    "en": "Anchoring",
+    "cat": "判断の偏り",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "最初に目にした数値や基準に判断が引き寄せられ、後から情報を得ても十分に調整されない場合がある。",
+    "application_hypothesis": "最初に示された被害額にリスク判断が影響される。",
+    "limitations": "提示数値が妥当な比較基準である場合もある。アンカーによる偏りか合理的な参照かを区別する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Tversky & Kahneman (1974), Judgment under Uncertainty",
+        "url": "https://doi.org/10.1126/science.185.4157.1124",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "先に示された情報・数値がその後の判断の基準になる現象。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "判断の偏り"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "incentive",
+    "ja": "インセンティブ",
+    "en": "Incentive",
+    "cat": "介入技法",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "行動に関連する報酬、費用、利便性、評価など選択の利害条件を変える。金銭に限定されない。",
+    "application_hypothesis": "講習への参加特典を付ける。",
+    "limitations": "インセンティブはナッジそのものではない。公平性、持続性、外的動機づけの影響も評価する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Institute for Government (2010), MINDSPACE",
+        "url": "https://www.instituteforgovernment.org.uk/sites/default/files/publications/MINDSPACE.pdf",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "報酬や費用など行動の便益・負担を変える要因。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "介入技法"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "commitment",
+    "ja": "コミットメント",
+    "en": "Commitment",
+    "cat": "介入技法",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "意思表明や約束によって、後の行動と先の意思表示を一致させようとする心理や、周囲からの期待が働く可能性。",
+    "application_hypothesis": "設定予定日を宣言する。",
+    "limitations": "署名や宣言だけで行動が増えるとは限らない。公開の約束は心理的圧迫や羞恥につながりうる。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Institute for Government (2010), MINDSPACE",
+        "url": "https://www.instituteforgovernment.org.uk/sites/default/files/publications/MINDSPACE.pdf",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "将来の行動を約束・表明すること。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "介入技法"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "sludge",
+    "ja": "スラッジ",
+    "en": "Sludge",
+    "cat": "介入技法",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "行政手続やサービス利用などにおいて、合理的な必要性が乏しい摩擦が望ましい選択・権利行使を妨げること。",
+    "application_hypothesis": "複雑な登録画面で申込みを断念する。",
+    "limitations": "全ての確認作業はスラッジではない。本人確認や安全確保のために必要な負担は区別する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "OECD (2019) BASIC Toolkit",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      },
+      {
+        "title": "Sunstein (2019), Sludge and Ordeals",
+        "url": "https://dlj.law.duke.edu/article/sludge-and-ordeals-sunstein-vol68-iss8/",
+        "role": "原著の理論研究・総説",
+        "source_type": "foundational_theoretical",
+        "verification_note": "スラッジの定義と政策上の正当化の条件を原著で確認",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "friction-costs",
+      "response-cost",
+      "simplification"
+    ],
+    "articles": [],
+    "original_definition": "望ましい選択を妨げる不要な手続負担・摩擦。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "介入技法"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "social-support",
+    "ja": "ソーシャルサポート（社会的支援）",
+    "en": "Social Support",
+    "cat": "社会心理・対人関係",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "情報提供、実務的援助、情緒的な支えなど、他者との関係を通じて得られる支援。",
+    "explanation": "ストレスと成果の関係を弱める場合や、幅広い生活状況で直接的に役立つ場合がある。",
+    "application_hypothesis": "高齢者の防犯アプリ設定を家族が補助する体制を評価する。",
+    "limitations": "支援の有無、受け取った支援、支援があるという認識は区別する。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Cohen & Wills (1985), Stress, Social Support, and the Buffering Hypothesis",
+        "url": "https://doi.org/10.1037/0033-2909.98.2.310",
+        "role": "学術レビュー",
+        "source_type": "academic_review",
+        "verification_note": "社会的支援についての主要レビュー（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "self-efficacy",
+      "perceived-barriers"
+    ],
+    "articles": [],
+    "categories": [
+      "社会心理・対人関係"
+    ]
+  },
+  {
+    "id": "timely-prompt",
+    "ja": "タイムリーな働きかけ",
+    "en": "Timely Prompt",
+    "cat": "介入技法",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "人が目標行動を実際に行える地点・瞬間に合わせ、情報や手掛かりを提示する。一般的なリマインダーより行動機会への同期を重視する。",
+    "application_hypothesis": "自転車を置く直前に施錠を促す。",
+    "limitations": "タイミングを合わせても掲示が見られない場合は無効。設置地点と行動観察を組み合わせる。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Behavioural Insights Team, EAST",
+        "url": "https://ojs.unbc.ca/index.php/design/article/view/1658",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "limited-attention",
+      "prompt-cue",
+      "reminder"
+    ],
+    "articles": [],
+    "original_definition": "目標行動を実行できる直前や機会のある時点で提示する案内。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究実務上の記述語。定義・使われ方が文献間で異なり得る",
+    "categories": [
+      "介入技法"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "default",
+    "ja": "デフォルト",
+    "en": "Default",
+    "cat": "介入技法",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "明示的に変更しない場合に選択される初期状態。設定を変える手間や暗黙の推奨シグナルが選択に影響し得る。",
+    "application_hypothesis": "同意と権利を尊重した推奨設定を検討する。",
+    "limitations": "本人の同意、プライバシー、オプトアウトの分かりやすさが重要。すべての安全機能を勝手に有効化すべきとは限らない。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "OECD (2019) BASIC Toolkit",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      },
+      {
+        "title": "Johnson & Goldstein (2003), Do Defaults Save Lives?",
+        "url": "https://doi.org/10.1126/science.1091721",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "representative_primary",
+        "verification_note": "初期設定の影響を扱う代表研究",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "active-choice",
+      "choice-architecture",
+      "status-quo-bias"
+    ],
+    "articles": [],
+    "original_definition": "変更操作をしない場合に適用される初期選択。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "介入技法"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "nudge",
+    "ja": "ナッジ",
+    "en": "Nudge",
+    "cat": "基本概念",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "選択の自由を保ち、重大な経済的誘因の変更や禁止に頼らず、選択アーキテクチャを変えて予測可能な方向に行動を促す介入。",
+    "application_hypothesis": "駐輪時の施錠を思い出しやすくする。",
+    "limitations": "ナッジという名前だけでは有効性を証明しない。本人の利益、透明性、操作・誤認のリスクを点検する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "OECD (2019) BASIC Toolkit",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      },
+      {
+        "title": "Thaler & Sunstein (2008), Nudge",
+        "url": "https://yalebooks.co.uk/book/9780300146813/nudge/",
+        "role": "原著書籍（本文未精査、書誌/出版社資料）",
+        "source_type": "foundational_book_publisher",
+        "verification_note": "提唱者の著書の出版社ページ。全文確認ではない",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "choice-architecture",
+      "default",
+      "sludge"
+    ],
+    "articles": [],
+    "original_definition": "選択肢の禁止や経済的誘因の大幅な変更をせず、選択環境の工夫で行動を促す介入。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "基本概念"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "heuristic",
+    "ja": "ヒューリスティック",
+    "en": "Heuristic",
+    "cat": "基本概念",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "限られた情報や時間で判断するための簡略化された規則。環境に合っていれば合理的・効率的な場合もある。",
+    "application_hypothesis": "信頼する発信者を判断の手掛かりにする。",
+    "limitations": "すべてのヒューリスティックが誤りではない。特定のバイアスとの違いを確認する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Tversky & Kahneman (1974), Judgment under Uncertainty",
+        "url": "https://doi.org/10.1126/science.185.4157.1124",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "判断を効率化するための経験則や思考の近道。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "基本概念"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "heuristic-systematic-model",
+    "ja": "ヒューリスティック・システマティックモデル",
+    "en": "Heuristic–Systematic Model",
+    "cat": "広報・説得",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "簡単な判断規則による処理と、内容の詳細な処理という二つの仕組みに注目する説得モデル。",
+    "explanation": "情報処理の負担や動機に応じて簡易判断と体系的検討が用いられることを考える。",
+    "application_hypothesis": "推薦者情報に頼る判断と機器の仕様を読み比べる判断を区別する。",
+    "limitations": "ELMと近いが完全に同一の理論ではない。二つの処理が共存する可能性にも留意する。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Chaiken (1980), Heuristic versus systematic information processing",
+        "url": "https://doi.org/10.1037/0022-3514.39.5.752",
+        "role": "実験研究",
+        "source_type": "representative_primary",
+        "verification_note": "説得の二つの処理を扱う原著（書誌を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "heuristic",
+      "elaboration-likelihood-model"
+    ],
+    "articles": [],
+    "categories": [
+      "広報・説得"
+    ]
+  },
+  {
+    "id": "feedback",
+    "ja": "フィードバック",
+    "en": "Feedback",
+    "cat": "介入技法",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "行動の回数、状態、達成度などを知らせ、自己調整や比較の手掛かりを与える。フィードバック頻度と内容が重要となる。",
+    "application_hypothesis": "施錠率の変化を提示する。",
+    "limitations": "情報が理解できない、行動を変える手段がない場合は機能しない。比較情報には逆効果の可能性もある。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Schultz et al. (2007), Social Norms and Boomerang Effect",
+        "url": "https://doi.org/10.1111/j.1467-9280.2007.01917.x",
+        "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+        "source_type": "representative_empirical"
+      },
+      {
+        "title": "Allcott (2011), Social Norms and Energy Conservation",
+        "url": "https://doi.org/10.1016/j.jpubeco.2011.03.003",
+        "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+        "source_type": "representative_empirical"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "実際の行動や結果を伝え次の行動に役立てる情報提供。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "介入技法"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "framing-effect",
+    "ja": "フレーミング効果",
+    "en": "Framing Effect",
+    "cat": "判断の偏り",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "実質的に同じ選択肢でも、利得・損失・生存率・死亡率など表現の枠組みが変わると選好が異なることがある。",
+    "application_hypothesis": "被害防止率と被害残存率の提示方法を変える。",
+    "limitations": "数値の基準、期間、分母が違えば同一内容の比較とは言えない。誤認を誘発する広報は避ける。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Kahneman & Tversky (1979), Prospect Theory",
+        "url": "https://doi.org/10.2307/1914185",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      },
+      {
+        "title": "Tversky & Kahneman (1981), The Framing of Decisions",
+        "url": "https://doi.org/10.1126/science.7455683",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "foundational_primary",
+        "verification_note": "同じ意思決定課題の提示枠組みにより選好が変わることを検証",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "loss-aversion",
+      "probability-weighting",
+      "prospect-theory",
+      "reference-dependence"
+    ],
+    "articles": [],
+    "original_definition": "実質的に等価な選択肢でも表現で判断が変わる現象。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "判断の偏り"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "boomerang-effect",
+    "ja": "ブーメラン効果",
+    "en": "Boomerang Effect",
+    "cat": "社会的影響",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "望ましい行動水準に近かった人が、提示された低い社会平均に引き寄せられるなど、介入の目的とは逆の行動変化が生じること。",
+    "application_hypothesis": "無施錠が多数という情報で施錠が減る。",
+    "limitations": "単なる有意差なしとは違う。逆方向の推定と不確実性を確認し、誰に起きたかを検討する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Schultz et al. (2007), Social Norms and Boomerang Effect",
+        "url": "https://doi.org/10.1111/j.1467-9280.2007.01917.x",
+        "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+        "source_type": "representative_empirical"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "descriptive-norms",
+      "injunctive-norms",
+      "social-norms",
+      "social-proof"
+    ],
+    "articles": [],
+    "original_definition": "改善を狙った働きかけが反対方向の行動変化をもたらす現象。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "社会的影響"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "priming",
+    "ja": "プライミング",
+    "en": "Priming",
+    "cat": "社会的影響",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "先行する刺激が関連する概念の処理などに影響し、後の反応が変わる現象。反復プライミング等の比較的頑健な現象と社会的プライミングを区別する。",
+    "application_hypothesis": "安全情報を見た直後の判断を測る。",
+    "limitations": "社会的プライミングの一部には再現性の問題がある。暗黙刺激による行動変容を一般的効果として扱わない。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Institute for Government (2010), MINDSPACE",
+        "url": "https://www.instituteforgovernment.org.uk/sites/default/files/publications/MINDSPACE.pdf",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "先行刺激が後続の情報処理や反応に及ぼす影響。再現性には条件差がある。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "社会的影響"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "prospect-theory",
+    "ja": "プロスペクト理論",
+    "en": "Prospect Theory",
+    "cat": "意思決定の理論",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "参照点を基準とした価値関数と確率の主観的重み付けにより、リスクのある選択を記述する理論。",
+    "application_hypothesis": "被害確率と対策費用の提示方法への反応を比べる。",
+    "limitations": "単に「人は損失を嫌う」という一要素だけではない。確率の重み・参照点も必要。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Kahneman & Tversky (1979), Prospect Theory",
+        "url": "https://doi.org/10.2307/1914185",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "framing-effect",
+      "loss-aversion",
+      "probability-weighting",
+      "reference-dependence"
+    ],
+    "articles": [],
+    "original_definition": "参照点からの利得・損失と、その生起確率を主観的に変換してリスク下の選択を説明する記述的理論。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "意思決定の理論"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "process-evaluation",
+    "ja": "プロセス評価",
+    "en": "Process Evaluation",
+    "cat": "効果検証・設計",
+    "schema_version": "4.0",
+    "academic_domain": "評価・実装研究",
+    "explanation": "介入の実施内容（implementation）、作用機序（mechanisms）、文脈（context）を調べ、アウトカムに至る過程を分析する。",
+    "application_hypothesis": "表示が見られ理解され行動機会があったか検証する。",
+    "limitations": "効果が有意でない理由を自動的に確定できるわけではない。事前に測定項目を定める。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Moore et al. (2015), Process Evaluation Guidance",
+        "url": "https://doi.org/10.1136/bmj.h1258",
+        "role": "評価・実装の方法論指針",
+        "source_type": "methodological_guidance"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "implementation-fidelity",
+      "reach"
+    ],
+    "articles": [],
+    "original_definition": "介入が誰に届き、どのように実施され、どう受け止められたかを検討する評価。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+    "categories": [
+      "効果検証・設計"
+    ],
+    "academic_domains": [
+      "評価",
+      "実装研究"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "messenger-effect",
+    "ja": "メッセンジャー効果",
+    "en": "Messenger Effect",
+    "cat": "社会的影響",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "情報の内容が同じでも、発信者の属性、信頼、専門性、親近感などにより受け手の反応が変わり得る。",
+    "application_hypothesis": "署長・市町村長・家族による案内を比較する。",
+    "limitations": "特定の役職者だから必ず有効というわけではない。権威バイアスは考えられる一要因にすぎない。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Institute for Government (2010), MINDSPACE",
+        "url": "https://www.instituteforgovernment.org.uk/sites/default/files/publications/MINDSPACE.pdf",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "authority-bias",
+      "messenger-incentives-norms-defaults-salience-priming-affect-commitments-ego"
+    ],
+    "articles": [],
+    "original_definition": "情報の内容に加え発信者が反応に影響すること。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "社会的影響"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "mental-accounting",
+    "ja": "メンタル・アカウンティング",
+    "en": "Mental Accounting",
+    "cat": "意思決定の理論",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "同じ金額でも資金の由来や用途別に心理的な勘定を分け、支出や貯蓄の判断を変える現象。",
+    "application_hypothesis": "家庭の防犯費用の予算枠が購入に影響するか検討する。",
+    "limitations": "資金の使途区分が合理的な管理である場合もある。行動の偏りと制度的制約を区別する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Thaler (1999), Mental Accounting Matters",
+        "url": "https://doi.org/10.1002/(SICI)1099-0771(199909)12:3%3C183::AID-BDM318%3E3.0.CO;2-F",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      },
+      {
+        "title": "Thaler (1985), Mental Accounting and Consumer Choice",
+        "url": "https://doi.org/10.1287/mksc.4.3.199",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "foundational_primary",
+        "verification_note": "メンタル・アカウンティングの初期モデル",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "金銭や資源を心理的に別勘定として扱う意思決定傾向。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "意思決定の理論"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "randomized-controlled-trial",
+    "ja": "ランダム化比較試験",
+    "en": "Randomized Controlled Trial（RCT）",
+    "cat": "効果検証・設計",
+    "schema_version": "4.0",
+    "academic_domain": "評価・実装研究",
+    "explanation": "対象を偶然性に基づいて介入群・比較群へ割付け、介入条件以外の差を平均的に均衡させようとする比較実験。",
+    "application_hypothesis": "広報の違いによる導入率を比較する。",
+    "limitations": "無作為化だけで欠測・不遵守・汚染等は消えない。個人割付と地点単位割付の違いにも注意。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Schulz, Altman & Moher (2010), CONSORT Statement",
+        "url": "https://doi.org/10.1136/bmj.c332",
+        "role": "方法論・公的指針・研究分類資料",
+        "source_type": "methodological_standard",
+        "verification_note": "RCTの報告指針。RCTそのものの最初の原典ではない",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "external-validity",
+      "heterogeneous-treatment-effects",
+      "internal-validity",
+      "mediation-analysis"
+    ],
+    "articles": [],
+    "original_definition": "対象を無作為に割り付けて介入条件間の結果を比較する方法。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+    "categories": [
+      "効果検証・設計"
+    ],
+    "academic_domains": [
+      "評価",
+      "実装研究"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "risk-perception",
+    "ja": "リスク認知",
+    "en": "Risk Perception",
+    "cat": "行動の障壁",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "脅威や危険についての主観的評価。発生可能性と深刻さの認識に加え、制御可能性、なじみ、恐怖などの特徴も関係し得る。",
+    "application_hypothesis": "犯罪統計と住民の被害リスク認知の違いを調べる。",
+    "limitations": "認知を高めれば行動が増えるとは限らない。公的統計と主観評価を比較するときは対象・期間を揃える。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Slovic (1987), Perception of Risk",
+        "url": "https://doi.org/10.1126/science.3563507",
+        "role": "専門レビュー・関連研究",
+        "source_type": "foundational_review",
+        "verification_note": "心理測定的アプローチによるリスク認知研究の代表的総説",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "capability-opportunity-motivation-behaviour",
+      "response-efficacy",
+      "self-efficacy"
+    ],
+    "articles": [],
+    "original_definition": "被害の発生可能性・深刻さなどについての主観的な評価。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "行動の障壁"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "reminder",
+    "ja": "リマインダー",
+    "en": "Reminder",
+    "cat": "介入技法",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "予定していた行動や期限を思い出すように通知する。忘却や注意不足が主な障壁の場合に作用し得る。",
+    "application_hypothesis": "アプリ設定予定日に通知する。",
+    "limitations": "知らせるだけで実行能力・機会の不足は改善しない。通知疲れや閲読の有無に注意。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Milkman et al. (2011), Vaccination Field Experiment",
+        "url": "https://doi.org/10.1073/pnas.1103170108",
+        "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+        "source_type": "representative_empirical"
+      },
+      {
+        "title": "Bahety et al. (2021), SMS Field Trial",
+        "url": "https://doi.org/10.1016/j.jdeveco.2021.102747",
+        "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+        "source_type": "representative_empirical"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "limited-attention",
+      "prompt-cue",
+      "timely-prompt"
+    ],
+    "articles": [
+      {
+        "id": "vol-1",
+        "title": "広報は、なぜ行動につながらないのか",
+        "url": "https://sites.google.com/view/ichimizu-crime-prevention/home/column/essay/%E7%A9%BA%E6%83%B3ebp%E8%AA%AD%E6%9C%AC-vol-1"
+      }
+    ],
+    "original_definition": "適切な時点で必要な行動を思い出させる通知。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "介入技法"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "central-route",
+    "ja": "中心ルート",
+    "en": "Central Route",
+    "cat": "広報・説得",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "説得内容の主張や根拠を、比較的丁寧に検討する情報処理の経路。",
+    "explanation": "関心や処理能力があり内容を詳しく吟味する場合に重要になる。",
+    "application_hypothesis": "防犯対策の効果と限界を示す研究結果の詳細ページを設ける。",
+    "limitations": "詳しい説明を用意すれば必ず中心ルートになるわけではない。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Petty & Cacioppo (1986), The Elaboration Likelihood Model of Persuasion",
+        "url": "https://doi.org/10.1016/S0065-2601(08)60214-2",
+        "role": "理論・研究レビュー",
+        "source_type": "theoretical_primary",
+        "verification_note": "精緻化見込みモデルの主要原著（公開概要を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "elaboration-likelihood-model",
+      "peripheral-route"
+    ],
+    "articles": [],
+    "categories": [
+      "広報・説得"
+    ]
+  },
+  {
+    "id": "subjective-norm",
+    "ja": "主観的規範",
+    "en": "Subjective Norm",
+    "cat": "社会心理・対人関係",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "本人が重視する人々から、その行動を行うべきだと期待・圧力を感じている程度。社会全体の実際の行動頻度とは異なる。",
+    "explanation": "他者の期待の認識やそれに従おうとする程度が行動意図と関連すると考える。",
+    "application_hypothesis": "家族が防犯設定をしてほしいと考えていると本人が認識しているかを調べる。",
+    "limitations": "社会規範一般や記述的規範と同一視しない。個人の規範認識を測定する必要がある。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Ajzen (1991), The theory of planned behavior",
+        "url": "https://doi.org/10.1016/0749-5978(91)90020-T",
+        "role": "理論・関連研究レビュー",
+        "source_type": "theoretical_primary",
+        "verification_note": "提唱理論の主要原著（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "social-norms",
+      "injunctive-norms",
+      "theory-of-planned-behaviour"
+    ],
+    "articles": [],
+    "categories": [
+      "社会心理・対人関係"
+    ]
+  },
+  {
+    "id": "theory-of-planned-behaviour",
+    "ja": "予定行動理論",
+    "en": "Theory of Planned Behavior",
+    "cat": "意思決定・動機づけ",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "ある行動の意図を、行動への態度・主観的規範・知覚された行動統制によって説明し、行動統制も実際の行動に関わると考える理論。",
+    "explanation": "何が望ましいかという評価、周囲の期待、できそうだという判断が意図に関連すると想定する。意図だけで行動が決まるわけではない。",
+    "application_hypothesis": "防犯アプリを導入する意図と実際の導入状況を測り、態度・周囲の期待・操作可能性のどこに障壁があるか検討する。",
+    "limitations": "モデルの予測力は対象行動や測定条件で変わる。因果効果を確認するには介入研究が必要。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Ajzen (1991), The theory of planned behavior",
+        "url": "https://doi.org/10.1016/0749-5978(91)90020-T",
+        "role": "理論・関連研究レビュー",
+        "source_type": "theoretical_primary",
+        "verification_note": "提唱理論の主要原著（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "intention-behaviour-gap",
+      "perceived-behavioural-control",
+      "subjective-norm"
+    ],
+    "articles": [],
+    "categories": [
+      "意思決定・動機づけ"
+    ]
+  },
+  {
+    "id": "dual-process-theories",
+    "ja": "二重過程理論",
+    "en": "Dual-process Theories",
+    "cat": "基本概念",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "速く比較的自動的な処理と、遅く制御的な処理を区別する複数の理論をまとめた呼称。実際の認知過程は相互に作用する。",
+    "application_hypothesis": "習慣的施錠と機器購入時の熟慮を区別する。",
+    "limitations": "異なる理論群を一括する名称で、速い処理と遅い処理が常に明確に分離されると実証されたわけではない。単一の実験・原典を理論群全体の証明としない。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Evans (2008), Dual-Processing Accounts of Reasoning, Judgment, and Social Cognition",
+        "url": "https://doi.org/10.1146/annurev.psych.59.103006.093629",
+        "role": "専門レビュー・関連研究",
+        "source_type": "scholarly_review",
+        "verification_note": "複数の二重過程理論を整理したレビュー。統一された単一原典は存在しない",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "比較的自動的な処理と制御的な処理を区別する認知心理学上の複数の理論の総称。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "基本概念"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "implementation-fidelity",
+    "ja": "介入の実装忠実度",
+    "en": "Implementation Fidelity",
+    "cat": "効果検証・設計",
+    "schema_version": "4.0",
+    "academic_domain": "評価・実装研究",
+    "explanation": "介入を計画どおりに提供した程度。実施内容、量、頻度、担当者の遵守状況などを確認する。",
+    "application_hypothesis": "ポスターが設置・維持され見られていたか調べる。",
+    "limitations": "対象者が見たか（到達・受容）とは別概念。実装不全と理論の不成立を分ける。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Moore et al. (2015), Process Evaluation Guidance",
+        "url": "https://doi.org/10.1136/bmj.h1258",
+        "role": "評価・実装の方法論指針",
+        "source_type": "methodological_guidance"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "process-evaluation",
+      "reach"
+    ],
+    "articles": [
+      {
+        "id": "vol-1",
+        "title": "広報は、なぜ行動につながらないのか",
+        "url": "https://sites.google.com/view/ichimizu-crime-prevention/home/column/essay/%E7%A9%BA%E6%83%B3ebp%E8%AA%AD%E6%9C%AC-vol-1"
+      }
+    ],
+    "original_definition": "介入の内容・量・頻度・提供方法が計画どおり実施された程度。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+    "categories": [
+      "効果検証・設計"
+    ],
+    "academic_domains": [
+      "評価",
+      "実装研究"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "endowment-effect",
+    "ja": "保有効果",
+    "en": "Endowment Effect",
+    "cat": "判断の偏り",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "ある品物をすでに保有していると、その品物を手放すために要求する額が購入時に支払う額より高くなる場合がある。",
+    "application_hypothesis": "現在の機器や設定に固執する。",
+    "limitations": "取引費用や情報の非対称性などでも差は生じる。保有効果を現状維持バイアスと同義にしない。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Kahneman, Knetsch & Thaler (1990), Endowment Effect",
+        "url": "https://doi.org/10.1086/261737",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "所有する物を所有していない場合より高く評価することがある現象。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "判断の偏り"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "confidence-interval",
+    "ja": "信頼区間",
+    "en": "Confidence Interval",
+    "cat": "効果検証・設計",
+    "schema_version": "4.0",
+    "academic_domain": "評価・実装研究",
+    "explanation": "母集団の未知の値を推定する手続が、同じ条件の反復標本抽出で一定割合その値を覆うよう設計されている。",
+    "application_hypothesis": "導入率の差に95％信頼区間を示す。",
+    "limitations": "得られた95％信頼区間について「真値が95％の確率で入る」と頻度論的に断言しない。推定対象、モデル前提、幅を確認する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Neyman (1937), Outline of a Theory of Statistical Estimation",
+        "url": "https://wwwusers.ts.infn.it/~milotti/Didattica/StatisticaAvanzata/Neyman_1937.pdf",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "foundational_primary",
+        "verification_note": "原著テキストの公開版。出版社ページへの直接アクセスは制限あり",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "effect-size",
+      "statistical-power",
+      "statistical-significance"
+    ],
+    "articles": [],
+    "original_definition": "繰り返し標本抽出したとき所定割合で母数を含む手続に基づく区間推定。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+    "categories": [
+      "効果検証・設計"
+    ],
+    "academic_domains": [
+      "評価",
+      "実装研究"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "Neyman(1937)の原著公開版を確認。出版社サイトの直接取得は制限されている。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "health-belief-model",
+    "ja": "健康信念モデル",
+    "en": "Health Belief Model",
+    "cat": "防護行動・リスク認知",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "病気の脅威や対策の利益・障壁などに関する認知を用いて予防的行動を説明するモデル。後年には行動のきっかけや自己効力感も重視されている。",
+    "explanation": "脅威を感じても費用や手間が大きいと行動につながらない可能性を整理する。",
+    "application_hypothesis": "詐欺リスク認知、対策の有効性、導入負担などを区別して調査項目を設計する。",
+    "limitations": "健康分野で構築されたモデルを犯罪予防へ移す場合、対象行動や文化的背景ごとに妥当性検証が必要。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Rosenstock (1974), Historical Origins of the Health Belief Model",
+        "url": "https://doi.org/10.1177/109019817400200403",
+        "role": "歴史・モデル解説論文",
+        "source_type": "theoretical_primary",
+        "verification_note": "健康信念モデルの成立経緯を示す基礎資料（書誌を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "risk-perception",
+      "self-efficacy",
+      "perceived-susceptibility",
+      "perceived-severity"
+    ],
+    "articles": [],
+    "categories": [
+      "防護行動・リスク認知"
+    ]
+  },
+  {
+    "id": "bystander-effect",
+    "ja": "傍観者効果",
+    "en": "Bystander Effect",
+    "cat": "社会心理・対人関係",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "緊急事態などで、他の人がいると認識することで、個人が援助・通報する可能性が低くなる場合がある現象。",
+    "explanation": "責任の分散や、他者が動かない状況の解釈など複数の要因で説明される。",
+    "application_hypothesis": "被害を目撃した住民の通報行動について、具体的な役割指定の有無を比較する。",
+    "limitations": "緊急性や危険、対象者との関係で反応は変わる。危険な現場への介入を勧める根拠にしない。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Darley & Latané (1968), Bystander intervention in emergencies",
+        "url": "https://doi.org/10.1037/h0025589",
+        "role": "実験研究",
+        "source_type": "representative_primary",
+        "verification_note": "責任の分散に関する実験（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      },
+      {
+        "title": "Latané & Darley (1968), Group inhibition of bystander intervention",
+        "url": "https://doi.org/10.1037/h0026570",
+        "role": "実験研究",
+        "source_type": "representative_primary",
+        "verification_note": "傍観者の行動に関する代表実験（書誌を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "diffusion-of-responsibility",
+      "pluralistic-ignorance"
+    ],
+    "articles": [],
+    "categories": [
+      "社会心理・対人関係"
+    ]
+  },
+  {
+    "id": "intrinsic-motivation",
+    "ja": "内発的動機づけ",
+    "en": "Intrinsic Motivation",
+    "cat": "意思決定・動機づけ",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "活動そのものへの関心・面白さ・満足によって生じる動機づけ。報酬獲得のみを目的とする場合と区別する。",
+    "explanation": "外的な評価だけでなく、好奇心や達成感など活動自体の価値が行動を支える。",
+    "application_hypothesis": "防犯講習の参加継続に、興味・技能向上が関与しているか調べる。",
+    "limitations": "すべての防犯行動に内発的動機づけが必要なわけではない。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Deci & Ryan (2000), The “What” and “Why” of Goal Pursuits",
+        "url": "https://doi.org/10.1207/S15327965PLI1104_01",
+        "role": "理論研究論文",
+        "source_type": "theoretical_primary",
+        "verification_note": "自己決定理論の主要論考（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "self-determination-theory",
+      "incentive"
+    ],
+    "articles": [],
+    "categories": [
+      "意思決定・動機づけ"
+    ]
+  },
+  {
+    "id": "internal-validity",
+    "ja": "内的妥当性",
+    "en": "Internal Validity",
+    "cat": "効果検証・設計",
+    "schema_version": "4.0",
+    "academic_domain": "評価・実装研究",
+    "explanation": "比較されたアウトカムの差を介入の影響と説明できる程度。交絡、選択、欠測、同時介入、測定誤差などを点検する。",
+    "application_hypothesis": "地域差や同時期のキャンペーンの影響を除く。",
+    "limitations": "前後比較の差をそのまま因果効果としない。割付の実施、脱落、比較可能性が重要。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Campbell (1957), Factors Relevant to Validity of Experiments",
+        "url": "https://doi.org/10.1037/h0040950",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "foundational_primary",
+        "verification_note": "内的・外的妥当性の区別に関する初期論文",
+        "verified_at": "2026-10-03"
+      },
+      {
+        "title": "Shadish, Cook & Campbell (2002), Experimental and Quasi-experimental Designs",
+        "url": "https://books.google.com/books?id=bhLLmgEACAAJ",
+        "role": "原著書籍（本文未精査、書誌/出版社資料）",
+        "source_type": "foundational_book_bibliography",
+        "verification_note": "書籍書誌と章構成を確認",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "external-validity",
+      "heterogeneous-treatment-effects",
+      "mediation-analysis",
+      "randomized-controlled-trial"
+    ],
+    "articles": [],
+    "original_definition": "観察された結果の差を介入の因果効果と解釈できる程度。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+    "categories": [
+      "効果検証・設計"
+    ],
+    "academic_domains": [
+      "評価",
+      "実装研究"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "gain-loss-message-framing",
+    "ja": "利得・損失フレーミング（広報）",
+    "en": "Gain–Loss Message Framing",
+    "cat": "広報・説得",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "行動した場合の利益を強調するか、行動しなかった場合の損失を強調するかというメッセージ提示の違い。",
+    "explanation": "同じ予防行動について、利益側・損失側の表現で注意や判断が変わる可能性がある。",
+    "application_hypothesis": "防犯設定によって守れるものを示す広報と、未設定時のリスクを示す広報を比較する。",
+    "limitations": "どちらが優れるかは行動の種類、受け手、測定などによって異なる。単純な普遍則はない。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Rothman & Salovey (1997), Shaping Perceptions to Motivate Healthy Behavior",
+        "url": "https://doi.org/10.1037/0033-2909.121.1.3",
+        "role": "研究レビュー",
+        "source_type": "academic_review",
+        "verification_note": "メッセージのフレーム効果レビュー（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "framing-effect",
+      "loss-aversion"
+    ],
+    "articles": [],
+    "categories": [
+      "広報・説得"
+    ]
+  },
+  {
+    "id": "availability-heuristic",
+    "ja": "利用可能性ヒューリスティック",
+    "en": "Availability Heuristic",
+    "cat": "判断の偏り",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "実例を容易に思い出せると、その頻度や発生確率が高いと推定しやすい。報道の反復や具体的エピソードは想起容易性に影響する。",
+    "application_hypothesis": "報道された犯罪の発生率を高く感じる。",
+    "limitations": "想起しやすい事件が実際に増加している場合もある。行政データと認知の差を検証する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Tversky & Kahneman (1974), Judgment under Uncertainty",
+        "url": "https://doi.org/10.1126/science.185.4157.1124",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "想起しやすさに影響されて頻度や確率を判断する傾向。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "判断の偏り"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "reach",
+    "ja": "到達率",
+    "en": "Reach",
+    "cat": "効果検証・設計",
+    "schema_version": "4.0",
+    "academic_domain": "評価・実装研究",
+    "explanation": "目標対象のうち、メッセージや介入に接触・参加した割合を測定する。送信、配達、閲覧、理解は別指標である。",
+    "application_hypothesis": "案内を受け取った人数を対象母数で割る。",
+    "limitations": "分母（対象人口・配信対象・配布先など）を明示する。「送信率」を「閲読率」と呼ばない。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Moore et al. (2015), Process Evaluation Guidance",
+        "url": "https://doi.org/10.1136/bmj.h1258",
+        "role": "評価・実装の方法論指針",
+        "source_type": "methodological_guidance"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "implementation-fidelity",
+      "process-evaluation"
+    ],
+    "articles": [],
+    "original_definition": "対象者のうち介入や情報が実際に届いた人の割合。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+    "categories": [
+      "効果検証・設計"
+    ],
+    "academic_domains": [
+      "評価",
+      "実装研究"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "institutional-legitimacy",
+    "ja": "制度的正統性（警察等）",
+    "en": "Institutional Legitimacy",
+    "cat": "社会心理・対人関係",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "当局や組織が権限を行使することの適切さ、従う義務の認識などに関係する社会心理的概念。",
+    "explanation": "公正な取り扱いや制度への評価と、協力・法遵守への態度との関連が研究されている。",
+    "application_hypothesis": "警察の情報発信が信頼・協力意図とどのように関連するか調査する。",
+    "limitations": "概念の操作的定義は研究によって異なる。政策や統治の正当性への総合的判断とは区別する。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Tyler (2003), Procedural Justice, Legitimacy, and the Effective Rule of Law",
+        "url": "https://doi.org/10.1086/652233",
+        "role": "研究レビュー",
+        "source_type": "academic_review",
+        "verification_note": "手続的公正と正統性を論じた研究レビュー（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      },
+      {
+        "title": "Sunshine & Tyler (2003), The Role of Procedural Justice and Legitimacy",
+        "url": "https://doi.org/10.1111/1540-5893.3703002",
+        "role": "観察研究",
+        "source_type": "observational",
+        "verification_note": "警察への協力・支持との関連を扱う実証研究（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "procedural-justice",
+      "messenger-effect"
+    ],
+    "articles": [],
+    "categories": [
+      "社会心理・対人関係"
+    ]
+  },
+  {
+    "id": "effect-size",
+    "ja": "効果量",
+    "en": "Effect Size",
+    "cat": "効果検証・設計",
+    "schema_version": "4.0",
+    "academic_domain": "評価・実装研究",
+    "explanation": "割合の差、リスク比、オッズ比、標準化平均差など、差や関連の大きさを定義済みの尺度で表す。",
+    "application_hypothesis": "設定率の群間差をポイント単位で示す。",
+    "limitations": "異なる効果量を混同しない。標準化平均差d=0.2は20％改善という意味ではない。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Lakens (2013), Calculating and Reporting Effect Sizes",
+        "url": "https://doi.org/10.3389/fpsyg.2013.00863",
+        "role": "方法論・公的指針・研究分類資料",
+        "source_type": "methodological_guide",
+        "verification_note": "代表的な効果量と報告方法。概念そのものの提唱原典ではない",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "confidence-interval",
+      "statistical-power",
+      "statistical-significance"
+    ],
+    "articles": [],
+    "original_definition": "介入による差や関連の大きさを、定義された尺度で表した指標。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+    "categories": [
+      "効果検証・設計"
+    ],
+    "academic_domains": [
+      "評価",
+      "実装研究"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "danger-control",
+    "ja": "危険制御",
+    "en": "Danger Control",
+    "cat": "防護行動・リスク認知",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "危険を減らすための具体的な対応へ注意や行動が向かう反応。EPPMで想定される反応の一つ。",
+    "explanation": "脅威に加えて対策が有効で実行可能だと認識されると、危険そのものへの対応が進むと考える。",
+    "application_hypothesis": "警告後の通話遮断・アプリ設定完了など実際の行動を観察する。",
+    "limitations": "本人が「対処した」と申告するだけで十分ではなく、行動指標を使う。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Witte (1992), Putting the Fear Back into Fear Appeals",
+        "url": "https://doi.org/10.1080/03637759209376276",
+        "role": "理論提唱原著",
+        "source_type": "theoretical_primary",
+        "verification_note": "EPPMの提案論文（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "extended-parallel-process-model",
+      "fear-control"
+    ],
+    "articles": [],
+    "categories": [
+      "防護行動・リスク認知"
+    ]
+  },
+  {
+    "id": "reference-dependence",
+    "ja": "参照点依存性",
+    "en": "Reference Dependence",
+    "cat": "意思決定の理論",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "人は結果の絶対的な水準だけではなく、期待や現状などの参照点からの利得・損失として評価する。",
+    "application_hypothesis": "対策済み状態を基準にした広報を試す。",
+    "limitations": "参照点の置き方により評価が変わる。どれを実際の参照点としたかを推定する必要がある。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Tversky & Kahneman (1991), Loss Aversion / Reference Dependence",
+        "url": "https://doi.org/10.2307/2937956",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "framing-effect",
+      "loss-aversion",
+      "probability-weighting",
+      "prospect-theory"
+    ],
+    "articles": [],
+    "original_definition": "結果を絶対水準だけでなく、期待・現状などの参照点との差として評価すること。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "意思決定の理論"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "hyperbolic-discounting",
+    "ja": "双曲割引",
+    "en": "Hyperbolic Discounting",
+    "cat": "判断の偏り",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "報酬・費用が将来になるほど価値を割り引く際、割引率が時間的に一定でない形を表すモデル。",
+    "application_hypothesis": "防犯対策を先延ばしにする。",
+    "limitations": "現在バイアスを表す一つのモデルだが同義ではない。実際の先延ばしは予定・環境・能力でも起こる。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Laibson (1997), Golden Eggs and Hyperbolic Discounting",
+        "url": "https://doi.org/10.1162/003355397555253",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "planning-fallacy",
+      "present-bias",
+      "sunk-cost-effect"
+    ],
+    "articles": [],
+    "original_definition": "将来価値の割引率が時間を通じ一定でないモデル。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "判断の偏り"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "response-cost",
+    "ja": "反応コスト",
+    "en": "Response Cost",
+    "cat": "行動の障壁",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "防護行動にかかる時間、費用、手間、不快感などについての受け手の主観的な評価（防護動機理論の要因）。",
+    "application_hypothesis": "二重施錠の負担を測る。",
+    "limitations": "摩擦コストと一部重なるが、PMTの反応コストは本人が認知した対処負担を指す。本人の認知と実測作業負担を別々に測定する必要がある。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Rogers (1983), Revised Protection Motivation Theory",
+        "url": "https://cir.nii.ac.jp/crid/1573387449065406592",
+        "role": "原著書籍（本文未精査、書誌/出版社資料）",
+        "source_type": "foundational_book_bibliography",
+        "verification_note": "防護動機理論の改訂原著書誌。内容の全文検証はできていない",
+        "verified_at": "2026-10-03"
+      },
+      {
+        "title": "Sniehotta et al. (2005), Action Planning and Coping Planning",
+        "url": "https://doi.org/10.1002/ejsp.258",
+        "role": "補助的な研究・関連資料",
+        "source_type": "related_primary",
+        "verification_note": "行動障壁への対処を扱う関連研究で、反応コストそのものの原典ではない",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "bibliography_confirmed",
+    "related_terms": [
+      "friction-costs",
+      "simplification",
+      "sludge"
+    ],
+    "articles": [],
+    "original_definition": "推奨する防護行動に伴う時間・費用・手間・不便などの認識上の負担。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "行動の障壁"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "original_book_bibliography_only",
+    "origin_audit_note": "PMTの改訂原典の書誌を確認。章本文を直接検証したわけではない。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "response-efficacy",
+    "ja": "反応効果性",
+    "en": "Response Efficacy",
+    "cat": "行動の障壁",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "特定の防護行動が脅威を減らす効果を持つという本人の信念。自分が実行できるかを表す自己効力感とは区別する。",
+    "application_hypothesis": "不審電話対策が被害を防ぐと認識されているか測る。",
+    "limitations": "本人が効くと信じていることと、研究で実際に効果が確認されていることは異なる。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Michie et al. (2011), Behaviour Change Wheel / COM-B",
+        "url": "https://doi.org/10.1186/1748-5908-6-42",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      },
+      {
+        "title": "Rogers & Mewborn (1976), Fear Appeals and Attitude Change",
+        "url": "https://doi.org/10.1037/0022-3514.34.1.54",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "foundational_primary",
+        "verification_note": "対処の有効性に関する要因実験",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "capability-opportunity-motivation-behaviour",
+      "risk-perception",
+      "self-efficacy"
+    ],
+    "articles": [],
+    "original_definition": "ある対策が脅威や被害を減らせると認識すること。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "行動の障壁"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "peripheral-route",
+    "ja": "周辺ルート",
+    "en": "Peripheral Route",
+    "cat": "広報・説得",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "主張の詳細な吟味をあまり伴わず、発信者の印象や単純な手掛かりが態度判断に関わる経路。",
+    "explanation": "時間や関心が限られる場合に、内容以外の手掛かりが影響することがある。",
+    "application_hypothesis": "発信者の肩書やデザインで判断が変わるか検証する。",
+    "limitations": "必ず浅薄・誤った判断をするという価値判断ではなく、状況依存の処理様式である。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Petty & Cacioppo (1986), The Elaboration Likelihood Model of Persuasion",
+        "url": "https://doi.org/10.1016/S0065-2601(08)60214-2",
+        "role": "理論・研究レビュー",
+        "source_type": "theoretical_primary",
+        "verification_note": "精緻化見込みモデルの主要原著（公開概要を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "elaboration-likelihood-model",
+      "messenger-effect"
+    ],
+    "articles": [],
+    "categories": [
+      "広報・説得"
+    ]
+  },
+  {
+    "id": "injunctive-norms",
+    "ja": "命令的規範",
+    "en": "Injunctive Norms",
+    "cat": "社会的影響",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "集団が承認・非難する行為についての認識を指す。「人が実際に何をしているか」という記述的規範と区別する。",
+    "application_hypothesis": "推奨される施錠方法を示す。",
+    "limitations": "正当な規範の表現と、根拠のない同調圧力を混同しない。反発や不信も確認する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Schultz et al. (2007), Social Norms and Boomerang Effect",
+        "url": "https://doi.org/10.1111/j.1467-9280.2007.01917.x",
+        "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+        "source_type": "representative_empirical"
+      },
+      {
+        "title": "Cialdini, Reno & Kallgren (1990), Focus Theory of Normative Conduct",
+        "url": "https://doi.org/10.1037/0022-3514.58.6.1015",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "foundational_primary",
+        "verification_note": "規範分類の代表的実証",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "boomerang-effect",
+      "descriptive-norms",
+      "social-norms",
+      "social-proof"
+    ],
+    "articles": [],
+    "original_definition": "周囲の人が何を望ましいと考えているかについての認識。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "社会的影響"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "sunk-cost-effect",
+    "ja": "埋没費用効果",
+    "en": "Sunk Cost Effect",
+    "cat": "判断の偏り",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "回収できない過去の投資・努力を、これからの合理的な選択の判断材料として過度に重視する。",
+    "application_hypothesis": "効果が不明な防犯キャンペーンが前年予算を理由に継続されるか検討する。",
+    "limitations": "過去の事業への責任や追加の契約費など将来に影響する実費は別。将来の費用便益で再評価する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Arkes & Blumer (1985), The Psychology of Sunk Cost",
+        "url": "https://doi.org/10.1016/0749-5978(85)90049-4",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "foundational_primary",
+        "verification_note": "埋没費用効果を検証した古典的フィールド・実験研究",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "hyperbolic-discounting",
+      "planning-fallacy",
+      "present-bias"
+    ],
+    "articles": [],
+    "original_definition": "既に回収できない費用を、以後の判断に不適切に反映する傾向。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "判断の偏り"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "stages-of-change-model",
+    "ja": "変容ステージモデル",
+    "en": "Stages of Change / Transtheoretical Model",
+    "cat": "意思決定・動機づけ",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "行動変容の準備状況を、無関心・関心・準備・実行・維持などの段階で整理するモデル。",
+    "explanation": "段階ごとに関心や障壁が異なる可能性を検討する。",
+    "application_hypothesis": "アプリ未認知者・利用検討者・設定済みの人を分けて案内内容を考える。",
+    "limitations": "段階が必ず順に進むとは限らず、段階別介入の有効性を当然視しない。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Prochaska & DiClemente (1983), Stages and processes of self-change of smoking",
+        "url": "https://doi.org/10.1037/0022-006X.51.3.390",
+        "role": "実証研究",
+        "source_type": "representative_primary",
+        "verification_note": "段階モデルの代表的初期研究（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "readiness-to-change",
+      "intention-behaviour-gap"
+    ],
+    "articles": [],
+    "categories": [
+      "意思決定・動機づけ"
+    ]
+  },
+  {
+    "id": "external-validity",
+    "ja": "外的妥当性",
+    "en": "External Validity",
+    "cat": "効果検証・設計",
+    "schema_version": "4.0",
+    "academic_domain": "評価・実装研究",
+    "explanation": "対象者、時期、文化、設備、組織などを変えた場合に、研究で得られた因果関係がどの程度成立するかを問う。",
+    "application_hypothesis": "米国の予防接種研究が日本の防犯行動にも当てはまるか検討する。",
+    "limitations": "「RCTだから日本全国に適用できる」は誤り。犯罪予防では文脈比較と再検証を行う。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Campbell (1957), Factors Relevant to Validity of Experiments",
+        "url": "https://doi.org/10.1037/h0040950",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "foundational_primary",
+        "verification_note": "内的・外的妥当性の区別に関する初期論文",
+        "verified_at": "2026-10-03"
+      },
+      {
+        "title": "Shadish, Cook & Campbell (2002), Experimental and Quasi-experimental Designs",
+        "url": "https://books.google.com/books?id=bhLLmgEACAAJ",
+        "role": "原著書籍（本文未精査、書誌/出版社資料）",
+        "source_type": "foundational_book_bibliography",
+        "verification_note": "書籍書誌と章構成を確認。全文検証ではない",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "heterogeneous-treatment-effects",
+      "internal-validity",
+      "mediation-analysis",
+      "randomized-controlled-trial"
+    ],
+    "articles": [],
+    "original_definition": "研究結果が他の対象・時点・環境にも当てはまる程度。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+    "categories": [
+      "効果検証・設計"
+    ],
+    "academic_domains": [
+      "評価",
+      "実装研究"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "pluralistic-ignorance",
+    "ja": "多元的無知",
+    "en": "Pluralistic Ignorance",
+    "cat": "社会心理・対人関係",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "多くの人が個人的には疑問や懸念を持ちながら、他の人は受け入れていると誤って推測し、集団全体の認識を取り違える現象。",
+    "explanation": "周囲が反応しないことを、問題がないという社会的手掛かりとして読み取る場合がある。",
+    "application_hypothesis": "危険な電話に気づいた周囲の人が互いに異常なしと思い込まない案内を検討する。",
+    "limitations": "単なる社会規範の認識とは異なり、私的な意見と公的な態度のずれを調べる必要がある。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Miller & McFarland (1987), Pluralistic Ignorance: When Similarity Is Interpreted as Dissimilarity",
+        "url": "https://doi.org/10.1037/0022-3514.53.2.298",
+        "role": "概念を直接扱う実験研究",
+        "source_type": "representative_primary",
+        "verification_note": "公開要旨を確認。先行研究すべてを網羅した意味ではない。",
+        "verified_at": "2026-10-03"
+      },
+      {
+        "title": "Prentice & Miller (1993), Pluralistic Ignorance and Alcohol Use on Campus",
+        "url": "https://doi.org/10.1037/0022-3514.64.2.243",
+        "role": "概念を直接扱う実証研究",
+        "source_type": "representative_primary",
+        "verification_note": "公開要旨を確認。",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "bystander-effect",
+      "subjective-norm"
+    ],
+    "articles": [],
+    "categories": [
+      "社会心理・対人関係"
+    ]
+  },
+  {
+    "id": "mediation-analysis",
+    "ja": "媒介分析",
+    "en": "Mediation Analysis",
+    "cat": "効果検証・設計",
+    "schema_version": "4.0",
+    "academic_domain": "評価・実装研究",
+    "explanation": "介入Xが中間変数Mを通じて成果Yに影響するかという経路を検討する分析手法。",
+    "application_hypothesis": "自己効力感が行動変化を媒介したか調べる。",
+    "limitations": "介入とMの関連を見ただけで因果媒介とは言えない。時間順序・未測定交絡などの強い仮定に注意。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Imai, Keele & Tingley (2010), A General Approach to Causal Mediation Analysis",
+        "url": "https://doi.org/10.1037/a0020761",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "methodological_primary",
+        "verification_note": "因果媒介分析の識別仮定と感度分析の原著",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "external-validity",
+      "heterogeneous-treatment-effects",
+      "internal-validity",
+      "randomized-controlled-trial"
+    ],
+    "articles": [],
+    "original_definition": "介入と結果の間にある媒介過程を分析する方法。因果的解釈には追加仮定が必要。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+    "categories": [
+      "効果検証・設計"
+    ],
+    "academic_domains": [
+      "評価",
+      "実装研究"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "implementation-intentions",
+    "ja": "実行意図",
+    "en": "Implementation Intentions",
+    "cat": "介入技法",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "特定の機会が生じた場合の行動を「もしXならYする」の条件反応としてあらかじめ結び付ける。状況が手掛かりとして働きやすくなる。",
+    "application_hypothesis": "帰宅したら迷惑電話対策機能を設定すると決める。",
+    "limitations": "単に目標を持つことや日時だけを記入することと厳密には異なる。実行能力や機会が不足していれば機能しにくい。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Gollwitzer (1999), Implementation Intentions",
+        "url": "https://doi.org/10.1037/0003-066X.54.7.493",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      },
+      {
+        "title": "Milkman et al. (2011), Vaccination Field Experiment",
+        "url": "https://doi.org/10.1073/pnas.1103170108",
+        "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+        "source_type": "representative_empirical"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "implementation-intention-gap",
+      "implementation-plan",
+      "intention-behaviour-gap",
+      "reminder"
+    ],
+    "articles": [
+      {
+        "id": "vol-1",
+        "title": "広報は、なぜ行動につながらないのか",
+        "url": "https://sites.google.com/view/ichimizu-crime-prevention/home/column/essay/%E7%A9%BA%E6%83%B3ebp%E8%AA%AD%E6%9C%AC-vol-1"
+      }
+    ],
+    "original_definition": "特定の状況と行動を「もしXならYする」という形式で事前に結び付ける計画。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "介入技法"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "coping-appraisal",
+    "ja": "対処評価",
+    "en": "Coping Appraisal",
+    "cat": "防護行動・リスク認知",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "防護行動を行うことで危険を減らせるか、本人に実行できるか、負担はどの程度かを評価する過程。",
+    "explanation": "対処反応の有効性、自己効力感、反応コストなどの組合せから検討する。",
+    "application_hypothesis": "アプリの有効性、設定できる自信、費用・手間を別々に測る。",
+    "limitations": "本人に能力があっても、実際の環境に対策の機会がなければ実行できない。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Rogers (1975), A Protection Motivation Theory of Fear Appeals and Attitude Change",
+        "url": "https://doi.org/10.1080/00223980.1975.9915803",
+        "role": "理論提唱原著",
+        "source_type": "theoretical_primary",
+        "verification_note": "防護動機理論の初期原著（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "response-efficacy",
+      "self-efficacy",
+      "response-cost"
+    ],
+    "articles": [],
+    "categories": [
+      "防護行動・リスク認知"
+    ]
+  },
+  {
+    "id": "perceived-benefits",
+    "ja": "対策の利益認知",
+    "en": "Perceived Benefits",
+    "cat": "防護行動・リスク認知",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "特定の予防・防護行動によって危険を減らせるなど、望ましい結果が得られると考える程度。",
+    "explanation": "対策の有効性に関する期待が行動の評価に関わると考える。",
+    "application_hypothesis": "防犯設定によって不審電話を遮断できると利用者が考えているか測る。",
+    "limitations": "実際の技術的効果とは別である。結果の期待と自己効力感も区別する。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Rosenstock (1974), Historical Origins of the Health Belief Model",
+        "url": "https://doi.org/10.1177/109019817400200403",
+        "role": "歴史・モデル解説論文",
+        "source_type": "theoretical_primary",
+        "verification_note": "健康信念モデルの成立経緯を示す基礎資料（書誌を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "response-efficacy",
+      "outcome-expectancy"
+    ],
+    "articles": [],
+    "categories": [
+      "防護行動・リスク認知"
+    ]
+  },
+  {
+    "id": "psychological-reactance",
+    "ja": "心理的リアクタンス",
+    "en": "Psychological Reactance",
+    "cat": "判断の偏り",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "本人が自由を脅かされたと感じると、自由を回復しようとして反発する心理的状態・反応。",
+    "application_hypothesis": "強制的な広報表現に反感を抱く。",
+    "limitations": "強い表現が必ず逆効果になるとは限らない。圧迫感と実際の防犯行動を区別する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Brehm (1966), A Theory of Psychological Reactance",
+        "url": "https://books.google.com/books/about/A_Theory_of_Psychological_Reactance.html?id=VsRHmwEACAAJ",
+        "role": "原著書籍（本文未精査、書誌/出版社資料）",
+        "source_type": "foundational_book_bibliography",
+        "verification_note": "提唱原著書籍の書誌・目次を確認。全文閲覧はできていない",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "bibliography_confirmed",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "自由を制限されたと感じた際に反発が生じる心理的反応。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "判断の偏り"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "original_book_bibliography_only",
+    "origin_audit_note": "提唱者Brehmの1966年原著書誌は確認できるが、全文の精査は未了。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "psychological-safety",
+    "ja": "心理的安全性",
+    "en": "Psychological Safety",
+    "cat": "社会心理・対人関係",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "チーム内で質問、懸念、誤りの報告など対人的なリスクを取っても安全だという共有された認識。",
+    "explanation": "発言による非難や恥への不安が少ないことで、情報共有や学習行動に関連すると考える。",
+    "application_hypothesis": "防犯活動の問題点や失敗を報告しやすいチームの運用を検討する。",
+    "limitations": "心理的安全性は判断の正しさや実務上の安全保障そのものではない。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Edmondson (1999), Psychological Safety and Learning Behavior in Work Teams",
+        "url": "https://doi.org/10.2307/2666999",
+        "role": "組織フィールド研究",
+        "source_type": "observational",
+        "verification_note": "チーム心理的安全性の代表研究（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "procedural-justice"
+    ],
+    "articles": [],
+    "categories": [
+      "社会心理・対人関係"
+    ]
+  },
+  {
+    "id": "fear-control",
+    "ja": "恐怖制御",
+    "en": "Fear Control",
+    "cat": "防護行動・リスク認知",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "脅威そのものを減らすのでなく、不安や恐怖という感情を避けようとする反応。",
+    "explanation": "メッセージへの反発・否認・回避などに表れると理論上想定される。",
+    "application_hypothesis": "強い警告によって広報自体を見なくなる人がいるか調べる。",
+    "limitations": "反応の分類は推測せず、認知・感情・行動の実測データで検討する。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Witte (1992), Putting the Fear Back into Fear Appeals",
+        "url": "https://doi.org/10.1080/03637759209376276",
+        "role": "理論提唱原著",
+        "source_type": "theoretical_primary",
+        "verification_note": "EPPMの提案論文（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "danger-control",
+      "psychological-reactance"
+    ],
+    "articles": [],
+    "categories": [
+      "防護行動・リスク認知"
+    ]
+  },
+  {
+    "id": "fear-appeal",
+    "ja": "恐怖訴求",
+    "en": "Fear Appeal",
+    "cat": "広報・説得",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "怖さや危険性への注意を喚起し、特定の態度や行動に変化を促そうとするコミュニケーション技法。",
+    "explanation": "被害の重大性や起こりやすさを知らせるが、対処法の提示や受け手の効力感によって反応が変わりうる。",
+    "application_hypothesis": "強い詐欺被害の画像・文面と、具体的な対処手順の有無を比較評価する。",
+    "limitations": "恐怖を強めれば必ず効果が増すわけではない。過度な不安、回避、スティグマに留意する。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Witte (1992), Putting the Fear Back into Fear Appeals",
+        "url": "https://doi.org/10.1080/03637759209376276",
+        "role": "理論提唱原著",
+        "source_type": "theoretical_primary",
+        "verification_note": "EPPMの提案論文（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      },
+      {
+        "title": "Rogers (1975), A Protection Motivation Theory of Fear Appeals and Attitude Change",
+        "url": "https://doi.org/10.1080/00223980.1975.9915803",
+        "role": "理論提唱原著",
+        "source_type": "theoretical_primary",
+        "verification_note": "防護動機理論の初期原著（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "threat-appraisal",
+      "coping-appraisal"
+    ],
+    "articles": [],
+    "categories": [
+      "広報・説得"
+    ]
+  },
+  {
+    "id": "intention-behaviour-gap",
+    "ja": "意図と行動のギャップ",
+    "en": "Intention–Behaviour Gap",
+    "cat": "効果検証・設計",
+    "schema_version": "4.0",
+    "academic_domain": "評価・実装研究",
+    "explanation": "将来その行動を取る意図を持っても、その後の実行が伴わない不一致。態度と意図、意図と実行を別々に測る必要がある。",
+    "application_hypothesis": "導入意向が高くても設定完了しない。",
+    "limitations": "アンケートでの利用意向だけを成果としない。設定記録、観察、追跡調査で確かめる。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Gollwitzer (1999), Implementation Intentions",
+        "url": "https://doi.org/10.1037/0003-066X.54.7.493",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      },
+      {
+        "title": "Milkman et al. (2011), Vaccination Field Experiment",
+        "url": "https://doi.org/10.1073/pnas.1103170108",
+        "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+        "source_type": "representative_empirical"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "implementation-intention-gap",
+      "implementation-intentions",
+      "implementation-plan"
+    ],
+    "articles": [
+      {
+        "id": "vol-1",
+        "title": "広報は、なぜ行動につながらないのか",
+        "url": "https://sites.google.com/view/ichimizu-crime-prevention/home/column/essay/%E7%A9%BA%E6%83%B3ebp%E8%AA%AD%E6%9C%AC-vol-1"
+      }
+    ],
+    "original_definition": "行動するつもりでも実行しない不一致。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "効果検証・設計"
+    ],
+    "academic_domains": [
+      "評価",
+      "実装研究"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "affect",
+    "ja": "感情・情動",
+    "en": "Affect",
+    "cat": "社会的影響",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "恐怖、安心、好悪などの感情が、確率・便益・危険性の評価に入り込む。感情を情報の代用として利用する場合もある。",
+    "application_hypothesis": "犯罪不安と対策行動の関連を調べる。",
+    "limitations": "恐怖が強ければ望ましい行動が増えるとは限らない。脅威の訴求と実行可能な対処情報の効果を分けて検討する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Institute for Government (2010), MINDSPACE",
+        "url": "https://www.instituteforgovernment.org.uk/sites/default/files/publications/MINDSPACE.pdf",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      },
+      {
+        "title": "Loewenstein et al. (2001), Risk as Feelings",
+        "url": "https://doi.org/10.1037/0033-2909.127.2.267",
+        "role": "原著の理論研究・総説",
+        "source_type": "foundational_theoretical_review",
+        "verification_note": "情動と認知的リスク評価の相違を扱うレビュー",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "感情がリスク評価や選択に影響すること。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "社会的影響"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "procedural-justice",
+    "ja": "手続的公正",
+    "en": "Procedural Justice",
+    "cat": "社会心理・対人関係",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "意思決定や権限行使の過程が公平、尊重的、中立的で、説明や発言機会があると認識されること。",
+    "explanation": "結果の有利不利とは別に、扱われ方や意思決定手続が協力・信頼の判断に関わると考える。",
+    "application_hypothesis": "防犯協力依頼における説明の透明性、異議・質問の機会を検討する。",
+    "limitations": "関連研究の存在は特定の広報手法の因果効果を保証しない。公正を装う操作と混同しない。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Tyler (2003), Procedural Justice, Legitimacy, and the Effective Rule of Law",
+        "url": "https://doi.org/10.1086/652233",
+        "role": "研究レビュー",
+        "source_type": "academic_review",
+        "verification_note": "手続的公正と正統性を論じた研究レビュー（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      },
+      {
+        "title": "Sunshine & Tyler (2003), The Role of Procedural Justice and Legitimacy",
+        "url": "https://doi.org/10.1111/1540-5893.3703002",
+        "role": "観察研究",
+        "source_type": "observational",
+        "verification_note": "警察への協力・支持との関連を扱う実証研究（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "institutional-legitimacy",
+      "collective-efficacy"
+    ],
+    "articles": [],
+    "categories": [
+      "社会心理・対人関係"
+    ]
+  },
+  {
+    "id": "extended-parallel-process-model",
+    "ja": "拡張並行過程モデル",
+    "en": "Extended Parallel Process Model (EPPM)",
+    "cat": "防護行動・リスク認知",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "脅威情報を受けた際の反応を、脅威の認知と対策の有効性・実行可能性の認知から考える恐怖訴求モデル。",
+    "explanation": "強い脅威を感じても有効な対処法がないと思えば、メッセージ回避や否認などが起こりうると想定する。",
+    "application_hypothesis": "詐欺被害を強調する広報で、同時に実行可能な設定方法を示す条件と示さない条件を比較する。",
+    "limitations": "概念モデルだけでは広報効果の大きさは分からず、対象ごとの検証が必要。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Witte (1992), Putting the Fear Back into Fear Appeals",
+        "url": "https://doi.org/10.1080/03637759209376276",
+        "role": "理論提唱原著",
+        "source_type": "theoretical_primary",
+        "verification_note": "EPPMの提案論文（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "fear-appeal",
+      "danger-control",
+      "fear-control"
+    ],
+    "articles": [],
+    "categories": [
+      "防護行動・リスク認知"
+    ]
+  },
+  {
+    "id": "inoculation-theory",
+    "ja": "接種理論（説得抵抗）",
+    "en": "Inoculation Theory",
+    "cat": "広報・説得",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "弱い反論や誤情報への対処を先に示すことで、後から来る説得・誤情報に対する抵抗力を高めようとする理論。",
+    "explanation": "想定される攻撃への予告と反論の準備を通じて、反論を作る過程を促すと考える。",
+    "application_hypothesis": "典型的な詐欺の口実と、それを見破る具体的な反論を事前提示する施策を検証する。",
+    "limitations": "ワクチン接種と同じ確実性を意味せず、文脈や対象となる誤情報に左右される。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "McGuire (1961), Resistance to persuasion conferred by prior refutation",
+        "url": "https://doi.org/10.1037/h0048344",
+        "role": "実験研究",
+        "source_type": "representative_primary",
+        "verification_note": "接種理論関連の初期実験（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "fear-appeal",
+      "elaboration-likelihood-model"
+    ],
+    "articles": [],
+    "categories": [
+      "広報・説得"
+    ]
+  },
+  {
+    "id": "loss-aversion",
+    "ja": "損失回避",
+    "en": "Loss Aversion",
+    "cat": "判断の偏り",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "特定の参照点から見た同程度の利得・損失を比べると、損失側がより強く評価に影響する傾向。",
+    "application_hypothesis": "機器購入費用を安全上の利益より強く感じる。",
+    "limitations": "「損失は必ず利益の2倍重い」は一般法則ではない。参照点・測定法・選択条件に依存する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Tversky & Kahneman (1991), Loss Aversion / Reference Dependence",
+        "url": "https://doi.org/10.2307/2937956",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      },
+      {
+        "title": "Kahneman & Tversky (1979), Prospect theory: An analysis of decision under risk",
+        "doi": "10.2307/1914185",
+        "url": "https://doi.org/10.2307/1914185",
+        "checked": "bibliographic_and_concept",
+        "source_type": "foundational_or_direct_research",
+        "role": "基礎・代表原著（初出とは限らない）"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "framing-effect",
+      "probability-weighting",
+      "prospect-theory",
+      "reference-dependence"
+    ],
+    "articles": [],
+    "original_definition": "同程度の利益より損失を強く評価する傾向。条件により程度が変わる。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "判断の偏り"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "friction-costs",
+    "ja": "摩擦コスト",
+    "en": "Friction Costs",
+    "cat": "介入技法",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "複数のクリック、書類記入、場所移動、待ち時間など、実行に伴う小さな負担が積み重なり行動を妨げる。",
+    "application_hypothesis": "アプリ設定の入力項目を減らす。",
+    "limitations": "小さな負担を除けば必ず行動するわけではない。安全確認など必要な手続きを削減しすぎない。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "OECD (2019) BASIC Toolkit",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "response-cost",
+      "simplification",
+      "sludge"
+    ],
+    "articles": [
+      {
+        "id": "vol-1",
+        "title": "広報は、なぜ行動につながらないのか",
+        "url": "https://sites.google.com/view/ichimizu-crime-prevention/home/column/essay/%E7%A9%BA%E6%83%B3ebp%E8%AA%AD%E6%9C%AC-vol-1"
+      }
+    ],
+    "original_definition": "小さな手間、時間、操作負担など行動の障壁。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "介入技法"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "statistical-power",
+    "ja": "検出力",
+    "en": "Statistical Power",
+    "cat": "効果検証・設計",
+    "schema_version": "4.0",
+    "academic_domain": "評価・実装研究",
+    "explanation": "真に指定した効果があるとき、所定の統計的検定がその効果を検出して帰無仮説を棄却する確率。",
+    "application_hypothesis": "比較群の人数が小さく差を検出できない危険を調べる。",
+    "limitations": "研究後の有意差なしを「効果なし」と同一視しない。必要標本数、測定誤差、クラスター相関も考慮する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Cohen (1992), A Power Primer",
+        "url": "https://doi.org/10.1037/0033-2909.112.1.155",
+        "role": "補助的な研究・関連資料",
+        "source_type": "methodological_foundation",
+        "verification_note": "検出力・効果量・サンプルサイズの古典的解説",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "confidence-interval",
+      "effect-size",
+      "statistical-significance"
+    ],
+    "articles": [],
+    "original_definition": "特定の真の効果があるとき、設定した検定が帰無仮説を棄却する確率。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+    "categories": [
+      "効果検証・設計"
+    ],
+    "academic_domains": [
+      "評価",
+      "実装研究"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "optimism-bias",
+    "ja": "楽観バイアス",
+    "en": "Optimism Bias",
+    "cat": "判断の偏り",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "他者と比べ自分の将来に好ましいことが起きやすく、好ましくないことが起きにくいと見る比較的な楽観の傾向。",
+    "application_hypothesis": "自分の被害リスクを同年代と比較してどう判断するか調べる。",
+    "limitations": "客観リスクと主観比較の測定条件を揃える。実際に低リスクの人をバイアスと断定しない。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Weinstein (1980), Unrealistic Optimism About Future Life Events",
+        "url": "https://doi.org/10.1037/0022-3514.39.5.806",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "foundational_primary",
+        "verification_note": "比較的楽観についての代表的初期実証研究",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "将来の望ましい結果を相対的に期待し、望ましくない結果を過小視することがある傾向。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "判断の偏り"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "authority-bias",
+    "ja": "権威バイアス",
+    "en": "Authority Bias",
+    "cat": "社会的影響",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "権威のある人物・役職・資格を手掛かりに、説明内容を十分に独立検討せず受け入れる傾向を指す通俗的な総称。関連する研究には服従、権威への信頼、発信者効果があるが、互いに同一概念ではない。",
+    "application_hypothesis": "専門家の推薦への反応を検証する。",
+    "limitations": "「権威バイアス」に一意の提唱原著があると見なさない。専門性への合理的信頼は常に誤判断ではなく、服従実験を警察署長の推奨効果の証明として流用しない。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Milgram (1963), Behavioral Study of Obedience",
+        "url": "https://doi.org/10.1037/h0040525",
+        "role": "補助的な研究・関連資料",
+        "source_type": "related_primary",
+        "verification_note": "権威への服従に関する一次実験であり、権威バイアスという単一概念の命名原典ではない",
+        "verified_at": "2026-10-03"
+      },
+      {
+        "title": "Cialdini & Goldstein (2004), Social Influence",
+        "url": "https://doi.org/10.1146/annurev.psych.55.090902.142015",
+        "role": "専門レビュー・関連研究",
+        "source_type": "scholarly_review",
+        "verification_note": "社会的影響・服従のレビュー",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "related_sources_checked",
+    "related_terms": [
+      "messenger-effect",
+      "messenger-incentives-norms-defaults-salience-priming-affect-commitments-ego"
+    ],
+    "articles": [],
+    "original_definition": "権威的な立場や肩書きを判断の手掛かりとして用いる傾向を指す便宜的な表現。服従、信頼、発信者効果とは区別する。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "社会的影響"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "concept_related_primary_or_author_account",
+    "origin_audit_note": "「権威バイアス」に一意の提唱原著を割り当てられない。Milgramの服従研究は関連一次研究で、同義ではない。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "limited-attention",
+    "ja": "注意の限界",
+    "en": "Limited Attention",
+    "cat": "行動の障壁",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "個人の注意には容量と持続性の制約があり、同時に多くの情報を十分処理できない。目立ち方、状況、競合刺激で接触が変わる。",
+    "application_hypothesis": "駐輪場で表示に気づく割合を実測する。",
+    "limitations": "見やすい場所に掲示したことと、実際に見たことは異なる。視認・記憶・理解を分けて調査する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Kahneman (1973), Attention and Effort",
+        "url": "https://kahneman.scholar.princeton.edu/publications",
+        "role": "原著書籍（本文未精査、書誌/出版社資料）",
+        "source_type": "foundational_book_author_archive",
+        "verification_note": "著者の大学アーカイブで原著書籍とPDFを確認。関連する注意資源研究",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "prompt-cue",
+      "reminder",
+      "timely-prompt"
+    ],
+    "articles": [],
+    "original_definition": "人があらゆる情報に均等な注意を配れず、一部を見落とす性質。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "行動の障壁"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "present-bias",
+    "ja": "現在バイアス",
+    "en": "Present Bias",
+    "cat": "判断の偏り",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "直近の費用・便益がわずかに将来のものより不連続に重く評価され、時間的に整合しない選好が現れることがある。",
+    "application_hypothesis": "将来の被害より今の設定の手間を優先する。",
+    "limitations": "先延ばしの理由を現在バイアスのみと決めつけない。手続負担・不信・資源不足も調査する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Laibson (1997), Golden Eggs and Hyperbolic Discounting",
+        "url": "https://doi.org/10.1162/003355397555253",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "friction-costs",
+      "hyperbolic-discounting",
+      "planning-fallacy",
+      "sunk-cost-effect"
+    ],
+    "articles": [],
+    "original_definition": "目先の負担や利益を将来の負担や利益に比べ重視する傾向。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "判断の偏り"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "status-quo-bias",
+    "ja": "現状維持バイアス",
+    "en": "Status Quo Bias",
+    "cat": "判断の偏り",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "状況が同等でも新しい選択より現状の継続に価値を置き、変更を避ける傾向。",
+    "application_hypothesis": "電話の設定を変更しない。",
+    "limitations": "変更コスト、合理的な不安、情報不足による現状維持とは区別する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Samuelson & Zeckhauser (1988), Status Quo Bias",
+        "url": "https://doi.org/10.1007/BF00055564",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "active-choice",
+      "choice-architecture",
+      "default"
+    ],
+    "articles": [],
+    "original_definition": "現在の状態を変えない選択を好みやすい傾向。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "判断の偏り"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "heterogeneous-treatment-effects",
+    "ja": "異質な介入効果",
+    "en": "Heterogeneous Treatment Effects",
+    "cat": "効果検証・設計",
+    "schema_version": "4.0",
+    "academic_domain": "評価・実装研究",
+    "explanation": "介入の平均効果だけでなく、年齢・地域・事前状態などに応じて因果効果が異なる可能性を扱う。",
+    "application_hypothesis": "年齢層や場所ごとの効果差を確認する。",
+    "limitations": "サブグループごとの有意・非有意だけで差を判断しない。交互作用、事前指定、多重比較が重要。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Imai & Ratkovic (2013), Estimating Treatment Effect Heterogeneity",
+        "url": "https://imai.fas.harvard.edu/research/svm.html",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "representative_primary",
+        "verification_note": "因果効果の異質性を推定する手法の原著",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "external-validity",
+      "internal-validity",
+      "mediation-analysis",
+      "randomized-controlled-trial"
+    ],
+    "articles": [],
+    "original_definition": "対象や状況によって介入効果が異なること。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+    "categories": [
+      "効果検証・設計"
+    ],
+    "academic_domains": [
+      "評価",
+      "実装研究"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "goal-setting-theory",
+    "ja": "目標設定理論",
+    "en": "Goal-Setting Theory",
+    "cat": "意思決定・動機づけ",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "目標の具体性・難易度やフィードバック等が課題遂行にどのように関わるかを整理する理論。",
+    "explanation": "明確で達成可能な課題と進捗の把握が行動に働く条件を考える。",
+    "application_hypothesis": "「防犯意識を高める」より「今週中に迷惑電話対策を設定する」という行動目標を比較する。",
+    "limitations": "高すぎる目標や不適切な評価指標が望ましくない行動を招く可能性もある。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Locke & Latham (2002), Building a practically useful theory of goal setting",
+        "url": "https://doi.org/10.1037/0003-066X.57.9.705",
+        "role": "研究レビュー",
+        "source_type": "academic_review",
+        "verification_note": "目標設定研究のレビュー（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "implementation-intentions",
+      "feedback"
+    ],
+    "articles": [],
+    "categories": [
+      "意思決定・動機づけ"
+    ]
+  },
+  {
+    "id": "perceived-behavioural-control",
+    "ja": "知覚された行動統制",
+    "en": "Perceived Behavioral Control",
+    "cat": "意思決定・動機づけ",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "目的の行動を自分で実行・統制できると感じる程度。実際の能力や機会そのものとは区別される。",
+    "explanation": "自己効力感に近い側面に加えて、外部条件による実行の容易さ・困難さの認識を含む。",
+    "application_hypothesis": "アプリ設定の自信だけでなく、必要な端末や操作支援があると思うかも調べる。",
+    "limitations": "自己効力感や客観的な実行可能性と完全には一致しない。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Ajzen (1991), The theory of planned behavior",
+        "url": "https://doi.org/10.1016/0749-5978(91)90020-T",
+        "role": "理論・関連研究レビュー",
+        "source_type": "theoretical_primary",
+        "verification_note": "提唱理論の主要原著（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "self-efficacy",
+      "theory-of-planned-behaviour"
+    ],
+    "articles": [],
+    "categories": [
+      "意思決定・動機づけ"
+    ]
+  },
+  {
+    "id": "probability-weighting",
+    "ja": "確率加重",
+    "en": "Probability Weighting",
+    "cat": "意思決定の理論",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "主観的な意思決定重みが客観確率と一致しない場合をモデル化する。小さい確率が相対的に強調される等の形を取り得る。",
+    "application_hypothesis": "低確率の犯罪被害をどう認識するか調べる。",
+    "limitations": "「低確率なら必ず過大評価」と単純化しない。行動と確率の提示条件を揃える。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Kahneman & Tversky (1979), Prospect Theory",
+        "url": "https://doi.org/10.2307/1914185",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "framing-effect",
+      "loss-aversion",
+      "prospect-theory",
+      "reference-dependence"
+    ],
+    "articles": [],
+    "original_definition": "客観的確率をそのまま判断に使わず、非線形に重み付けする現象・モデル。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "意思決定の理論"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "confirmation-bias",
+    "ja": "確証バイアス",
+    "en": "Confirmation Bias",
+    "cat": "判断の偏り",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "既存の判断に合う情報を優先的に探し、解釈し、記憶するなどして、反対証拠を過小評価する傾向。",
+    "application_hypothesis": "自分は詐欺に遭わないとの考えを補強する。",
+    "limitations": "意見と異なる証拠を重視しない理由には経験や情報源の質も関わる。単なる反対意見をバイアス扱いしない。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Nickerson (1998), Confirmation Bias",
+        "url": "https://doi.org/10.1037/1089-2680.2.2.175",
+        "role": "専門レビュー（原典と区別）",
+        "source_type": "scholarly_review"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "既存の信念に合う情報を重視しやすい傾向。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "判断の偏り"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "social-learning-theory",
+    "ja": "社会的学習理論",
+    "en": "Social Learning Theory",
+    "cat": "社会心理・対人関係",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "他者の行動とその結果の観察、認知的過程、環境との相互作用による行動習得を説明する理論。",
+    "explanation": "直接の報酬・罰だけでなく、モデルとなる人の行動を観察することも学習に関わる。",
+    "application_hypothesis": "家族がアプリ設定を実演する動画と説明文だけの場合を比較する。",
+    "limitations": "観察や知識獲得が起きても、行動の機会がなければ実践に移るとは限らない。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Bandura (1977), Social Learning Theory",
+        "url": "https://www.ncbi.nlm.nih.gov/nlmcatalog/101562611",
+        "role": "原著書籍（書誌確認）",
+        "source_type": "book_bibliography",
+        "verification_note": "原著書籍の書誌・目次を確認、本文未精査",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "observational-learning",
+      "self-efficacy"
+    ],
+    "articles": [],
+    "categories": [
+      "社会心理・対人関係"
+    ]
+  },
+  {
+    "id": "social-proof",
+    "ja": "社会的証明",
+    "en": "Social Proof",
+    "cat": "社会的影響",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "不確実な場面で他人の行動を正しい選択の手掛かりとして使う過程。社会的影響の一つで、記述的規範と関連する。",
+    "application_hypothesis": "周囲の設定方法を参考にする。",
+    "limitations": "社会的証明という広い説得概念と、実際の頻度を示す「記述的規範」は重なるが同義ではない。他者の行動が望ましくないときは、逆方向の同調を招く可能性がある。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Cialdini (APA interview), Social Proof Principle",
+        "url": "https://www.apa.org/news/podcasts/speaking-of-psychology/persuasion",
+        "role": "補助的な研究・関連資料",
+        "source_type": "originator_explanation",
+        "verification_note": "提唱者本人の説明。原著書籍全文ではない",
+        "verified_at": "2026-10-03"
+      },
+      {
+        "title": "Cialdini & Goldstein (2004), Social Influence",
+        "url": "https://doi.org/10.1146/annurev.psych.55.090902.142015",
+        "role": "専門レビュー・関連研究",
+        "source_type": "scholarly_review",
+        "verification_note": "社会的影響に関するレビュー",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "related_sources_checked",
+    "related_terms": [
+      "boomerang-effect",
+      "descriptive-norms",
+      "injunctive-norms",
+      "social-norms"
+    ],
+    "articles": [],
+    "original_definition": "他者の行動を自分の選択の手掛かりとする現象。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "社会的影響"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "concept_related_primary_or_author_account",
+    "origin_audit_note": "原著書籍の所在は把握できるが、この用語の原著本文の直接精査は未了。提唱者本人の説明と学術レビューを確認。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "social-norms",
+    "ja": "社会規範",
+    "en": "Social Norms",
+    "cat": "社会的影響",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "人々が周囲の行動や期待を参照する規範。実際の行動についての記述的規範と、承認の命令的規範を分ける。",
+    "application_hypothesis": "地域の施錠習慣を広報に用いる。",
+    "limitations": "実測しない多数派主張は避ける。規範が有効でない、逆効果となる文脈もある。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Schultz et al. (2007), Social Norms and Boomerang Effect",
+        "url": "https://doi.org/10.1111/j.1467-9280.2007.01917.x",
+        "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+        "source_type": "representative_empirical"
+      },
+      {
+        "title": "Allcott (2011), Social Norms and Energy Conservation",
+        "url": "https://doi.org/10.1016/j.jpubeco.2011.03.003",
+        "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+        "source_type": "representative_empirical"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "boomerang-effect",
+      "descriptive-norms",
+      "injunctive-norms",
+      "social-proof"
+    ],
+    "articles": [],
+    "original_definition": "集団で一般的または望ましいと認識される行動の基準。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "社会的影響"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "elaboration-likelihood-model",
+    "ja": "精緻化見込みモデル",
+    "en": "Elaboration Likelihood Model (ELM)",
+    "cat": "広報・説得",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "説得メッセージの吟味の程度に応じ、論拠の精査と周辺的手掛かりなどが態度変化に異なる役割を果たすモデル。",
+    "explanation": "関心、理解力、処理できる状況によって、内容を詳しく検討する程度が変わると考える。",
+    "application_hypothesis": "詳しい比較情報と簡潔な推薦情報を、受け手の関心・時間制約別に検証する。",
+    "limitations": "中心・周辺が個人の固定属性という意味ではない。単純に「論理対感情」と二分しない。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Petty & Cacioppo (1986), The Elaboration Likelihood Model of Persuasion",
+        "url": "https://doi.org/10.1016/S0065-2601(08)60214-2",
+        "role": "理論・研究レビュー",
+        "source_type": "theoretical_primary",
+        "verification_note": "精緻化見込みモデルの主要原著（公開概要を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "central-route",
+      "peripheral-route",
+      "messenger-effect"
+    ],
+    "articles": [],
+    "categories": [
+      "広報・説得"
+    ]
+  },
+  {
+    "id": "outcome-expectancy",
+    "ja": "結果予期",
+    "en": "Outcome Expectancy",
+    "cat": "意思決定・動機づけ",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "特定の行動をした場合に、どのような結果が生じると本人が予想するか。",
+    "explanation": "行動で望ましい結果が得られるという予想は、行動を選ぶ理由の一部になる。",
+    "application_hypothesis": "二重施錠で盗難リスクが下がると考えるかを質問する。",
+    "limitations": "「自分にできるか」という自己効力感や実際の効果とは別。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Bandura (1977), Social Learning Theory",
+        "url": "https://www.ncbi.nlm.nih.gov/nlmcatalog/101562611",
+        "role": "原著書籍（書誌確認）",
+        "source_type": "book_bibliography",
+        "verification_note": "原著書籍の書誌・目次を確認、本文未精査",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "self-efficacy",
+      "perceived-benefits"
+    ],
+    "articles": [],
+    "categories": [
+      "意思決定・動機づけ"
+    ]
+  },
+  {
+    "id": "statistical-significance",
+    "ja": "統計的有意差",
+    "en": "Statistical Significance",
+    "cat": "効果検証・設計",
+    "schema_version": "4.0",
+    "academic_domain": "評価・実装研究",
+    "explanation": "指定した帰無仮説と統計モデルのもとで、観測値と同程度以上に極端なデータが生じる確率（p値）が、有意水準より小さい場合に通常「統計的に有意」と呼ぶ。",
+    "application_hypothesis": "広報2群の設定完了率を比較する。",
+    "limitations": "有意差がないことは効果ゼロの証明ではない。p値は仮説の正しい確率でも実務的価値でもなく、効果量、信頼区間、検出力、デザインと併せて判断する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Wasserstein & Lazar (2016), ASA Statement on p-Values",
+        "url": "https://doi.org/10.1080/00031305.2016.1154108",
+        "role": "方法論・公的指針・研究分類資料",
+        "source_type": "professional_statement",
+        "verification_note": "米国統計学会の解釈指針であり、統計的有意性の最初の原典ではない",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "confidence-interval",
+      "effect-size",
+      "statistical-power"
+    ],
+    "articles": [],
+    "original_definition": "統計モデルと帰無仮説の下で算出するp値が、事前に設定した有意水準を下回るなどの基準を満たすこと。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+    "categories": [
+      "効果検証・設計"
+    ],
+    "academic_domains": [
+      "評価",
+      "実装研究"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "perceived-susceptibility",
+    "ja": "罹患・被害の可能性認知",
+    "en": "Perceived Susceptibility",
+    "cat": "防護行動・リスク認知",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "本人が特定の危険や被害を受ける可能性をどう見積もるかという主観的な認知。",
+    "explanation": "健康信念モデルなどで脅威の認知を構成する一要素とされる。",
+    "application_hypothesis": "自分が特殊詐欺の電話を受ける可能性についてどう考えているかを測る。",
+    "limitations": "客観的確率、被害の重大性、対策への意欲とは別の概念である。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Rosenstock (1974), Historical Origins of the Health Belief Model",
+        "url": "https://doi.org/10.1177/109019817400200403",
+        "role": "歴史・モデル解説論文",
+        "source_type": "theoretical_primary",
+        "verification_note": "健康信念モデルの成立経緯を示す基礎資料（書誌を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "risk-perception",
+      "perceived-severity",
+      "health-belief-model"
+    ],
+    "articles": [],
+    "categories": [
+      "防護行動・リスク認知"
+    ]
+  },
+  {
+    "id": "habit-formation",
+    "ja": "習慣形成",
+    "en": "Habit Formation",
+    "cat": "介入技法",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "状況と反応を繰り返し結び付けることで、目標を毎回意識しなくても行動が起きやすくなる学習過程。",
+    "application_hypothesis": "駐輪と二重施錠を結びつける。",
+    "limitations": "初回行動への効果と長期継続への効果は別。自己申告の習慣と実観察行動も区別する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Wood & Rünger (2016), Psychology of Habit",
+        "url": "https://doi.org/10.1146/annurev-psych-122414-033417",
+        "role": "専門レビュー（原典と区別）",
+        "source_type": "scholarly_review"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "特定状況での反復によって比較的自動的に行動するようになる過程。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "介入技法"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "active-choice",
+    "ja": "能動的選択",
+    "en": "Active Choice",
+    "cat": "介入技法",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "未選択で先に進めない仕組みを設け、選ぶ行為そのものを本人に求める。デフォルトと異なり、利用・拒否のいずれも本人が明示する。",
+    "application_hypothesis": "防犯機能の利用有無を本人が明示的に選ぶ。",
+    "limitations": "判断を求める回数を増やすと負担や反発につながる。明示的選択をさせることが常に利用率を高めるとは限らない。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "OECD (2019) BASIC Toolkit",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "choice-architecture",
+      "default",
+      "status-quo-bias"
+    ],
+    "articles": [],
+    "original_definition": "選択を放置させず、本人に明示的な意思決定を求める設計。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "介入技法"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "threat-appraisal",
+    "ja": "脅威評価",
+    "en": "Threat Appraisal",
+    "cat": "防護行動・リスク認知",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "防護動機理論等で、危険の深刻さ、起こりやすさ、危険行動を続ける利益などを評価する過程。",
+    "explanation": "脅威にさらされる可能性と結果の重大さに加え、不適切な行動を維持する理由を考慮する。",
+    "application_hypothesis": "詐欺被害の可能性だけでなく、電話応答の利便性も併せて調べる。",
+    "limitations": "「恐怖が強いほど必ず予防行動が増える」と単純化してはならない。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Rogers (1975), A Protection Motivation Theory of Fear Appeals and Attitude Change",
+        "url": "https://doi.org/10.1080/00223980.1975.9915803",
+        "role": "理論提唱原著",
+        "source_type": "theoretical_primary",
+        "verification_note": "防護動機理論の初期原著（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "risk-perception",
+      "coping-appraisal",
+      "perceived-severity"
+    ],
+    "articles": [],
+    "categories": [
+      "防護行動・リスク認知"
+    ]
+  },
+  {
+    "id": "self-efficacy",
+    "ja": "自己効力感",
+    "en": "Self-efficacy",
+    "cat": "行動の障壁",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "特定の課題を自分で実行できるという見込みや確信。能力そのものではなく、課題と状況に即した自己認識。",
+    "application_hypothesis": "スマホ操作を自力で完了できると感じるか測る。",
+    "limitations": "対策の効果を信じる反応効果性とは別。自信だけを高めても技能や設備がなければ実行困難。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Bandura (1977), Self-Efficacy",
+        "url": "https://doi.org/10.1037/0033-295X.84.2.191",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "capability-opportunity-motivation-behaviour",
+      "response-efficacy",
+      "risk-perception"
+    ],
+    "articles": [],
+    "original_definition": "求められる行動を自分で実行できると考える認識。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "行動の障壁"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "self-determination-theory",
+    "ja": "自己決定理論",
+    "en": "Self-Determination Theory",
+    "cat": "意思決定・動機づけ",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "自律性、有能感、関係性への基本的欲求と動機づけの質に注目する理論。",
+    "explanation": "自分で選んでいるという感覚や必要な能力・支援が、行動の持続と関連すると考える。",
+    "application_hypothesis": "防犯対策を一方的に強制する説明と、理由を示し選択を支援する説明を比較する。",
+    "limitations": "自律性の尊重は無制限の選択肢を示すことではない。制度や文化への一般化は要検証。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Deci & Ryan (2000), The “What” and “Why” of Goal Pursuits",
+        "url": "https://doi.org/10.1207/S15327965PLI1104_01",
+        "role": "理論研究論文",
+        "source_type": "theoretical_primary",
+        "verification_note": "自己決定理論の主要論考（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "intrinsic-motivation",
+      "autonomy-support"
+    ],
+    "articles": [],
+    "categories": [
+      "意思決定・動機づけ"
+    ]
+  },
+  {
+    "id": "autonomy-support",
+    "ja": "自律性支援",
+    "en": "Autonomy Support",
+    "cat": "意思決定・動機づけ",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "相手の視点を尊重し、理由を説明し、不必要な統制を避けながら選択を支える関わり方。",
+    "explanation": "本人の納得感と主体性を尊重することが動機づけに関わると考える。",
+    "application_hypothesis": "防犯設定の利点と選択可能な方法を示し、自身で選べる案内を検討する。",
+    "limitations": "選択肢を増やすこと自体が必ず良いわけではない。負担や制度上の条件を考慮する。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Deci & Ryan (2000), The “What” and “Why” of Goal Pursuits",
+        "url": "https://doi.org/10.1207/S15327965PLI1104_01",
+        "role": "理論研究論文",
+        "source_type": "theoretical_primary",
+        "verification_note": "自己決定理論の主要論考（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "self-determination-theory",
+      "psychological-reactance"
+    ],
+    "articles": [],
+    "categories": [
+      "意思決定・動機づけ"
+    ]
+  },
+  {
+    "id": "attitude-toward-behaviour",
+    "ja": "行動に対する態度",
+    "en": "Attitude Toward the Behavior",
+    "cat": "意思決定・動機づけ",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "特定の行動を本人が好ましいか好ましくないかと評価する程度。人や対象一般への好き嫌いとは区別する。",
+    "explanation": "行動の利益・不利益に関する信念や評価が態度に結び付くと考える。",
+    "application_hypothesis": "「防犯アプリが良いと思うか」ではなく「今週導入することをどう評価するか」を測定する。",
+    "limitations": "態度が好意的でも、機会や能力が不足すれば行動が起きないことがある。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Ajzen (1991), The theory of planned behavior",
+        "url": "https://doi.org/10.1016/0749-5978(91)90020-T",
+        "role": "理論・関連研究レビュー",
+        "source_type": "theoretical_primary",
+        "verification_note": "提唱理論の主要原著（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "theory-of-planned-behaviour",
+      "intention-behaviour-gap"
+    ],
+    "articles": [],
+    "categories": [
+      "意思決定・動機づけ"
+    ]
+  },
+  {
+    "id": "behavioural-insights",
+    "ja": "行動インサイト",
+    "en": "Behavioural Insights",
+    "cat": "基本概念",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "実際の対象行動を観察・診断し、行動科学に基づく施策を設計、効果検証、改善する政策実践。ナッジだけを意味するものではない。",
+    "application_hypothesis": "防犯アプリの導入障壁を調べる。",
+    "limitations": "特定の介入が効果的である保証はない。倫理、透明性、公平性、選択の自由も検討する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "OECD (2019) BASIC Toolkit",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "心理学・行動科学等の研究知見を実際の行動と政策の設計・検証に結びつける方法。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "基本概念"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "behavioural-bottleneck",
+    "ja": "行動上のボトルネック",
+    "en": "Behavioural Bottleneck",
+    "cat": "行動の障壁",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "情報への接触、理解、意図形成、実行、継続という過程のどこで特に脱落するかを、データから特定する診断上の考え方。",
+    "application_hypothesis": "到達→理解→設定→継続のどこで脱落するか調べる。",
+    "limitations": "「面倒だから」と決めつけず、段階ごとに測定する。原因が一つとは限らず、複数の障壁が重なる場合がある。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "OECD (2019) BASIC Toolkit",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      },
+      {
+        "title": "Michie et al. (2011), Behaviour Change Wheel / COM-B",
+        "url": "https://doi.org/10.1186/1748-5908-6-42",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "目標行動に到る過程で、行動の実現を主に阻んでいる段階や条件。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究実務上の記述語。定義・使われ方が文献間で異なり得る",
+    "categories": [
+      "行動の障壁"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "readiness-to-change",
+    "ja": "行動変容への準備性",
+    "en": "Readiness to Change",
+    "cat": "意思決定・動機づけ",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "対象者がある行動を変えることについて、どの程度意思や準備を持っているか。",
+    "explanation": "知識不足、意思形成、準備行動、実行中などの違いを把握する視点。",
+    "application_hypothesis": "防犯講習の前に対象者の利用意向と準備状況を調査する。",
+    "limitations": "準備性は固定した個人属性ではなく、行動や状況ごとに変わる。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Prochaska & DiClemente (1983), Stages and processes of self-change of smoking",
+        "url": "https://doi.org/10.1037/0022-006X.51.3.390",
+        "role": "実証研究",
+        "source_type": "representative_primary",
+        "verification_note": "段階モデルの代表的初期研究（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "stages-of-change-model"
+    ],
+    "articles": [],
+    "categories": [
+      "意思決定・動機づけ"
+    ]
+  },
+  {
+    "id": "prompt-cue",
+    "ja": "行動手掛かり",
+    "en": "Behavioural Cue",
+    "cat": "介入技法",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "行動する状況・場所に関連付けて配置され、望ましい行動の開始や想起を支援する具体的刺激や合図。行動変容技法分類BCTTv1の「Prompts/cues」に対応する。",
+    "application_hypothesis": "施錠位置で注意表示が目に入るようにする。",
+    "limitations": "リマインダー（通知）やタイムリーな働きかけと重なるが、媒体や機能の焦点が異なる。接触率と行動を別測定する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Michie et al. (2013), Behavior Change Technique Taxonomy v1",
+        "url": "https://doi.org/10.1007/s12160-013-9486-6",
+        "role": "方法論・公的指針・研究分類資料",
+        "source_type": "operational_taxonomy",
+        "verification_note": "行動変容技法「7.1 Prompts/cues」の分類基準",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "limited-attention",
+      "reminder",
+      "timely-prompt"
+    ],
+    "articles": [],
+    "original_definition": "望ましい行動が必要となる状況で、その行動を想起・開始する合図や刺激。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究実務上の記述語。定義・使われ方が文献間で異なり得る",
+    "categories": [
+      "介入技法"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "behavioral-economics",
+    "ja": "行動経済学",
+    "en": "Behavioral Economics",
+    "cat": "基本概念",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "伝統的な合理的選択モデルの予測からの乖離や、その背後の心理・文脈依存性を実験・データで扱う。選好、時間、リスク、社会的要因など対象は広い。",
+    "application_hypothesis": "施錠が有益と理解していても実行しない理由を考える。",
+    "limitations": "一つのバイアスから個人の行動を断定しない。行動経済学の理論と、行動科学・心理学の技法を同一視しない。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Kahneman & Tversky (1979), Prospect Theory",
+        "url": "https://doi.org/10.2307/1914185",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      },
+      {
+        "title": "OECD (2019) BASIC Toolkit",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "心理的・社会的要因を意思決定や経済行動の分析に組み込む研究分野。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "基本概念"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "implementation-plan",
+    "ja": "行動計画",
+    "en": "Action Planning",
+    "cat": "介入技法",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "いつ・どこで・何を・誰と・どう行うかを具体的に整理し、実行手順や障壁への対応を計画する。",
+    "application_hypothesis": "防犯機器の設置手順と日時を決める。",
+    "limitations": "実行意図（if–then型）と重なるが同義ではない。計画の詳細が負担を増やす場合もある。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Gollwitzer (1999), Implementation Intentions",
+        "url": "https://doi.org/10.1037/0003-066X.54.7.493",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      },
+      {
+        "title": "Milkman et al. (2011), Vaccination Field Experiment",
+        "url": "https://doi.org/10.1073/pnas.1103170108",
+        "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+        "source_type": "representative_empirical"
+      },
+      {
+        "title": "Sniehotta et al. (2005), Action Planning and Coping Planning",
+        "url": "https://doi.org/10.1002/ejsp.258",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "representative_primary",
+        "verification_note": "行動計画と障壁対処計画を区別",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "implementation-intention-gap",
+      "implementation-intentions",
+      "intention-behaviour-gap",
+      "planning-fallacy"
+    ],
+    "articles": [],
+    "original_definition": "目標行動をいつ・どこで・どのように実施するかを具体化する計画。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "介入技法"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "observational-learning",
+    "ja": "観察学習",
+    "en": "Observational Learning",
+    "cat": "社会心理・対人関係",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "他者が行動する様子やその結果を見て、自分の行動を学ぶこと。",
+    "explanation": "注意、記憶、再現可能性、動機づけなどの過程が関わる。",
+    "application_hypothesis": "防犯担当者が実物のスマートフォンで設定を見せる実演を検証する。",
+    "limitations": "実演を見たことと、本人が単独で操作できることを区別する。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Bandura (1977), Social Learning Theory",
+        "url": "https://www.ncbi.nlm.nih.gov/nlmcatalog/101562611",
+        "role": "原著書籍（書誌確認）",
+        "source_type": "book_bibliography",
+        "verification_note": "原著書籍の書誌・目次を確認、本文未精査",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "social-learning-theory",
+      "self-efficacy"
+    ],
+    "articles": [],
+    "categories": [
+      "社会心理・対人関係"
+    ]
+  },
+  {
+    "id": "implementation-intention-gap",
+    "ja": "計画と実行の不一致",
+    "en": "Planning–Action Gap",
+    "cat": "行動の障壁",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "行動する計画を立てても実際には実行されない状態を、記述的に指すための補助表現。心理学で比較的定着した「意図と行動のギャップ」と異なり、独立した共通定義や単一の原典は確認できない。",
+    "application_hypothesis": "設定予定日を決めた人が導入に至る率を確認する。",
+    "limitations": "原典が確立した概念であるかのように紹介しない。独立項目として残す場合は「意図と行動のギャップ」の補足・関連概念と明記する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Gollwitzer & Sheeran (2006), Implementation Intentions and Goal Achievement",
+        "url": "https://doi.org/10.1016/S0065-2601(06)38002-1",
+        "role": "専門レビュー・関連研究",
+        "source_type": "related_synthesis",
+        "verification_note": "意図と達成の隔たりを扱うが「計画と実行の不一致」を独立した標準概念として提唱したものではない",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "nonstandard_term",
+    "related_terms": [
+      "implementation-intentions",
+      "implementation-plan",
+      "intention-behaviour-gap"
+    ],
+    "articles": [],
+    "original_definition": "立てた行動計画とその実施結果の不一致を指す説明表現。独立した標準学術用語としての原典は確認されていない。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "便宜的な記述表現（独立した標準化学術用語としては扱わない）",
+    "categories": [
+      "行動の障壁"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "no_unique_established_origin",
+    "origin_audit_note": "独立した標準学術用語としての提唱原典は確認できない。意図と行動のギャップの下位説明として扱うことを推奨。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "planning-fallacy",
+    "ja": "計画錯誤",
+    "en": "Planning Fallacy",
+    "cat": "判断の偏り",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "将来の作業について、過去の類似作業の実績や障害を十分考慮せず、所要時間・期限などを楽観的に見積もりやすい傾向。費用超過を含む場合もあるが原著の中心は完了時間の予測である。",
+    "application_hypothesis": "防犯機器の設定作業に要する時間見積もりと実測時間を比較する。",
+    "limitations": "単純な先延ばしとは異なる。予定所要時間と実際の所要時間を比較する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Buehler, Griffin & Ross (1994), Exploring the Planning Fallacy",
+        "url": "https://doi.org/10.1037/0022-3514.67.3.366",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "foundational_primary",
+        "verification_note": "計画錯誤の代表的実験研究",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "hyperbolic-discounting",
+      "present-bias",
+      "sunk-cost-effect"
+    ],
+    "articles": [],
+    "original_definition": "将来の作業の完了に必要な時間などを、過去の実績や障害を十分に考慮せず楽観的に見積もる傾向。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "判断の偏り"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "descriptive-norms",
+    "ja": "記述的規範",
+    "en": "Descriptive Norms",
+    "cat": "社会的影響",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "周囲で実際に多い行動についての知覚。観察事実そのものではなく、当事者の認識として作用する場合もある。",
+    "application_hypothesis": "実測された二重施錠率を伝える。",
+    "limitations": "低い遵守率を示すと低水準への同調を招くおそれがある。命令的規範との違いを区別する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Schultz et al. (2007), Social Norms and Boomerang Effect",
+        "url": "https://doi.org/10.1111/j.1467-9280.2007.01917.x",
+        "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+        "source_type": "representative_empirical"
+      },
+      {
+        "title": "Cialdini, Reno & Kallgren (1990), Focus Theory of Normative Conduct",
+        "url": "https://doi.org/10.1037/0022-3514.58.6.1015",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "foundational_primary",
+        "verification_note": "記述的・命令的規範を区別する代表研究。後続の追試では一部結果が一致しない",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "boomerang-effect",
+      "injunctive-norms",
+      "social-norms",
+      "social-proof"
+    ],
+    "articles": [],
+    "original_definition": "周囲の人が実際にどうしているかについての認識。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "社会的影響"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "cognitive-bias",
+    "ja": "認知バイアス",
+    "en": "Cognitive Bias",
+    "cat": "基本概念",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "情報処理や判断が特定方向へ系統的にずれる現象を総称する。特定の課題・基準・測定手法との関係で定義される。",
+    "application_hypothesis": "印象的な事件の頻度を高く見積もる。",
+    "limitations": "直感的判断をすべてバイアスとしない。観察された誤判断の原因を実験的に調べる。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Tversky & Kahneman (1974), Judgment under Uncertainty",
+        "url": "https://doi.org/10.1126/science.185.4157.1124",
+        "role": "基礎・代表原著（初出とは限らない）",
+        "source_type": "foundational_or_direct_research"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "判断や情報処理に生じる系統的な偏りの総称。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "基本概念"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "cognitive-dissonance",
+    "ja": "認知的不協和",
+    "en": "Cognitive Dissonance",
+    "cat": "認知・判断",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "態度・信念・行動などが矛盾するときに生じる心理的不整合や、その低減過程を説明する概念。",
+    "explanation": "人は矛盾を解消するため態度の再解釈や行動の正当化などを行うことがある。",
+    "application_hypothesis": "施錠しない人が「この地域は安全だから」と説明する理由を探索する。",
+    "limitations": "本人の発言だけから不協和を断定できない。介入効果も別途検証が必要。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Festinger & Carlsmith (1959), Cognitive consequences of forced compliance",
+        "url": "https://doi.org/10.1037/h0041593",
+        "role": "実験研究",
+        "source_type": "representative_primary",
+        "verification_note": "認知的不協和研究の代表実験（書誌・論文情報を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "confirmation-bias"
+    ],
+    "articles": [],
+    "categories": [
+      "認知・判断"
+    ]
+  },
+  {
+    "id": "cognitive-appraisal",
+    "ja": "認知的評価（ストレス）",
+    "en": "Cognitive Appraisal",
+    "cat": "防護行動・リスク認知",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "出来事が自分にとってどのような意味を持ち、対処できるかを評価する過程。",
+    "explanation": "脅威・損失・挑戦としての意味づけや、利用できる対処資源が反応に関わると考える。",
+    "application_hypothesis": "詐欺の警告を見た人の脅威・対処資源認知を別々に調査する。",
+    "limitations": "一般的な認知評価とPMTの脅威評価・対処評価は理論文脈が異なる。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Lazarus & Folkman (1984), Stress, Appraisal, and Coping",
+        "url": "https://books.google.com/books/about/Stress_Appraisal_and_Coping.html?id=FFBqAAAAMAAJ",
+        "role": "原著書籍（書誌確認）",
+        "source_type": "book_bibliography",
+        "verification_note": "原著書籍の書誌情報を確認、本文未精査",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "threat-appraisal",
+      "coping-appraisal"
+    ],
+    "articles": [],
+    "categories": [
+      "防護行動・リスク認知"
+    ]
+  },
+  {
+    "id": "cognitive-load",
+    "ja": "認知負荷",
+    "en": "Cognitive Load",
+    "cat": "行動の障壁",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "同時に理解・記憶・操作しなければならない情報が増えることで、限られた作業記憶などの処理資源が圧迫される。",
+    "application_hypothesis": "複雑な広報と簡素化した広報の理解率を比較する。",
+    "limitations": "複雑な情報がすべて不要とは限らない。理解度や操作完了率で評価する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Sweller (1988), Cognitive Load During Problem Solving",
+        "url": "https://doi.org/10.1207/s15516709cog1202_4",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "foundational_primary",
+        "verification_note": "認知負荷理論の初期の基礎研究",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "課題を処理する際に限られた認知資源に掛かる負担。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "行動の障壁"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "foundational_or_method_source_verified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "diffusion-of-responsibility",
+    "ja": "責任の分散",
+    "en": "Diffusion of Responsibility",
+    "cat": "社会心理・対人関係",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "他にも対応する人がいると考えることで、一人ひとりが感じる対応責任が弱まる現象。",
+    "explanation": "誰が行動すべきか不明確になることが、通報や援助の遅れに関わる場合がある。",
+    "application_hypothesis": "防犯講習で「誰か」ではなく通報担当者・連絡先を具体的に示す。",
+    "limitations": "傍観者効果の一つの説明要因であり、すべての不作為を説明するわけではない。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Darley & Latané (1968), Bystander intervention in emergencies",
+        "url": "https://doi.org/10.1037/h0025589",
+        "role": "実験研究",
+        "source_type": "representative_primary",
+        "verification_note": "責任の分散に関する実験（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "bystander-effect"
+    ],
+    "articles": [],
+    "categories": [
+      "社会心理・対人関係"
+    ]
+  },
+  {
+    "id": "overconfidence",
+    "ja": "過信",
+    "en": "Overconfidence",
+    "cat": "判断の偏り",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "自分の判断能力や知識の精度について確信が強すぎること。過大評価、他者より優れているとの認識、確信区間の狭さなど異なる形がある。",
+    "application_hypothesis": "詐欺を見抜く自信と模擬判別課題の成績を比較する。",
+    "limitations": "過信の測定は種類ごとに異なる。詐欺の識別能力が本当に低いか実験で確かめる。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Moore & Healy (2008), The Trouble with Overconfidence",
+        "url": "https://doi.org/10.1037/0033-295X.115.2.502",
+        "role": "専門レビュー（原典と区別）",
+        "source_type": "scholarly_review"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "自分の判断精度や能力を実際以上に高く評価する傾向。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "判断の偏り"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  },
+  {
+    "id": "choice-architecture",
+    "ja": "選択アーキテクチャ",
+    "en": "Choice Architecture",
+    "cat": "基本概念",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "選択肢の順序、配置、デフォルト、導線や手続を通じて、選択を取り巻く環境を構成する。",
+    "application_hypothesis": "防犯設定画面を整理する。",
+    "limitations": "選択肢を隠す・誤認させる操作と区別する。公平性と本人の自律性を確認する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "OECD (2019) BASIC Toolkit",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      },
+      {
+        "title": "Thaler & Sunstein (2008), Nudge",
+        "url": "https://yalebooks.co.uk/book/9780300146813/nudge/",
+        "role": "原著書籍（本文未精査、書誌/出版社資料）",
+        "source_type": "foundational_book_publisher",
+        "verification_note": "選択アーキテクチャを政策に応用する原著書籍",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "active-choice",
+      "default",
+      "status-quo-bias"
+    ],
+    "articles": [],
+    "original_definition": "選択肢の表示・配置・初期設定など意思決定環境の構造。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "基本概念"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "simplification",
+    "ja": "選択環境の簡素化",
+    "en": "Simplification",
+    "cat": "介入技法",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "判断や手続に必要な情報を整理し、不要な段階や冗長な説明を減らして処理負担を下げる。",
+    "application_hypothesis": "設定方法を明確な数手順にまとめる。",
+    "limitations": "情報を削りすぎると重要な注意点が伝わらない。理解と実行の双方で検証する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Behavioural Insights Team, EAST",
+        "url": "https://ojs.unbc.ca/index.php/design/article/view/1658",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      },
+      {
+        "title": "OECD (2019) BASIC Toolkit",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [
+      "friction-costs",
+      "response-cost",
+      "sludge"
+    ],
+    "articles": [],
+    "original_definition": "情報や手順を整理して不要な選択負担を減らすこと。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "介入技法"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "choice-overload",
+    "ja": "選択過負荷",
+    "en": "Choice Overload",
+    "cat": "判断の偏り",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "選択肢や比較すべき属性が増えると、特定の条件では判断負担が高まり、決定回避や満足度低下が生じる。",
+    "application_hypothesis": "防犯機器の多すぎる選択肢で購入が先延ばしになる。",
+    "limitations": "効果は選択肢の配置、専門性、好みの明確さに左右される。選択肢が多いほど必ず悪いわけではない。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Iyengar & Lepper (2000), Choice and Motivation",
+        "url": "https://doi.org/10.1037/0022-3514.79.6.995",
+        "role": "関連する専門資料",
+        "source_type": "other_scholarly_source"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "選択肢や情報の多さが選択を難しくする場合がある現象。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "判断の偏り"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "perceived-severity",
+    "ja": "重大性認知",
+    "en": "Perceived Severity",
+    "cat": "防護行動・リスク認知",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "被害が発生した場合の身体的、経済的、社会的影響を本人がどの程度重大と考えるか。",
+    "explanation": "危険の起きやすさだけでなく、起きた場合の結果の重さを評価する。",
+    "application_hypothesis": "口座情報流出や住宅侵入被害の深刻さをどう認識しているかを調べる。",
+    "limitations": "確率認知と重大性認知を単一質問で混同しない。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Rosenstock (1974), Historical Origins of the Health Belief Model",
+        "url": "https://doi.org/10.1177/109019817400200403",
+        "role": "歴史・モデル解説論文",
+        "source_type": "theoretical_primary",
+        "verification_note": "健康信念モデルの成立経緯を示す基礎資料（書誌を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "perceived-susceptibility",
+      "risk-perception"
+    ],
+    "articles": [],
+    "categories": [
+      "防護行動・リスク認知"
+    ]
+  },
+  {
+    "id": "bounded-rationality",
+    "ja": "限定合理性",
+    "en": "Bounded Rationality",
+    "cat": "基本概念",
+    "schema_version": "4.0",
+    "academic_domain": "行動経済学・関連心理学",
+    "explanation": "人間は利用できる情報や処理能力が限られるため、完全な最適化でなく満足できる選択を行うことがある。",
+    "application_hypothesis": "複雑な機能説明が理解を妨げる。",
+    "limitations": "情報を減らすことが常に改善とは限らない。重要な判断に必要な情報は確保する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "OECD (2019) BASIC Toolkit",
+        "url": "https://doi.org/10.1787/9ea76a8f-en",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      },
+      {
+        "title": "Simon (1955), A Behavioral Model of Rational Choice",
+        "url": "https://doi.org/10.2307/1884852",
+        "role": "概念を直接扱う原著・一次研究",
+        "source_type": "foundational_primary",
+        "verification_note": "限定合理性の理論的基礎",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "時間や情報、認知能力に制約があり、完全な最適化ができないこと。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "基本概念"
+    ],
+    "academic_domains": [
+      "行動経済学",
+      "関連心理学"
+    ],
+    "origin_audit_status": "direct_or_foundational_study_identified",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics"
+    ]
+  },
+  {
+    "id": "perceived-barriers",
+    "ja": "障壁認知",
+    "en": "Perceived Barriers",
+    "cat": "防護行動・リスク認知",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "ある行動を実行する際に予想される費用、時間、面倒さ、不安、副作用などの不利益の認知。",
+    "explanation": "行動の利益が認識されていても、障壁が大きいと実行が阻まれると考える。",
+    "application_hypothesis": "インストールの面倒さ、不安な権限設定、料金負担を分けて測る。",
+    "limitations": "実際の手間と主観的な負担の認知は同じではない。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Rosenstock (1974), Historical Origins of the Health Belief Model",
+        "url": "https://doi.org/10.1177/109019817400200403",
+        "role": "歴史・モデル解説論文",
+        "source_type": "theoretical_primary",
+        "verification_note": "健康信念モデルの成立経緯を示す基礎資料（書誌を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "response-cost",
+      "friction-costs"
+    ],
+    "articles": [],
+    "categories": [
+      "防護行動・リスク認知"
+    ]
+  },
+  {
+    "id": "collective-efficacy",
+    "ja": "集合的効力感",
+    "en": "Collective Efficacy",
+    "cat": "社会心理・対人関係",
+    "schema_version": "4.0",
+    "academic_domain": "心理学（隣接学術分野を含む）",
+    "academic_domains": [
+      "心理学"
+    ],
+    "library_tabs": [
+      "psychology"
+    ],
+    "original_definition": "地域の社会的結束と、公共の利益のために周囲が介入しようとする期待を結び付けた概念。",
+    "explanation": "地域で相互に協力し問題へ対応するという共有された期待と社会関係に着目する。",
+    "application_hypothesis": "地域内の協力期待と犯罪発生との関連を、社会経済条件などを考慮して調べる。",
+    "limitations": "Sampsonらの研究は観察研究であり、集合的効力感を高めれば必ず犯罪が減るという因果結論ではない。",
+    "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+    "sources": [
+      {
+        "title": "Sampson, Raudenbush & Earls (1997), Neighborhoods and Violent Crime",
+        "url": "https://doi.org/10.1126/science.277.5328.918",
+        "role": "観察研究",
+        "source_type": "observational",
+        "verification_note": "集合的効力感と犯罪の関連を扱う観察研究（公開要旨を確認）",
+        "verified_at": "2026-10-03"
+      }
+    ],
+    "verification_status": "source_checked",
+    "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+    "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+    "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+    "related_terms": [
+      "social-norms",
+      "procedural-justice"
+    ],
+    "articles": [],
+    "categories": [
+      "社会心理・対人関係"
+    ]
+  },
+  {
+    "id": "salience",
+    "ja": "顕著性",
+    "en": "Salience",
+    "cat": "社会的影響",
+    "schema_version": "4.0",
+    "academic_domain": "行動科学・心理学",
+    "explanation": "色・大きさ・対比・場所・個人的な関連性などによって、情報が注意を引きやすい性質。",
+    "application_hypothesis": "施錠する場所に表示を置く。",
+    "limitations": "目立つことは理解・記憶・実行を意味しない。ポスターの設置数ではなく視認率を確認する。",
+    "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+    "sources": [
+      {
+        "title": "Institute for Government (2010), MINDSPACE",
+        "url": "https://www.instituteforgovernment.org.uk/sites/default/files/publications/MINDSPACE.pdf",
+        "role": "政策・実務上の枠組み",
+        "source_type": "policy_framework"
+      }
+    ],
+    "verification_status": "source_checked",
+    "related_terms": [],
+    "articles": [],
+    "original_definition": "目立ち、注意が向けられやすい性質。",
+    "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+    "concept_status": "研究概念。個別の応用効果とは区別",
+    "categories": [
+      "社会的影響"
+    ],
+    "academic_domains": [
+      "行動科学",
+      "心理学"
+    ],
+    "origin_audit_status": "review_framework_or_representative_source_only",
+    "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+    "library_tabs": [
+      "behavioral_economics",
+      "psychology"
+    ]
+  }
+]
