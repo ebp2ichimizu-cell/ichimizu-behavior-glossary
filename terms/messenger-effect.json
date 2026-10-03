@@ -1,0 +1,42 @@
+{
+  "id": "messenger-effect",
+  "ja": "メッセンジャー効果",
+  "en": "Messenger Effect",
+  "cat": "社会的影響",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "情報の内容が同じでも、発信者の属性、信頼、専門性、親近感などにより受け手の反応が変わり得る。",
+  "application_hypothesis": "署長・市町村長・家族による案内を比較する。",
+  "limitations": "特定の役職者だから必ず有効というわけではない。権威バイアスは考えられる一要因にすぎない。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Institute for Government (2010), MINDSPACE",
+      "url": "https://www.instituteforgovernment.org.uk/sites/default/files/publications/MINDSPACE.pdf",
+      "role": "政策・実務上の枠組み",
+      "source_type": "policy_framework"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "authority-bias",
+    "messenger-incentives-norms-defaults-salience-priming-affect-commitments-ego"
+  ],
+  "articles": [],
+  "original_definition": "情報の内容に加え発信者が反応に影響すること。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "社会的影響"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "review_framework_or_representative_source_only",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

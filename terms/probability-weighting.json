@@ -1,0 +1,43 @@
+{
+  "id": "probability-weighting",
+  "ja": "確率加重",
+  "en": "Probability Weighting",
+  "cat": "意思決定の理論",
+  "schema_version": "4.0",
+  "academic_domain": "行動経済学・関連心理学",
+  "explanation": "主観的な意思決定重みが客観確率と一致しない場合をモデル化する。小さい確率が相対的に強調される等の形を取り得る。",
+  "application_hypothesis": "低確率の犯罪被害をどう認識するか調べる。",
+  "limitations": "「低確率なら必ず過大評価」と単純化しない。行動と確率の提示条件を揃える。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Kahneman & Tversky (1979), Prospect Theory",
+      "url": "https://doi.org/10.2307/1914185",
+      "role": "基礎・代表原著（初出とは限らない）",
+      "source_type": "foundational_or_direct_research"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "framing-effect",
+    "loss-aversion",
+    "prospect-theory",
+    "reference-dependence"
+  ],
+  "articles": [],
+  "original_definition": "客観的確率をそのまま判断に使わず、非線形に重み付けする現象・モデル。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "意思決定の理論"
+  ],
+  "academic_domains": [
+    "行動経済学",
+    "関連心理学"
+  ],
+  "origin_audit_status": "direct_or_foundational_study_identified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

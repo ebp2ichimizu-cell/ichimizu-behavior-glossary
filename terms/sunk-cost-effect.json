@@ -1,0 +1,44 @@
+{
+  "id": "sunk-cost-effect",
+  "ja": "埋没費用効果",
+  "en": "Sunk Cost Effect",
+  "cat": "判断の偏り",
+  "schema_version": "4.0",
+  "academic_domain": "行動経済学・関連心理学",
+  "explanation": "回収できない過去の投資・努力を、これからの合理的な選択の判断材料として過度に重視する。",
+  "application_hypothesis": "効果が不明な防犯キャンペーンが前年予算を理由に継続されるか検討する。",
+  "limitations": "過去の事業への責任や追加の契約費など将来に影響する実費は別。将来の費用便益で再評価する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Arkes & Blumer (1985), The Psychology of Sunk Cost",
+      "url": "https://doi.org/10.1016/0749-5978(85)90049-4",
+      "role": "概念を直接扱う原著・一次研究",
+      "source_type": "foundational_primary",
+      "verification_note": "埋没費用効果を検証した古典的フィールド・実験研究",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "hyperbolic-discounting",
+    "planning-fallacy",
+    "present-bias"
+  ],
+  "articles": [],
+  "original_definition": "既に回収できない費用を、以後の判断に不適切に反映する傾向。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "判断の偏り"
+  ],
+  "academic_domains": [
+    "行動経済学",
+    "関連心理学"
+  ],
+  "origin_audit_status": "foundational_or_method_source_verified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

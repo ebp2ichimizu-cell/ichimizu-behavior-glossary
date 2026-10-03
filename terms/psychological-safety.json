@@ -1,0 +1,40 @@
+{
+  "id": "psychological-safety",
+  "ja": "心理的安全性",
+  "en": "Psychological Safety",
+  "cat": "社会心理・対人関係",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "チーム内で質問、懸念、誤りの報告など対人的なリスクを取っても安全だという共有された認識。",
+  "explanation": "発言による非難や恥への不安が少ないことで、情報共有や学習行動に関連すると考える。",
+  "application_hypothesis": "防犯活動の問題点や失敗を報告しやすいチームの運用を検討する。",
+  "limitations": "心理的安全性は判断の正しさや実務上の安全保障そのものではない。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Edmondson (1999), Psychological Safety and Learning Behavior in Work Teams",
+      "url": "https://doi.org/10.2307/2666999",
+      "role": "組織フィールド研究",
+      "source_type": "observational",
+      "verification_note": "チーム心理的安全性の代表研究（公開要旨を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "procedural-justice"
+  ],
+  "articles": [],
+  "categories": [
+    "社会心理・対人関係"
+  ]
+}

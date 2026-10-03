@@ -1,0 +1,54 @@
+{
+  "id": "social-proof",
+  "ja": "社会的証明",
+  "en": "Social Proof",
+  "cat": "社会的影響",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "不確実な場面で他人の行動を正しい選択の手掛かりとして使う過程。社会的影響の一つで、記述的規範と関連する。",
+  "application_hypothesis": "周囲の設定方法を参考にする。",
+  "limitations": "社会的証明という広い説得概念と、実際の頻度を示す「記述的規範」は重なるが同義ではない。他者の行動が望ましくないときは、逆方向の同調を招く可能性がある。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Cialdini (APA interview), Social Proof Principle",
+      "url": "https://www.apa.org/news/podcasts/speaking-of-psychology/persuasion",
+      "role": "補助的な研究・関連資料",
+      "source_type": "originator_explanation",
+      "verification_note": "提唱者本人の説明。原著書籍全文ではない",
+      "verified_at": "2026-10-03"
+    },
+    {
+      "title": "Cialdini & Goldstein (2004), Social Influence",
+      "url": "https://doi.org/10.1146/annurev.psych.55.090902.142015",
+      "role": "専門レビュー・関連研究",
+      "source_type": "scholarly_review",
+      "verification_note": "社会的影響に関するレビュー",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "related_sources_checked",
+  "related_terms": [
+    "boomerang-effect",
+    "descriptive-norms",
+    "injunctive-norms",
+    "social-norms"
+  ],
+  "articles": [],
+  "original_definition": "他者の行動を自分の選択の手掛かりとする現象。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "社会的影響"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "concept_related_primary_or_author_account",
+  "origin_audit_note": "原著書籍の所在は把握できるが、この用語の原著本文の直接精査は未了。提唱者本人の説明と学術レビューを確認。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

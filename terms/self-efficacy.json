@@ -1,0 +1,43 @@
+{
+  "id": "self-efficacy",
+  "ja": "自己効力感",
+  "en": "Self-efficacy",
+  "cat": "行動の障壁",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "特定の課題を自分で実行できるという見込みや確信。能力そのものではなく、課題と状況に即した自己認識。",
+  "application_hypothesis": "スマホ操作を自力で完了できると感じるか測る。",
+  "limitations": "対策の効果を信じる反応効果性とは別。自信だけを高めても技能や設備がなければ実行困難。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Bandura (1977), Self-Efficacy",
+      "url": "https://doi.org/10.1037/0033-295X.84.2.191",
+      "role": "基礎・代表原著（初出とは限らない）",
+      "source_type": "foundational_or_direct_research"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "capability-opportunity-motivation-behaviour",
+    "response-efficacy",
+    "risk-perception"
+  ],
+  "articles": [],
+  "original_definition": "求められる行動を自分で実行できると考える認識。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "行動の障壁"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "direct_or_foundational_study_identified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

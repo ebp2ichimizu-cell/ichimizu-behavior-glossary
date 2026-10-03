@@ -1,0 +1,51 @@
+{
+  "id": "response-efficacy",
+  "ja": "反応効果性",
+  "en": "Response Efficacy",
+  "cat": "行動の障壁",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "特定の防護行動が脅威を減らす効果を持つという本人の信念。自分が実行できるかを表す自己効力感とは区別する。",
+  "application_hypothesis": "不審電話対策が被害を防ぐと認識されているか測る。",
+  "limitations": "本人が効くと信じていることと、研究で実際に効果が確認されていることは異なる。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Michie et al. (2011), Behaviour Change Wheel / COM-B",
+      "url": "https://doi.org/10.1186/1748-5908-6-42",
+      "role": "基礎・代表原著（初出とは限らない）",
+      "source_type": "foundational_or_direct_research"
+    },
+    {
+      "title": "Rogers & Mewborn (1976), Fear Appeals and Attitude Change",
+      "url": "https://doi.org/10.1037/0022-3514.34.1.54",
+      "role": "概念を直接扱う原著・一次研究",
+      "source_type": "foundational_primary",
+      "verification_note": "対処の有効性に関する要因実験",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "capability-opportunity-motivation-behaviour",
+    "risk-perception",
+    "self-efficacy"
+  ],
+  "articles": [],
+  "original_definition": "ある対策が脅威や被害を減らせると認識すること。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "行動の障壁"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "direct_or_foundational_study_identified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "gain-loss-message-framing",
+  "ja": "利得・損失フレーミング（広報）",
+  "en": "Gain–Loss Message Framing",
+  "cat": "広報・説得",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "行動した場合の利益を強調するか、行動しなかった場合の損失を強調するかというメッセージ提示の違い。",
+  "explanation": "同じ予防行動について、利益側・損失側の表現で注意や判断が変わる可能性がある。",
+  "application_hypothesis": "防犯設定によって守れるものを示す広報と、未設定時のリスクを示す広報を比較する。",
+  "limitations": "どちらが優れるかは行動の種類、受け手、測定などによって異なる。単純な普遍則はない。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Rothman & Salovey (1997), Shaping Perceptions to Motivate Healthy Behavior",
+      "url": "https://doi.org/10.1037/0033-2909.121.1.3",
+      "role": "研究レビュー",
+      "source_type": "academic_review",
+      "verification_note": "メッセージのフレーム効果レビュー（公開要旨を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "framing-effect",
+    "loss-aversion"
+  ],
+  "articles": [],
+  "categories": [
+    "広報・説得"
+  ]
+}

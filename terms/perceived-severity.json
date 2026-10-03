@@ -1,0 +1,41 @@
+{
+  "id": "perceived-severity",
+  "ja": "重大性認知",
+  "en": "Perceived Severity",
+  "cat": "防護行動・リスク認知",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "被害が発生した場合の身体的、経済的、社会的影響を本人がどの程度重大と考えるか。",
+  "explanation": "危険の起きやすさだけでなく、起きた場合の結果の重さを評価する。",
+  "application_hypothesis": "口座情報流出や住宅侵入被害の深刻さをどう認識しているかを調べる。",
+  "limitations": "確率認知と重大性認知を単一質問で混同しない。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Rosenstock (1974), Historical Origins of the Health Belief Model",
+      "url": "https://doi.org/10.1177/109019817400200403",
+      "role": "歴史・モデル解説論文",
+      "source_type": "theoretical_primary",
+      "verification_note": "健康信念モデルの成立経緯を示す基礎資料（書誌を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "perceived-susceptibility",
+    "risk-perception"
+  ],
+  "articles": [],
+  "categories": [
+    "防護行動・リスク認知"
+  ]
+}

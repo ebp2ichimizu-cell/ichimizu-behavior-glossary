@@ -1,0 +1,48 @@
+{
+  "id": "messenger-incentives-norms-defaults-salience-priming-affect-commitments-ego",
+  "ja": "MINDSPACE",
+  "en": "Messenger, Incentives, Norms, Defaults, Salience, Priming, Affect, Commitments, Ego",
+  "cat": "効果検証・設計",
+  "schema_version": "4.0",
+  "academic_domain": "評価・実装研究",
+  "explanation": "Messenger・Incentives・Norms・Defaults・Salience・Priming・Affect・Commitments・Egoの9要因を整理した政策設計上の枠組み。",
+  "application_hypothesis": "広報に含まれるナッジ要素を整理する。",
+  "limitations": "各要素に強固で同等の実証根拠があるわけではない。特に微弱なプライミング効果の再現性は個別に確認する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Institute for Government (2010), MINDSPACE",
+      "url": "https://www.instituteforgovernment.org.uk/sites/default/files/publications/MINDSPACE.pdf",
+      "role": "政策・実務上の枠組み",
+      "source_type": "policy_framework"
+    },
+    {
+      "title": "Dolan et al. (2010), MINDSPACE",
+      "url": "https://www.instituteforgovernment.org.uk/publication/report/mindspace",
+      "checked": "bibliographic_and_concept",
+      "source_type": "policy_framework",
+      "role": "政策・実務上の枠組み"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "authority-bias",
+    "messenger-effect"
+  ],
+  "articles": [],
+  "original_definition": "行動に影響する9要素を整理した政策設計の枠組み。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "枠組み。効果の確立を意味しない",
+  "categories": [
+    "効果検証・設計"
+  ],
+  "academic_domains": [
+    "評価",
+    "実装研究"
+  ],
+  "origin_audit_status": "review_framework_or_representative_source_only",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

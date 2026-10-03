@@ -1,0 +1,41 @@
+{
+  "id": "intrinsic-motivation",
+  "ja": "内発的動機づけ",
+  "en": "Intrinsic Motivation",
+  "cat": "意思決定・動機づけ",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "活動そのものへの関心・面白さ・満足によって生じる動機づけ。報酬獲得のみを目的とする場合と区別する。",
+  "explanation": "外的な評価だけでなく、好奇心や達成感など活動自体の価値が行動を支える。",
+  "application_hypothesis": "防犯講習の参加継続に、興味・技能向上が関与しているか調べる。",
+  "limitations": "すべての防犯行動に内発的動機づけが必要なわけではない。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Deci & Ryan (2000), The “What” and “Why” of Goal Pursuits",
+      "url": "https://doi.org/10.1207/S15327965PLI1104_01",
+      "role": "理論研究論文",
+      "source_type": "theoretical_primary",
+      "verification_note": "自己決定理論の主要論考（公開要旨を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "self-determination-theory",
+    "incentive"
+  ],
+  "articles": [],
+  "categories": [
+    "意思決定・動機づけ"
+  ]
+}

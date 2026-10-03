@@ -1,0 +1,49 @@
+{
+  "id": "institutional-legitimacy",
+  "ja": "制度的正統性（警察等）",
+  "en": "Institutional Legitimacy",
+  "cat": "社会心理・対人関係",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "当局や組織が権限を行使することの適切さ、従う義務の認識などに関係する社会心理的概念。",
+  "explanation": "公正な取り扱いや制度への評価と、協力・法遵守への態度との関連が研究されている。",
+  "application_hypothesis": "警察の情報発信が信頼・協力意図とどのように関連するか調査する。",
+  "limitations": "概念の操作的定義は研究によって異なる。政策や統治の正当性への総合的判断とは区別する。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Tyler (2003), Procedural Justice, Legitimacy, and the Effective Rule of Law",
+      "url": "https://doi.org/10.1086/652233",
+      "role": "研究レビュー",
+      "source_type": "academic_review",
+      "verification_note": "手続的公正と正統性を論じた研究レビュー（公開要旨を確認）",
+      "verified_at": "2026-10-03"
+    },
+    {
+      "title": "Sunshine & Tyler (2003), The Role of Procedural Justice and Legitimacy",
+      "url": "https://doi.org/10.1111/1540-5893.3703002",
+      "role": "観察研究",
+      "source_type": "observational",
+      "verification_note": "警察への協力・支持との関連を扱う実証研究（公開要旨を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "procedural-justice",
+    "messenger-effect"
+  ],
+  "articles": [],
+  "categories": [
+    "社会心理・対人関係"
+  ]
+}

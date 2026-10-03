@@ -1,0 +1,45 @@
+{
+  "id": "risk-perception",
+  "ja": "リスク認知",
+  "en": "Risk Perception",
+  "cat": "行動の障壁",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "脅威や危険についての主観的評価。発生可能性と深刻さの認識に加え、制御可能性、なじみ、恐怖などの特徴も関係し得る。",
+  "application_hypothesis": "犯罪統計と住民の被害リスク認知の違いを調べる。",
+  "limitations": "認知を高めれば行動が増えるとは限らない。公的統計と主観評価を比較するときは対象・期間を揃える。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Slovic (1987), Perception of Risk",
+      "url": "https://doi.org/10.1126/science.3563507",
+      "role": "専門レビュー・関連研究",
+      "source_type": "foundational_review",
+      "verification_note": "心理測定的アプローチによるリスク認知研究の代表的総説",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "capability-opportunity-motivation-behaviour",
+    "response-efficacy",
+    "self-efficacy"
+  ],
+  "articles": [],
+  "original_definition": "被害の発生可能性・深刻さなどについての主観的な評価。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "行動の障壁"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "foundational_or_method_source_verified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

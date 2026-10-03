@@ -1,0 +1,41 @@
+{
+  "id": "outcome-expectancy",
+  "ja": "結果予期",
+  "en": "Outcome Expectancy",
+  "cat": "意思決定・動機づけ",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "特定の行動をした場合に、どのような結果が生じると本人が予想するか。",
+  "explanation": "行動で望ましい結果が得られるという予想は、行動を選ぶ理由の一部になる。",
+  "application_hypothesis": "二重施錠で盗難リスクが下がると考えるかを質問する。",
+  "limitations": "「自分にできるか」という自己効力感や実際の効果とは別。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Bandura (1977), Social Learning Theory",
+      "url": "https://www.ncbi.nlm.nih.gov/nlmcatalog/101562611",
+      "role": "原著書籍（書誌確認）",
+      "source_type": "book_bibliography",
+      "verification_note": "原著書籍の書誌・目次を確認、本文未精査",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "self-efficacy",
+    "perceived-benefits"
+  ],
+  "articles": [],
+  "categories": [
+    "意思決定・動機づけ"
+  ]
+}

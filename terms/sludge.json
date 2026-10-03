@@ -1,0 +1,50 @@
+{
+  "id": "sludge",
+  "ja": "スラッジ",
+  "en": "Sludge",
+  "cat": "介入技法",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "行政手続やサービス利用などにおいて、合理的な必要性が乏しい摩擦が望ましい選択・権利行使を妨げること。",
+  "application_hypothesis": "複雑な登録画面で申込みを断念する。",
+  "limitations": "全ての確認作業はスラッジではない。本人確認や安全確保のために必要な負担は区別する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "OECD (2019) BASIC Toolkit",
+      "url": "https://doi.org/10.1787/9ea76a8f-en",
+      "role": "政策・実務上の枠組み",
+      "source_type": "policy_framework"
+    },
+    {
+      "title": "Sunstein (2019), Sludge and Ordeals",
+      "url": "https://dlj.law.duke.edu/article/sludge-and-ordeals-sunstein-vol68-iss8/",
+      "role": "原著の理論研究・総説",
+      "source_type": "foundational_theoretical",
+      "verification_note": "スラッジの定義と政策上の正当化の条件を原著で確認",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "friction-costs",
+    "response-cost",
+    "simplification"
+  ],
+  "articles": [],
+  "original_definition": "望ましい選択を妨げる不要な手続負担・摩擦。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "介入技法"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "direct_or_foundational_study_identified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

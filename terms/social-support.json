@@ -1,0 +1,41 @@
+{
+  "id": "social-support",
+  "ja": "ソーシャルサポート（社会的支援）",
+  "en": "Social Support",
+  "cat": "社会心理・対人関係",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "情報提供、実務的援助、情緒的な支えなど、他者との関係を通じて得られる支援。",
+  "explanation": "ストレスと成果の関係を弱める場合や、幅広い生活状況で直接的に役立つ場合がある。",
+  "application_hypothesis": "高齢者の防犯アプリ設定を家族が補助する体制を評価する。",
+  "limitations": "支援の有無、受け取った支援、支援があるという認識は区別する。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Cohen & Wills (1985), Stress, Social Support, and the Buffering Hypothesis",
+      "url": "https://doi.org/10.1037/0033-2909.98.2.310",
+      "role": "学術レビュー",
+      "source_type": "academic_review",
+      "verification_note": "社会的支援についての主要レビュー（公開要旨を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "self-efficacy",
+    "perceived-barriers"
+  ],
+  "articles": [],
+  "categories": [
+    "社会心理・対人関係"
+  ]
+}

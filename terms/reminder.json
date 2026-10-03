@@ -1,0 +1,54 @@
+{
+  "id": "reminder",
+  "ja": "リマインダー",
+  "en": "Reminder",
+  "cat": "介入技法",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "予定していた行動や期限を思い出すように通知する。忘却や注意不足が主な障壁の場合に作用し得る。",
+  "application_hypothesis": "アプリ設定予定日に通知する。",
+  "limitations": "知らせるだけで実行能力・機会の不足は改善しない。通知疲れや閲読の有無に注意。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Milkman et al. (2011), Vaccination Field Experiment",
+      "url": "https://doi.org/10.1073/pnas.1103170108",
+      "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+      "source_type": "representative_empirical"
+    },
+    {
+      "title": "Bahety et al. (2021), SMS Field Trial",
+      "url": "https://doi.org/10.1016/j.jdeveco.2021.102747",
+      "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+      "source_type": "representative_empirical"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "limited-attention",
+    "prompt-cue",
+    "timely-prompt"
+  ],
+  "articles": [
+    {
+      "id": "vol-1",
+      "title": "広報は、なぜ行動につながらないのか",
+      "url": "https://sites.google.com/view/ichimizu-crime-prevention/home/column/essay/%E7%A9%BA%E6%83%B3ebp%E8%AA%AD%E6%9C%AC-vol-1"
+    }
+  ],
+  "original_definition": "適切な時点で必要な行動を思い出させる通知。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "介入技法"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "review_framework_or_representative_source_only",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

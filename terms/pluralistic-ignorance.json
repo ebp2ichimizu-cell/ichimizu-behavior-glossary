@@ -1,0 +1,49 @@
+{
+  "id": "pluralistic-ignorance",
+  "ja": "多元的無知",
+  "en": "Pluralistic Ignorance",
+  "cat": "社会心理・対人関係",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "多くの人が個人的には疑問や懸念を持ちながら、他の人は受け入れていると誤って推測し、集団全体の認識を取り違える現象。",
+  "explanation": "周囲が反応しないことを、問題がないという社会的手掛かりとして読み取る場合がある。",
+  "application_hypothesis": "危険な電話に気づいた周囲の人が互いに異常なしと思い込まない案内を検討する。",
+  "limitations": "単なる社会規範の認識とは異なり、私的な意見と公的な態度のずれを調べる必要がある。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Miller & McFarland (1987), Pluralistic Ignorance: When Similarity Is Interpreted as Dissimilarity",
+      "url": "https://doi.org/10.1037/0022-3514.53.2.298",
+      "role": "概念を直接扱う実験研究",
+      "source_type": "representative_primary",
+      "verification_note": "公開要旨を確認。先行研究すべてを網羅した意味ではない。",
+      "verified_at": "2026-10-03"
+    },
+    {
+      "title": "Prentice & Miller (1993), Pluralistic Ignorance and Alcohol Use on Campus",
+      "url": "https://doi.org/10.1037/0022-3514.64.2.243",
+      "role": "概念を直接扱う実証研究",
+      "source_type": "representative_primary",
+      "verification_note": "公開要旨を確認。",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "bystander-effect",
+    "subjective-norm"
+  ],
+  "articles": [],
+  "categories": [
+    "社会心理・対人関係"
+  ]
+}

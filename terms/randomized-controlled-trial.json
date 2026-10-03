@@ -1,0 +1,45 @@
+{
+  "id": "randomized-controlled-trial",
+  "ja": "ランダム化比較試験",
+  "en": "Randomized Controlled Trial（RCT）",
+  "cat": "効果検証・設計",
+  "schema_version": "4.0",
+  "academic_domain": "評価・実装研究",
+  "explanation": "対象を偶然性に基づいて介入群・比較群へ割付け、介入条件以外の差を平均的に均衡させようとする比較実験。",
+  "application_hypothesis": "広報の違いによる導入率を比較する。",
+  "limitations": "無作為化だけで欠測・不遵守・汚染等は消えない。個人割付と地点単位割付の違いにも注意。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Schulz, Altman & Moher (2010), CONSORT Statement",
+      "url": "https://doi.org/10.1136/bmj.c332",
+      "role": "方法論・公的指針・研究分類資料",
+      "source_type": "methodological_standard",
+      "verification_note": "RCTの報告指針。RCTそのものの最初の原典ではない",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "external-validity",
+    "heterogeneous-treatment-effects",
+    "internal-validity",
+    "mediation-analysis"
+  ],
+  "articles": [],
+  "original_definition": "対象を無作為に割り付けて介入条件間の結果を比較する方法。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+  "categories": [
+    "効果検証・設計"
+  ],
+  "academic_domains": [
+    "評価",
+    "実装研究"
+  ],
+  "origin_audit_status": "foundational_or_method_source_verified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "stages-of-change-model",
+  "ja": "変容ステージモデル",
+  "en": "Stages of Change / Transtheoretical Model",
+  "cat": "意思決定・動機づけ",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "行動変容の準備状況を、無関心・関心・準備・実行・維持などの段階で整理するモデル。",
+  "explanation": "段階ごとに関心や障壁が異なる可能性を検討する。",
+  "application_hypothesis": "アプリ未認知者・利用検討者・設定済みの人を分けて案内内容を考える。",
+  "limitations": "段階が必ず順に進むとは限らず、段階別介入の有効性を当然視しない。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Prochaska & DiClemente (1983), Stages and processes of self-change of smoking",
+      "url": "https://doi.org/10.1037/0022-006X.51.3.390",
+      "role": "実証研究",
+      "source_type": "representative_primary",
+      "verification_note": "段階モデルの代表的初期研究（公開要旨を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "readiness-to-change",
+    "intention-behaviour-gap"
+  ],
+  "articles": [],
+  "categories": [
+    "意思決定・動機づけ"
+  ]
+}

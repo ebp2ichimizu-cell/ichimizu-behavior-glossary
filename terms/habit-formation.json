@@ -1,0 +1,39 @@
+{
+  "id": "habit-formation",
+  "ja": "習慣形成",
+  "en": "Habit Formation",
+  "cat": "介入技法",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "状況と反応を繰り返し結び付けることで、目標を毎回意識しなくても行動が起きやすくなる学習過程。",
+  "application_hypothesis": "駐輪と二重施錠を結びつける。",
+  "limitations": "初回行動への効果と長期継続への効果は別。自己申告の習慣と実観察行動も区別する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Wood & Rünger (2016), Psychology of Habit",
+      "url": "https://doi.org/10.1146/annurev-psych-122414-033417",
+      "role": "専門レビュー（原典と区別）",
+      "source_type": "scholarly_review"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [],
+  "articles": [],
+  "original_definition": "特定状況での反復によって比較的自動的に行動するようになる過程。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "介入技法"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "review_framework_or_representative_source_only",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

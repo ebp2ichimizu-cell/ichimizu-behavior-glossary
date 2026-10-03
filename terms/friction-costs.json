@@ -1,0 +1,48 @@
+{
+  "id": "friction-costs",
+  "ja": "摩擦コスト",
+  "en": "Friction Costs",
+  "cat": "介入技法",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "複数のクリック、書類記入、場所移動、待ち時間など、実行に伴う小さな負担が積み重なり行動を妨げる。",
+  "application_hypothesis": "アプリ設定の入力項目を減らす。",
+  "limitations": "小さな負担を除けば必ず行動するわけではない。安全確認など必要な手続きを削減しすぎない。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "OECD (2019) BASIC Toolkit",
+      "url": "https://doi.org/10.1787/9ea76a8f-en",
+      "role": "政策・実務上の枠組み",
+      "source_type": "policy_framework"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "response-cost",
+    "simplification",
+    "sludge"
+  ],
+  "articles": [
+    {
+      "id": "vol-1",
+      "title": "広報は、なぜ行動につながらないのか",
+      "url": "https://sites.google.com/view/ichimizu-crime-prevention/home/column/essay/%E7%A9%BA%E6%83%B3ebp%E8%AA%AD%E6%9C%AC-vol-1"
+    }
+  ],
+  "original_definition": "小さな手間、時間、操作負担など行動の障壁。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "介入技法"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "review_framework_or_representative_source_only",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

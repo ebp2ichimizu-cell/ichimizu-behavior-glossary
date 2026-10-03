@@ -1,0 +1,41 @@
+{
+  "id": "perceived-benefits",
+  "ja": "対策の利益認知",
+  "en": "Perceived Benefits",
+  "cat": "防護行動・リスク認知",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "特定の予防・防護行動によって危険を減らせるなど、望ましい結果が得られると考える程度。",
+  "explanation": "対策の有効性に関する期待が行動の評価に関わると考える。",
+  "application_hypothesis": "防犯設定によって不審電話を遮断できると利用者が考えているか測る。",
+  "limitations": "実際の技術的効果とは別である。結果の期待と自己効力感も区別する。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Rosenstock (1974), Historical Origins of the Health Belief Model",
+      "url": "https://doi.org/10.1177/109019817400200403",
+      "role": "歴史・モデル解説論文",
+      "source_type": "theoretical_primary",
+      "verification_note": "健康信念モデルの成立経緯を示す基礎資料（書誌を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "response-efficacy",
+    "outcome-expectancy"
+  ],
+  "articles": [],
+  "categories": [
+    "防護行動・リスク認知"
+  ]
+}

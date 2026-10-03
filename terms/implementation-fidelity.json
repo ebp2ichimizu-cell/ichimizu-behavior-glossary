@@ -1,0 +1,47 @@
+{
+  "id": "implementation-fidelity",
+  "ja": "介入の実装忠実度",
+  "en": "Implementation Fidelity",
+  "cat": "効果検証・設計",
+  "schema_version": "4.0",
+  "academic_domain": "評価・実装研究",
+  "explanation": "介入を計画どおりに提供した程度。実施内容、量、頻度、担当者の遵守状況などを確認する。",
+  "application_hypothesis": "ポスターが設置・維持され見られていたか調べる。",
+  "limitations": "対象者が見たか（到達・受容）とは別概念。実装不全と理論の不成立を分ける。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Moore et al. (2015), Process Evaluation Guidance",
+      "url": "https://doi.org/10.1136/bmj.h1258",
+      "role": "評価・実装の方法論指針",
+      "source_type": "methodological_guidance"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "process-evaluation",
+    "reach"
+  ],
+  "articles": [
+    {
+      "id": "vol-1",
+      "title": "広報は、なぜ行動につながらないのか",
+      "url": "https://sites.google.com/view/ichimizu-crime-prevention/home/column/essay/%E7%A9%BA%E6%83%B3ebp%E8%AA%AD%E6%9C%AC-vol-1"
+    }
+  ],
+  "original_definition": "介入の内容・量・頻度・提供方法が計画どおり実施された程度。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+  "categories": [
+    "効果検証・設計"
+  ],
+  "academic_domains": [
+    "評価",
+    "実装研究"
+  ],
+  "origin_audit_status": "review_framework_or_representative_source_only",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

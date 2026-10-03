@@ -1,0 +1,41 @@
+{
+  "id": "reach",
+  "ja": "到達率",
+  "en": "Reach",
+  "cat": "効果検証・設計",
+  "schema_version": "4.0",
+  "academic_domain": "評価・実装研究",
+  "explanation": "目標対象のうち、メッセージや介入に接触・参加した割合を測定する。送信、配達、閲覧、理解は別指標である。",
+  "application_hypothesis": "案内を受け取った人数を対象母数で割る。",
+  "limitations": "分母（対象人口・配信対象・配布先など）を明示する。「送信率」を「閲読率」と呼ばない。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Moore et al. (2015), Process Evaluation Guidance",
+      "url": "https://doi.org/10.1136/bmj.h1258",
+      "role": "評価・実装の方法論指針",
+      "source_type": "methodological_guidance"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "implementation-fidelity",
+    "process-evaluation"
+  ],
+  "articles": [],
+  "original_definition": "対象者のうち介入や情報が実際に届いた人の割合。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+  "categories": [
+    "効果検証・設計"
+  ],
+  "academic_domains": [
+    "評価",
+    "実装研究"
+  ],
+  "origin_audit_status": "review_framework_or_representative_source_only",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

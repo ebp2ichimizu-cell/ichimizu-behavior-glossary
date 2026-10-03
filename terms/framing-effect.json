@@ -1,0 +1,52 @@
+{
+  "id": "framing-effect",
+  "ja": "フレーミング効果",
+  "en": "Framing Effect",
+  "cat": "判断の偏り",
+  "schema_version": "4.0",
+  "academic_domain": "行動経済学・関連心理学",
+  "explanation": "実質的に同じ選択肢でも、利得・損失・生存率・死亡率など表現の枠組みが変わると選好が異なることがある。",
+  "application_hypothesis": "被害防止率と被害残存率の提示方法を変える。",
+  "limitations": "数値の基準、期間、分母が違えば同一内容の比較とは言えない。誤認を誘発する広報は避ける。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Kahneman & Tversky (1979), Prospect Theory",
+      "url": "https://doi.org/10.2307/1914185",
+      "role": "基礎・代表原著（初出とは限らない）",
+      "source_type": "foundational_or_direct_research"
+    },
+    {
+      "title": "Tversky & Kahneman (1981), The Framing of Decisions",
+      "url": "https://doi.org/10.1126/science.7455683",
+      "role": "概念を直接扱う原著・一次研究",
+      "source_type": "foundational_primary",
+      "verification_note": "同じ意思決定課題の提示枠組みにより選好が変わることを検証",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "loss-aversion",
+    "probability-weighting",
+    "prospect-theory",
+    "reference-dependence"
+  ],
+  "articles": [],
+  "original_definition": "実質的に等価な選択肢でも表現で判断が変わる現象。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "判断の偏り"
+  ],
+  "academic_domains": [
+    "行動経済学",
+    "関連心理学"
+  ],
+  "origin_audit_status": "direct_or_foundational_study_identified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

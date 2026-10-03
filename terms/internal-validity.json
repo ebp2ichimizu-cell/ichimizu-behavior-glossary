@@ -1,0 +1,53 @@
+{
+  "id": "internal-validity",
+  "ja": "内的妥当性",
+  "en": "Internal Validity",
+  "cat": "効果検証・設計",
+  "schema_version": "4.0",
+  "academic_domain": "評価・実装研究",
+  "explanation": "比較されたアウトカムの差を介入の影響と説明できる程度。交絡、選択、欠測、同時介入、測定誤差などを点検する。",
+  "application_hypothesis": "地域差や同時期のキャンペーンの影響を除く。",
+  "limitations": "前後比較の差をそのまま因果効果としない。割付の実施、脱落、比較可能性が重要。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Campbell (1957), Factors Relevant to Validity of Experiments",
+      "url": "https://doi.org/10.1037/h0040950",
+      "role": "概念を直接扱う原著・一次研究",
+      "source_type": "foundational_primary",
+      "verification_note": "内的・外的妥当性の区別に関する初期論文",
+      "verified_at": "2026-10-03"
+    },
+    {
+      "title": "Shadish, Cook & Campbell (2002), Experimental and Quasi-experimental Designs",
+      "url": "https://books.google.com/books?id=bhLLmgEACAAJ",
+      "role": "原著書籍（本文未精査、書誌/出版社資料）",
+      "source_type": "foundational_book_bibliography",
+      "verification_note": "書籍書誌と章構成を確認",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "external-validity",
+    "heterogeneous-treatment-effects",
+    "mediation-analysis",
+    "randomized-controlled-trial"
+  ],
+  "articles": [],
+  "original_definition": "観察された結果の差を介入の因果効果と解釈できる程度。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+  "categories": [
+    "効果検証・設計"
+  ],
+  "academic_domains": [
+    "評価",
+    "実装研究"
+  ],
+  "origin_audit_status": "foundational_or_method_source_verified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

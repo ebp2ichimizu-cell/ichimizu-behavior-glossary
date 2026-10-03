@@ -1,0 +1,44 @@
+{
+  "id": "implementation-intention-gap",
+  "ja": "計画と実行の不一致",
+  "en": "Planning–Action Gap",
+  "cat": "行動の障壁",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "行動する計画を立てても実際には実行されない状態を、記述的に指すための補助表現。心理学で比較的定着した「意図と行動のギャップ」と異なり、独立した共通定義や単一の原典は確認できない。",
+  "application_hypothesis": "設定予定日を決めた人が導入に至る率を確認する。",
+  "limitations": "原典が確立した概念であるかのように紹介しない。独立項目として残す場合は「意図と行動のギャップ」の補足・関連概念と明記する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Gollwitzer & Sheeran (2006), Implementation Intentions and Goal Achievement",
+      "url": "https://doi.org/10.1016/S0065-2601(06)38002-1",
+      "role": "専門レビュー・関連研究",
+      "source_type": "related_synthesis",
+      "verification_note": "意図と達成の隔たりを扱うが「計画と実行の不一致」を独立した標準概念として提唱したものではない",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "nonstandard_term",
+  "related_terms": [
+    "implementation-intentions",
+    "implementation-plan",
+    "intention-behaviour-gap"
+  ],
+  "articles": [],
+  "original_definition": "立てた行動計画とその実施結果の不一致を指す説明表現。独立した標準学術用語としての原典は確認されていない。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "便宜的な記述表現（独立した標準化学術用語としては扱わない）",
+  "categories": [
+    "行動の障壁"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "no_unique_established_origin",
+  "origin_audit_note": "独立した標準学術用語としての提唱原典は確認できない。意図と行動のギャップの下位説明として扱うことを推奨。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

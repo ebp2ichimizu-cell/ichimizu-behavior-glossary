@@ -1,0 +1,45 @@
+{
+  "id": "prompt-cue",
+  "ja": "行動手掛かり",
+  "en": "Behavioural Cue",
+  "cat": "介入技法",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "行動する状況・場所に関連付けて配置され、望ましい行動の開始や想起を支援する具体的刺激や合図。行動変容技法分類BCTTv1の「Prompts/cues」に対応する。",
+  "application_hypothesis": "施錠位置で注意表示が目に入るようにする。",
+  "limitations": "リマインダー（通知）やタイムリーな働きかけと重なるが、媒体や機能の焦点が異なる。接触率と行動を別測定する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Michie et al. (2013), Behavior Change Technique Taxonomy v1",
+      "url": "https://doi.org/10.1007/s12160-013-9486-6",
+      "role": "方法論・公的指針・研究分類資料",
+      "source_type": "operational_taxonomy",
+      "verification_note": "行動変容技法「7.1 Prompts/cues」の分類基準",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "limited-attention",
+    "reminder",
+    "timely-prompt"
+  ],
+  "articles": [],
+  "original_definition": "望ましい行動が必要となる状況で、その行動を想起・開始する合図や刺激。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究実務上の記述語。定義・使われ方が文献間で異なり得る",
+  "categories": [
+    "介入技法"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "foundational_or_method_source_verified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

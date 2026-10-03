@@ -1,0 +1,46 @@
+{
+  "id": "mental-accounting",
+  "ja": "メンタル・アカウンティング",
+  "en": "Mental Accounting",
+  "cat": "意思決定の理論",
+  "schema_version": "4.0",
+  "academic_domain": "行動経済学・関連心理学",
+  "explanation": "同じ金額でも資金の由来や用途別に心理的な勘定を分け、支出や貯蓄の判断を変える現象。",
+  "application_hypothesis": "家庭の防犯費用の予算枠が購入に影響するか検討する。",
+  "limitations": "資金の使途区分が合理的な管理である場合もある。行動の偏りと制度的制約を区別する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Thaler (1999), Mental Accounting Matters",
+      "url": "https://doi.org/10.1002/(SICI)1099-0771(199909)12:3%3C183::AID-BDM318%3E3.0.CO;2-F",
+      "role": "基礎・代表原著（初出とは限らない）",
+      "source_type": "foundational_or_direct_research"
+    },
+    {
+      "title": "Thaler (1985), Mental Accounting and Consumer Choice",
+      "url": "https://doi.org/10.1287/mksc.4.3.199",
+      "role": "概念を直接扱う原著・一次研究",
+      "source_type": "foundational_primary",
+      "verification_note": "メンタル・アカウンティングの初期モデル",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [],
+  "articles": [],
+  "original_definition": "金銭や資源を心理的に別勘定として扱う意思決定傾向。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "意思決定の理論"
+  ],
+  "academic_domains": [
+    "行動経済学",
+    "関連心理学"
+  ],
+  "origin_audit_status": "direct_or_foundational_study_identified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

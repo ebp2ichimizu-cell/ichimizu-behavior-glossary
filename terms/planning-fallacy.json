@@ -1,0 +1,45 @@
+{
+  "id": "planning-fallacy",
+  "ja": "計画錯誤",
+  "en": "Planning Fallacy",
+  "cat": "判断の偏り",
+  "schema_version": "4.0",
+  "academic_domain": "行動経済学・関連心理学",
+  "explanation": "将来の作業について、過去の類似作業の実績や障害を十分考慮せず、所要時間・期限などを楽観的に見積もりやすい傾向。費用超過を含む場合もあるが原著の中心は完了時間の予測である。",
+  "application_hypothesis": "防犯機器の設定作業に要する時間見積もりと実測時間を比較する。",
+  "limitations": "単純な先延ばしとは異なる。予定所要時間と実際の所要時間を比較する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Buehler, Griffin & Ross (1994), Exploring the Planning Fallacy",
+      "url": "https://doi.org/10.1037/0022-3514.67.3.366",
+      "role": "概念を直接扱う原著・一次研究",
+      "source_type": "foundational_primary",
+      "verification_note": "計画錯誤の代表的実験研究",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "hyperbolic-discounting",
+    "present-bias",
+    "sunk-cost-effect"
+  ],
+  "articles": [],
+  "original_definition": "将来の作業の完了に必要な時間などを、過去の実績や障害を十分に考慮せず楽観的に見積もる傾向。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "判断の偏り"
+  ],
+  "academic_domains": [
+    "行動経済学",
+    "関連心理学"
+  ],
+  "origin_audit_status": "foundational_or_method_source_verified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "response-cost",
+  "ja": "反応コスト",
+  "en": "Response Cost",
+  "cat": "行動の障壁",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "防護行動にかかる時間、費用、手間、不快感などについての受け手の主観的な評価（防護動機理論の要因）。",
+  "application_hypothesis": "二重施錠の負担を測る。",
+  "limitations": "摩擦コストと一部重なるが、PMTの反応コストは本人が認知した対処負担を指す。本人の認知と実測作業負担を別々に測定する必要がある。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Rogers (1983), Revised Protection Motivation Theory",
+      "url": "https://cir.nii.ac.jp/crid/1573387449065406592",
+      "role": "原著書籍（本文未精査、書誌/出版社資料）",
+      "source_type": "foundational_book_bibliography",
+      "verification_note": "防護動機理論の改訂原著書誌。内容の全文検証はできていない",
+      "verified_at": "2026-10-03"
+    },
+    {
+      "title": "Sniehotta et al. (2005), Action Planning and Coping Planning",
+      "url": "https://doi.org/10.1002/ejsp.258",
+      "role": "補助的な研究・関連資料",
+      "source_type": "related_primary",
+      "verification_note": "行動障壁への対処を扱う関連研究で、反応コストそのものの原典ではない",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "bibliography_confirmed",
+  "related_terms": [
+    "friction-costs",
+    "simplification",
+    "sludge"
+  ],
+  "articles": [],
+  "original_definition": "推奨する防護行動に伴う時間・費用・手間・不便などの認識上の負担。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "行動の障壁"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "original_book_bibliography_only",
+  "origin_audit_note": "PMTの改訂原典の書誌を確認。章本文を直接検証したわけではない。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

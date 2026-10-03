@@ -1,0 +1,44 @@
+{
+  "id": "statistical-power",
+  "ja": "検出力",
+  "en": "Statistical Power",
+  "cat": "効果検証・設計",
+  "schema_version": "4.0",
+  "academic_domain": "評価・実装研究",
+  "explanation": "真に指定した効果があるとき、所定の統計的検定がその効果を検出して帰無仮説を棄却する確率。",
+  "application_hypothesis": "比較群の人数が小さく差を検出できない危険を調べる。",
+  "limitations": "研究後の有意差なしを「効果なし」と同一視しない。必要標本数、測定誤差、クラスター相関も考慮する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Cohen (1992), A Power Primer",
+      "url": "https://doi.org/10.1037/0033-2909.112.1.155",
+      "role": "補助的な研究・関連資料",
+      "source_type": "methodological_foundation",
+      "verification_note": "検出力・効果量・サンプルサイズの古典的解説",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "confidence-interval",
+    "effect-size",
+    "statistical-significance"
+  ],
+  "articles": [],
+  "original_definition": "特定の真の効果があるとき、設定した検定が帰無仮説を棄却する確率。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+  "categories": [
+    "効果検証・設計"
+  ],
+  "academic_domains": [
+    "評価",
+    "実装研究"
+  ],
+  "origin_audit_status": "foundational_or_method_source_verified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

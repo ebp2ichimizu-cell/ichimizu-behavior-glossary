@@ -1,0 +1,43 @@
+{
+  "id": "health-belief-model",
+  "ja": "健康信念モデル",
+  "en": "Health Belief Model",
+  "cat": "防護行動・リスク認知",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "病気の脅威や対策の利益・障壁などに関する認知を用いて予防的行動を説明するモデル。後年には行動のきっかけや自己効力感も重視されている。",
+  "explanation": "脅威を感じても費用や手間が大きいと行動につながらない可能性を整理する。",
+  "application_hypothesis": "詐欺リスク認知、対策の有効性、導入負担などを区別して調査項目を設計する。",
+  "limitations": "健康分野で構築されたモデルを犯罪予防へ移す場合、対象行動や文化的背景ごとに妥当性検証が必要。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Rosenstock (1974), Historical Origins of the Health Belief Model",
+      "url": "https://doi.org/10.1177/109019817400200403",
+      "role": "歴史・モデル解説論文",
+      "source_type": "theoretical_primary",
+      "verification_note": "健康信念モデルの成立経緯を示す基礎資料（書誌を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "risk-perception",
+    "self-efficacy",
+    "perceived-susceptibility",
+    "perceived-severity"
+  ],
+  "articles": [],
+  "categories": [
+    "防護行動・リスク認知"
+  ]
+}

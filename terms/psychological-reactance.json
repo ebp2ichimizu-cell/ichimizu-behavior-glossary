@@ -1,0 +1,41 @@
+{
+  "id": "psychological-reactance",
+  "ja": "心理的リアクタンス",
+  "en": "Psychological Reactance",
+  "cat": "判断の偏り",
+  "schema_version": "4.0",
+  "academic_domain": "行動経済学・関連心理学",
+  "explanation": "本人が自由を脅かされたと感じると、自由を回復しようとして反発する心理的状態・反応。",
+  "application_hypothesis": "強制的な広報表現に反感を抱く。",
+  "limitations": "強い表現が必ず逆効果になるとは限らない。圧迫感と実際の防犯行動を区別する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Brehm (1966), A Theory of Psychological Reactance",
+      "url": "https://books.google.com/books/about/A_Theory_of_Psychological_Reactance.html?id=VsRHmwEACAAJ",
+      "role": "原著書籍（本文未精査、書誌/出版社資料）",
+      "source_type": "foundational_book_bibliography",
+      "verification_note": "提唱原著書籍の書誌・目次を確認。全文閲覧はできていない",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "bibliography_confirmed",
+  "related_terms": [],
+  "articles": [],
+  "original_definition": "自由を制限されたと感じた際に反発が生じる心理的反応。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "判断の偏り"
+  ],
+  "academic_domains": [
+    "行動経済学",
+    "関連心理学"
+  ],
+  "origin_audit_status": "original_book_bibliography_only",
+  "origin_audit_note": "提唱者Brehmの1966年原著書誌は確認できるが、全文の精査は未了。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "intention-behaviour-gap",
+  "ja": "意図と行動のギャップ",
+  "en": "Intention–Behaviour Gap",
+  "cat": "効果検証・設計",
+  "schema_version": "4.0",
+  "academic_domain": "評価・実装研究",
+  "explanation": "将来その行動を取る意図を持っても、その後の実行が伴わない不一致。態度と意図、意図と実行を別々に測る必要がある。",
+  "application_hypothesis": "導入意向が高くても設定完了しない。",
+  "limitations": "アンケートでの利用意向だけを成果としない。設定記録、観察、追跡調査で確かめる。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Gollwitzer (1999), Implementation Intentions",
+      "url": "https://doi.org/10.1037/0003-066X.54.7.493",
+      "role": "基礎・代表原著（初出とは限らない）",
+      "source_type": "foundational_or_direct_research"
+    },
+    {
+      "title": "Milkman et al. (2011), Vaccination Field Experiment",
+      "url": "https://doi.org/10.1073/pnas.1103170108",
+      "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+      "source_type": "representative_empirical"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "implementation-intention-gap",
+    "implementation-intentions",
+    "implementation-plan"
+  ],
+  "articles": [
+    {
+      "id": "vol-1",
+      "title": "広報は、なぜ行動につながらないのか",
+      "url": "https://sites.google.com/view/ichimizu-crime-prevention/home/column/essay/%E7%A9%BA%E6%83%B3ebp%E8%AA%AD%E6%9C%AC-vol-1"
+    }
+  ],
+  "original_definition": "行動するつもりでも実行しない不一致。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "効果検証・設計"
+  ],
+  "academic_domains": [
+    "評価",
+    "実装研究"
+  ],
+  "origin_audit_status": "review_framework_or_representative_source_only",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

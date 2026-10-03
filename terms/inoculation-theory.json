@@ -1,0 +1,41 @@
+{
+  "id": "inoculation-theory",
+  "ja": "接種理論（説得抵抗）",
+  "en": "Inoculation Theory",
+  "cat": "広報・説得",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "弱い反論や誤情報への対処を先に示すことで、後から来る説得・誤情報に対する抵抗力を高めようとする理論。",
+  "explanation": "想定される攻撃への予告と反論の準備を通じて、反論を作る過程を促すと考える。",
+  "application_hypothesis": "典型的な詐欺の口実と、それを見破る具体的な反論を事前提示する施策を検証する。",
+  "limitations": "ワクチン接種と同じ確実性を意味せず、文脈や対象となる誤情報に左右される。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "McGuire (1961), Resistance to persuasion conferred by prior refutation",
+      "url": "https://doi.org/10.1037/h0048344",
+      "role": "実験研究",
+      "source_type": "representative_primary",
+      "verification_note": "接種理論関連の初期実験（公開要旨を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "fear-appeal",
+    "elaboration-likelihood-model"
+  ],
+  "articles": [],
+  "categories": [
+    "広報・説得"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "overconfidence",
+  "ja": "過信",
+  "en": "Overconfidence",
+  "cat": "判断の偏り",
+  "schema_version": "4.0",
+  "academic_domain": "行動経済学・関連心理学",
+  "explanation": "自分の判断能力や知識の精度について確信が強すぎること。過大評価、他者より優れているとの認識、確信区間の狭さなど異なる形がある。",
+  "application_hypothesis": "詐欺を見抜く自信と模擬判別課題の成績を比較する。",
+  "limitations": "過信の測定は種類ごとに異なる。詐欺の識別能力が本当に低いか実験で確かめる。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Moore & Healy (2008), The Trouble with Overconfidence",
+      "url": "https://doi.org/10.1037/0033-295X.115.2.502",
+      "role": "専門レビュー（原典と区別）",
+      "source_type": "scholarly_review"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [],
+  "articles": [],
+  "original_definition": "自分の判断精度や能力を実際以上に高く評価する傾向。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "判断の偏り"
+  ],
+  "academic_domains": [
+    "行動経済学",
+    "関連心理学"
+  ],
+  "origin_audit_status": "review_framework_or_representative_source_only",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

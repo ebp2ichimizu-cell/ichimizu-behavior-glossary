@@ -1,0 +1,45 @@
+{
+  "id": "heterogeneous-treatment-effects",
+  "ja": "異質な介入効果",
+  "en": "Heterogeneous Treatment Effects",
+  "cat": "効果検証・設計",
+  "schema_version": "4.0",
+  "academic_domain": "評価・実装研究",
+  "explanation": "介入の平均効果だけでなく、年齢・地域・事前状態などに応じて因果効果が異なる可能性を扱う。",
+  "application_hypothesis": "年齢層や場所ごとの効果差を確認する。",
+  "limitations": "サブグループごとの有意・非有意だけで差を判断しない。交互作用、事前指定、多重比較が重要。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Imai & Ratkovic (2013), Estimating Treatment Effect Heterogeneity",
+      "url": "https://imai.fas.harvard.edu/research/svm.html",
+      "role": "概念を直接扱う原著・一次研究",
+      "source_type": "representative_primary",
+      "verification_note": "因果効果の異質性を推定する手法の原著",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "external-validity",
+    "internal-validity",
+    "mediation-analysis",
+    "randomized-controlled-trial"
+  ],
+  "articles": [],
+  "original_definition": "対象や状況によって介入効果が異なること。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+  "categories": [
+    "効果検証・設計"
+  ],
+  "academic_domains": [
+    "評価",
+    "実装研究"
+  ],
+  "origin_audit_status": "foundational_or_method_source_verified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

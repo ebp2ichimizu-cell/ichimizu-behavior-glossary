@@ -1,0 +1,44 @@
+{
+  "id": "statistical-significance",
+  "ja": "統計的有意差",
+  "en": "Statistical Significance",
+  "cat": "効果検証・設計",
+  "schema_version": "4.0",
+  "academic_domain": "評価・実装研究",
+  "explanation": "指定した帰無仮説と統計モデルのもとで、観測値と同程度以上に極端なデータが生じる確率（p値）が、有意水準より小さい場合に通常「統計的に有意」と呼ぶ。",
+  "application_hypothesis": "広報2群の設定完了率を比較する。",
+  "limitations": "有意差がないことは効果ゼロの証明ではない。p値は仮説の正しい確率でも実務的価値でもなく、効果量、信頼区間、検出力、デザインと併せて判断する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Wasserstein & Lazar (2016), ASA Statement on p-Values",
+      "url": "https://doi.org/10.1080/00031305.2016.1154108",
+      "role": "方法論・公的指針・研究分類資料",
+      "source_type": "professional_statement",
+      "verification_note": "米国統計学会の解釈指針であり、統計的有意性の最初の原典ではない",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "confidence-interval",
+    "effect-size",
+    "statistical-power"
+  ],
+  "articles": [],
+  "original_definition": "統計モデルと帰無仮説の下で算出するp値が、事前に設定した有意水準を下回るなどの基準を満たすこと。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+  "categories": [
+    "効果検証・設計"
+  ],
+  "academic_domains": [
+    "評価",
+    "実装研究"
+  ],
+  "origin_audit_status": "foundational_or_method_source_verified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

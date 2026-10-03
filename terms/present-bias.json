@@ -1,0 +1,43 @@
+{
+  "id": "present-bias",
+  "ja": "現在バイアス",
+  "en": "Present Bias",
+  "cat": "判断の偏り",
+  "schema_version": "4.0",
+  "academic_domain": "行動経済学・関連心理学",
+  "explanation": "直近の費用・便益がわずかに将来のものより不連続に重く評価され、時間的に整合しない選好が現れることがある。",
+  "application_hypothesis": "将来の被害より今の設定の手間を優先する。",
+  "limitations": "先延ばしの理由を現在バイアスのみと決めつけない。手続負担・不信・資源不足も調査する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Laibson (1997), Golden Eggs and Hyperbolic Discounting",
+      "url": "https://doi.org/10.1162/003355397555253",
+      "role": "基礎・代表原著（初出とは限らない）",
+      "source_type": "foundational_or_direct_research"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "friction-costs",
+    "hyperbolic-discounting",
+    "planning-fallacy",
+    "sunk-cost-effect"
+  ],
+  "articles": [],
+  "original_definition": "目先の負担や利益を将来の負担や利益に比べ重視する傾向。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "判断の偏り"
+  ],
+  "academic_domains": [
+    "行動経済学",
+    "関連心理学"
+  ],
+  "origin_audit_status": "direct_or_foundational_study_identified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

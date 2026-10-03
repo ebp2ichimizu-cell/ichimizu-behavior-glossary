@@ -1,0 +1,41 @@
+{
+  "id": "observational-learning",
+  "ja": "観察学習",
+  "en": "Observational Learning",
+  "cat": "社会心理・対人関係",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "他者が行動する様子やその結果を見て、自分の行動を学ぶこと。",
+  "explanation": "注意、記憶、再現可能性、動機づけなどの過程が関わる。",
+  "application_hypothesis": "防犯担当者が実物のスマートフォンで設定を見せる実演を検証する。",
+  "limitations": "実演を見たことと、本人が単独で操作できることを区別する。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Bandura (1977), Social Learning Theory",
+      "url": "https://www.ncbi.nlm.nih.gov/nlmcatalog/101562611",
+      "role": "原著書籍（書誌確認）",
+      "source_type": "book_bibliography",
+      "verification_note": "原著書籍の書誌・目次を確認、本文未精査",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "social-learning-theory",
+    "self-efficacy"
+  ],
+  "articles": [],
+  "categories": [
+    "社会心理・対人関係"
+  ]
+}

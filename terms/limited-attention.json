@@ -1,0 +1,45 @@
+{
+  "id": "limited-attention",
+  "ja": "注意の限界",
+  "en": "Limited Attention",
+  "cat": "行動の障壁",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "個人の注意には容量と持続性の制約があり、同時に多くの情報を十分処理できない。目立ち方、状況、競合刺激で接触が変わる。",
+  "application_hypothesis": "駐輪場で表示に気づく割合を実測する。",
+  "limitations": "見やすい場所に掲示したことと、実際に見たことは異なる。視認・記憶・理解を分けて調査する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Kahneman (1973), Attention and Effort",
+      "url": "https://kahneman.scholar.princeton.edu/publications",
+      "role": "原著書籍（本文未精査、書誌/出版社資料）",
+      "source_type": "foundational_book_author_archive",
+      "verification_note": "著者の大学アーカイブで原著書籍とPDFを確認。関連する注意資源研究",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "prompt-cue",
+    "reminder",
+    "timely-prompt"
+  ],
+  "articles": [],
+  "original_definition": "人があらゆる情報に均等な注意を配れず、一部を見落とす性質。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "行動の障壁"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "foundational_or_method_source_verified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

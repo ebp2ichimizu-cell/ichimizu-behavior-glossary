@@ -1,0 +1,41 @@
+{
+  "id": "social-learning-theory",
+  "ja": "社会的学習理論",
+  "en": "Social Learning Theory",
+  "cat": "社会心理・対人関係",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "他者の行動とその結果の観察、認知的過程、環境との相互作用による行動習得を説明する理論。",
+  "explanation": "直接の報酬・罰だけでなく、モデルとなる人の行動を観察することも学習に関わる。",
+  "application_hypothesis": "家族がアプリ設定を実演する動画と説明文だけの場合を比較する。",
+  "limitations": "観察や知識獲得が起きても、行動の機会がなければ実践に移るとは限らない。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Bandura (1977), Social Learning Theory",
+      "url": "https://www.ncbi.nlm.nih.gov/nlmcatalog/101562611",
+      "role": "原著書籍（書誌確認）",
+      "source_type": "book_bibliography",
+      "verification_note": "原著書籍の書誌・目次を確認、本文未精査",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "observational-learning",
+    "self-efficacy"
+  ],
+  "articles": [],
+  "categories": [
+    "社会心理・対人関係"
+  ]
+}

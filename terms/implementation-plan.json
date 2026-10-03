@@ -1,0 +1,58 @@
+{
+  "id": "implementation-plan",
+  "ja": "行動計画",
+  "en": "Action Planning",
+  "cat": "介入技法",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "いつ・どこで・何を・誰と・どう行うかを具体的に整理し、実行手順や障壁への対応を計画する。",
+  "application_hypothesis": "防犯機器の設置手順と日時を決める。",
+  "limitations": "実行意図（if–then型）と重なるが同義ではない。計画の詳細が負担を増やす場合もある。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Gollwitzer (1999), Implementation Intentions",
+      "url": "https://doi.org/10.1037/0003-066X.54.7.493",
+      "role": "基礎・代表原著（初出とは限らない）",
+      "source_type": "foundational_or_direct_research"
+    },
+    {
+      "title": "Milkman et al. (2011), Vaccination Field Experiment",
+      "url": "https://doi.org/10.1073/pnas.1103170108",
+      "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+      "source_type": "representative_empirical"
+    },
+    {
+      "title": "Sniehotta et al. (2005), Action Planning and Coping Planning",
+      "url": "https://doi.org/10.1002/ejsp.258",
+      "role": "概念を直接扱う原著・一次研究",
+      "source_type": "representative_primary",
+      "verification_note": "行動計画と障壁対処計画を区別",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "implementation-intention-gap",
+    "implementation-intentions",
+    "intention-behaviour-gap",
+    "planning-fallacy"
+  ],
+  "articles": [],
+  "original_definition": "目標行動をいつ・どこで・どのように実施するかを具体化する計画。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "介入技法"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "direct_or_foundational_study_identified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

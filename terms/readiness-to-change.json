@@ -1,0 +1,40 @@
+{
+  "id": "readiness-to-change",
+  "ja": "行動変容への準備性",
+  "en": "Readiness to Change",
+  "cat": "意思決定・動機づけ",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "対象者がある行動を変えることについて、どの程度意思や準備を持っているか。",
+  "explanation": "知識不足、意思形成、準備行動、実行中などの違いを把握する視点。",
+  "application_hypothesis": "防犯講習の前に対象者の利用意向と準備状況を調査する。",
+  "limitations": "準備性は固定した個人属性ではなく、行動や状況ごとに変わる。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Prochaska & DiClemente (1983), Stages and processes of self-change of smoking",
+      "url": "https://doi.org/10.1037/0022-006X.51.3.390",
+      "role": "実証研究",
+      "source_type": "representative_primary",
+      "verification_note": "段階モデルの代表的初期研究（公開要旨を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "stages-of-change-model"
+  ],
+  "articles": [],
+  "categories": [
+    "意思決定・動機づけ"
+  ]
+}

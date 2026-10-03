@@ -1,0 +1,45 @@
+{
+  "id": "mediation-analysis",
+  "ja": "媒介分析",
+  "en": "Mediation Analysis",
+  "cat": "効果検証・設計",
+  "schema_version": "4.0",
+  "academic_domain": "評価・実装研究",
+  "explanation": "介入Xが中間変数Mを通じて成果Yに影響するかという経路を検討する分析手法。",
+  "application_hypothesis": "自己効力感が行動変化を媒介したか調べる。",
+  "limitations": "介入とMの関連を見ただけで因果媒介とは言えない。時間順序・未測定交絡などの強い仮定に注意。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Imai, Keele & Tingley (2010), A General Approach to Causal Mediation Analysis",
+      "url": "https://doi.org/10.1037/a0020761",
+      "role": "概念を直接扱う原著・一次研究",
+      "source_type": "methodological_primary",
+      "verification_note": "因果媒介分析の識別仮定と感度分析の原著",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "external-validity",
+    "heterogeneous-treatment-effects",
+    "internal-validity",
+    "randomized-controlled-trial"
+  ],
+  "articles": [],
+  "original_definition": "介入と結果の間にある媒介過程を分析する方法。因果的解釈には追加仮定が必要。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+  "categories": [
+    "効果検証・設計"
+  ],
+  "academic_domains": [
+    "評価",
+    "実装研究"
+  ],
+  "origin_audit_status": "foundational_or_method_source_verified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

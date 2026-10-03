@@ -1,0 +1,41 @@
+{
+  "id": "perceived-behavioural-control",
+  "ja": "知覚された行動統制",
+  "en": "Perceived Behavioral Control",
+  "cat": "意思決定・動機づけ",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "目的の行動を自分で実行・統制できると感じる程度。実際の能力や機会そのものとは区別される。",
+  "explanation": "自己効力感に近い側面に加えて、外部条件による実行の容易さ・困難さの認識を含む。",
+  "application_hypothesis": "アプリ設定の自信だけでなく、必要な端末や操作支援があると思うかも調べる。",
+  "limitations": "自己効力感や客観的な実行可能性と完全には一致しない。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Ajzen (1991), The theory of planned behavior",
+      "url": "https://doi.org/10.1016/0749-5978(91)90020-T",
+      "role": "理論・関連研究レビュー",
+      "source_type": "theoretical_primary",
+      "verification_note": "提唱理論の主要原著（公開要旨を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "self-efficacy",
+    "theory-of-planned-behaviour"
+  ],
+  "articles": [],
+  "categories": [
+    "意思決定・動機づけ"
+  ]
+}

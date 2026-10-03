@@ -1,0 +1,50 @@
+{
+  "id": "social-norms",
+  "ja": "社会規範",
+  "en": "Social Norms",
+  "cat": "社会的影響",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "人々が周囲の行動や期待を参照する規範。実際の行動についての記述的規範と、承認の命令的規範を分ける。",
+  "application_hypothesis": "地域の施錠習慣を広報に用いる。",
+  "limitations": "実測しない多数派主張は避ける。規範が有効でない、逆効果となる文脈もある。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Schultz et al. (2007), Social Norms and Boomerang Effect",
+      "url": "https://doi.org/10.1111/j.1467-9280.2007.01917.x",
+      "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+      "source_type": "representative_empirical"
+    },
+    {
+      "title": "Allcott (2011), Social Norms and Energy Conservation",
+      "url": "https://doi.org/10.1016/j.jpubeco.2011.03.003",
+      "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+      "source_type": "representative_empirical"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "boomerang-effect",
+    "descriptive-norms",
+    "injunctive-norms",
+    "social-proof"
+  ],
+  "articles": [],
+  "original_definition": "集団で一般的または望ましいと認識される行動の基準。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "社会的影響"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "review_framework_or_representative_source_only",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}
