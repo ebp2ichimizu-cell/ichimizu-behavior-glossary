@@ -1,0 +1,49 @@
+{
+  "id": "bystander-effect",
+  "ja": "傍観者効果",
+  "en": "Bystander Effect",
+  "cat": "社会心理・対人関係",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "緊急事態などで、他の人がいると認識することで、個人が援助・通報する可能性が低くなる場合がある現象。",
+  "explanation": "責任の分散や、他者が動かない状況の解釈など複数の要因で説明される。",
+  "application_hypothesis": "被害を目撃した住民の通報行動について、具体的な役割指定の有無を比較する。",
+  "limitations": "緊急性や危険、対象者との関係で反応は変わる。危険な現場への介入を勧める根拠にしない。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Darley & Latané (1968), Bystander intervention in emergencies",
+      "url": "https://doi.org/10.1037/h0025589",
+      "role": "実験研究",
+      "source_type": "representative_primary",
+      "verification_note": "責任の分散に関する実験（公開要旨を確認）",
+      "verified_at": "2026-10-03"
+    },
+    {
+      "title": "Latané & Darley (1968), Group inhibition of bystander intervention",
+      "url": "https://doi.org/10.1037/h0026570",
+      "role": "実験研究",
+      "source_type": "representative_primary",
+      "verification_note": "傍観者の行動に関する代表実験（書誌を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "diffusion-of-responsibility",
+    "pluralistic-ignorance"
+  ],
+  "articles": [],
+  "categories": [
+    "社会心理・対人関係"
+  ]
+}

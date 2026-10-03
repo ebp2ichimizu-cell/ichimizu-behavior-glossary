@@ -1,0 +1,45 @@
+{
+  "id": "easy-attractive-social-timely",
+  "ja": "EAST",
+  "en": "Easy, Attractive, Social, Timely",
+  "cat": "効果検証・設計",
+  "schema_version": "4.0",
+  "academic_domain": "評価・実装研究",
+  "explanation": "EASTはEasy・Attractive・Social・Timelyの4観点から行動を妨げる負担や提示方法を点検する、政策設計の実務的整理。",
+  "application_hypothesis": "施錠の手間・目立ち方・規範・提示時点を点検する。",
+  "limitations": "4要素を盛り込むだけで効果が出るわけではない。診断と比較検証が必要なチェック枠組み。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Behavioural Insights Team, EAST",
+      "url": "https://ojs.unbc.ca/index.php/design/article/view/1658",
+      "role": "政策・実務上の枠組み",
+      "source_type": "policy_framework"
+    },
+    {
+      "title": "Behavioural Insights Team, EAST (updated 2024)",
+      "url": "https://www.bi.team/publications/east-four-simple-ways-to-apply-behavioural-insights/",
+      "checked": "bibliographic_and_concept",
+      "source_type": "policy_framework",
+      "role": "政策・実務上の枠組み"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [],
+  "articles": [],
+  "original_definition": "簡単・魅力的・社会的・タイムリーの4視点から施策を設計する枠組み。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "枠組み。効果の確立を意味しない",
+  "categories": [
+    "効果検証・設計"
+  ],
+  "academic_domains": [
+    "評価",
+    "実装研究"
+  ],
+  "origin_audit_status": "review_framework_or_representative_source_only",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

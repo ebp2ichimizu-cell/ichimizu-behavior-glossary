@@ -1,0 +1,44 @@
+{
+  "id": "effect-size",
+  "ja": "効果量",
+  "en": "Effect Size",
+  "cat": "効果検証・設計",
+  "schema_version": "4.0",
+  "academic_domain": "評価・実装研究",
+  "explanation": "割合の差、リスク比、オッズ比、標準化平均差など、差や関連の大きさを定義済みの尺度で表す。",
+  "application_hypothesis": "設定率の群間差をポイント単位で示す。",
+  "limitations": "異なる効果量を混同しない。標準化平均差d=0.2は20％改善という意味ではない。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Lakens (2013), Calculating and Reporting Effect Sizes",
+      "url": "https://doi.org/10.3389/fpsyg.2013.00863",
+      "role": "方法論・公的指針・研究分類資料",
+      "source_type": "methodological_guide",
+      "verification_note": "代表的な効果量と報告方法。概念そのものの提唱原典ではない",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "confidence-interval",
+    "statistical-power",
+    "statistical-significance"
+  ],
+  "articles": [],
+  "original_definition": "介入による差や関連の大きさを、定義された尺度で表した指標。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "評価・統計または実装研究の用語。行動経済学に固有ではない",
+  "categories": [
+    "効果検証・設計"
+  ],
+  "academic_domains": [
+    "評価",
+    "実装研究"
+  ],
+  "origin_audit_status": "foundational_or_method_source_verified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

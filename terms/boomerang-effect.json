@@ -1,0 +1,44 @@
+{
+  "id": "boomerang-effect",
+  "ja": "ブーメラン効果",
+  "en": "Boomerang Effect",
+  "cat": "社会的影響",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "望ましい行動水準に近かった人が、提示された低い社会平均に引き寄せられるなど、介入の目的とは逆の行動変化が生じること。",
+  "application_hypothesis": "無施錠が多数という情報で施錠が減る。",
+  "limitations": "単なる有意差なしとは違う。逆方向の推定と不確実性を確認し、誰に起きたかを検討する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Schultz et al. (2007), Social Norms and Boomerang Effect",
+      "url": "https://doi.org/10.1111/j.1467-9280.2007.01917.x",
+      "role": "代表的な実証研究（概念の提唱原著とは限らない）",
+      "source_type": "representative_empirical"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "descriptive-norms",
+    "injunctive-norms",
+    "social-norms",
+    "social-proof"
+  ],
+  "articles": [],
+  "original_definition": "改善を狙った働きかけが反対方向の行動変化をもたらす現象。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "社会的影響"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "direct_or_foundational_study_identified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

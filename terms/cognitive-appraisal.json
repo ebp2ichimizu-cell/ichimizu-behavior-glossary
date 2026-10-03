@@ -1,0 +1,41 @@
+{
+  "id": "cognitive-appraisal",
+  "ja": "認知的評価（ストレス）",
+  "en": "Cognitive Appraisal",
+  "cat": "防護行動・リスク認知",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "出来事が自分にとってどのような意味を持ち、対処できるかを評価する過程。",
+  "explanation": "脅威・損失・挑戦としての意味づけや、利用できる対処資源が反応に関わると考える。",
+  "application_hypothesis": "詐欺の警告を見た人の脅威・対処資源認知を別々に調査する。",
+  "limitations": "一般的な認知評価とPMTの脅威評価・対処評価は理論文脈が異なる。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Lazarus & Folkman (1984), Stress, Appraisal, and Coping",
+      "url": "https://books.google.com/books/about/Stress_Appraisal_and_Coping.html?id=FFBqAAAAMAAJ",
+      "role": "原著書籍（書誌確認）",
+      "source_type": "book_bibliography",
+      "verification_note": "原著書籍の書誌情報を確認、本文未精査",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "threat-appraisal",
+    "coping-appraisal"
+  ],
+  "articles": [],
+  "categories": [
+    "防護行動・リスク認知"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "danger-control",
+  "ja": "危険制御",
+  "en": "Danger Control",
+  "cat": "防護行動・リスク認知",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "危険を減らすための具体的な対応へ注意や行動が向かう反応。EPPMで想定される反応の一つ。",
+  "explanation": "脅威に加えて対策が有効で実行可能だと認識されると、危険そのものへの対応が進むと考える。",
+  "application_hypothesis": "警告後の通話遮断・アプリ設定完了など実際の行動を観察する。",
+  "limitations": "本人が「対処した」と申告するだけで十分ではなく、行動指標を使う。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Witte (1992), Putting the Fear Back into Fear Appeals",
+      "url": "https://doi.org/10.1080/03637759209376276",
+      "role": "理論提唱原著",
+      "source_type": "theoretical_primary",
+      "verification_note": "EPPMの提案論文（公開要旨を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "extended-parallel-process-model",
+    "fear-control"
+  ],
+  "articles": [],
+  "categories": [
+    "防護行動・リスク認知"
+  ]
+}

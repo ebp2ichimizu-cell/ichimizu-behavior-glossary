@@ -1,0 +1,47 @@
+{
+  "id": "affect",
+  "ja": "感情・情動",
+  "en": "Affect",
+  "cat": "社会的影響",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "恐怖、安心、好悪などの感情が、確率・便益・危険性の評価に入り込む。感情を情報の代用として利用する場合もある。",
+  "application_hypothesis": "犯罪不安と対策行動の関連を調べる。",
+  "limitations": "恐怖が強ければ望ましい行動が増えるとは限らない。脅威の訴求と実行可能な対処情報の効果を分けて検討する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Institute for Government (2010), MINDSPACE",
+      "url": "https://www.instituteforgovernment.org.uk/sites/default/files/publications/MINDSPACE.pdf",
+      "role": "政策・実務上の枠組み",
+      "source_type": "policy_framework"
+    },
+    {
+      "title": "Loewenstein et al. (2001), Risk as Feelings",
+      "url": "https://doi.org/10.1037/0033-2909.127.2.267",
+      "role": "原著の理論研究・総説",
+      "source_type": "foundational_theoretical_review",
+      "verification_note": "情動と認知的リスク評価の相違を扱うレビュー",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [],
+  "articles": [],
+  "original_definition": "感情がリスク評価や選択に影響すること。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "社会的影響"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "direct_or_foundational_study_identified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

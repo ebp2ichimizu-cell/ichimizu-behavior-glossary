@@ -1,0 +1,40 @@
+{
+  "id": "cognitive-dissonance",
+  "ja": "認知的不協和",
+  "en": "Cognitive Dissonance",
+  "cat": "認知・判断",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "態度・信念・行動などが矛盾するときに生じる心理的不整合や、その低減過程を説明する概念。",
+  "explanation": "人は矛盾を解消するため態度の再解釈や行動の正当化などを行うことがある。",
+  "application_hypothesis": "施錠しない人が「この地域は安全だから」と説明する理由を探索する。",
+  "limitations": "本人の発言だけから不協和を断定できない。介入効果も別途検証が必要。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Festinger & Carlsmith (1959), Cognitive consequences of forced compliance",
+      "url": "https://doi.org/10.1037/h0041593",
+      "role": "実験研究",
+      "source_type": "representative_primary",
+      "verification_note": "認知的不協和研究の代表実験（書誌・論文情報を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "confirmation-bias"
+  ],
+  "articles": [],
+  "categories": [
+    "認知・判断"
+  ]
+}

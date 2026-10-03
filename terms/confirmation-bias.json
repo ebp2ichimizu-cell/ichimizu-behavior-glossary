@@ -1,0 +1,39 @@
+{
+  "id": "confirmation-bias",
+  "ja": "確証バイアス",
+  "en": "Confirmation Bias",
+  "cat": "判断の偏り",
+  "schema_version": "4.0",
+  "academic_domain": "行動経済学・関連心理学",
+  "explanation": "既存の判断に合う情報を優先的に探し、解釈し、記憶するなどして、反対証拠を過小評価する傾向。",
+  "application_hypothesis": "自分は詐欺に遭わないとの考えを補強する。",
+  "limitations": "意見と異なる証拠を重視しない理由には経験や情報源の質も関わる。単なる反対意見をバイアス扱いしない。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Nickerson (1998), Confirmation Bias",
+      "url": "https://doi.org/10.1037/1089-2680.2.2.175",
+      "role": "専門レビュー（原典と区別）",
+      "source_type": "scholarly_review"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [],
+  "articles": [],
+  "original_definition": "既存の信念に合う情報を重視しやすい傾向。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "判断の偏り"
+  ],
+  "academic_domains": [
+    "行動経済学",
+    "関連心理学"
+  ],
+  "origin_audit_status": "review_framework_or_representative_source_only",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

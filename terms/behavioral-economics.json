@@ -1,0 +1,44 @@
+{
+  "id": "behavioral-economics",
+  "ja": "行動経済学",
+  "en": "Behavioral Economics",
+  "cat": "基本概念",
+  "schema_version": "4.0",
+  "academic_domain": "行動経済学・関連心理学",
+  "explanation": "伝統的な合理的選択モデルの予測からの乖離や、その背後の心理・文脈依存性を実験・データで扱う。選好、時間、リスク、社会的要因など対象は広い。",
+  "application_hypothesis": "施錠が有益と理解していても実行しない理由を考える。",
+  "limitations": "一つのバイアスから個人の行動を断定しない。行動経済学の理論と、行動科学・心理学の技法を同一視しない。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Kahneman & Tversky (1979), Prospect Theory",
+      "url": "https://doi.org/10.2307/1914185",
+      "role": "基礎・代表原著（初出とは限らない）",
+      "source_type": "foundational_or_direct_research"
+    },
+    {
+      "title": "OECD (2019) BASIC Toolkit",
+      "url": "https://doi.org/10.1787/9ea76a8f-en",
+      "role": "政策・実務上の枠組み",
+      "source_type": "policy_framework"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [],
+  "articles": [],
+  "original_definition": "心理的・社会的要因を意思決定や経済行動の分析に組み込む研究分野。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "基本概念"
+  ],
+  "academic_domains": [
+    "行動経済学",
+    "関連心理学"
+  ],
+  "origin_audit_status": "review_framework_or_representative_source_only",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

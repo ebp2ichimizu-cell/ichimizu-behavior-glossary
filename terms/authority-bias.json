@@ -1,0 +1,52 @@
+{
+  "id": "authority-bias",
+  "ja": "権威バイアス",
+  "en": "Authority Bias",
+  "cat": "社会的影響",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "権威のある人物・役職・資格を手掛かりに、説明内容を十分に独立検討せず受け入れる傾向を指す通俗的な総称。関連する研究には服従、権威への信頼、発信者効果があるが、互いに同一概念ではない。",
+  "application_hypothesis": "専門家の推薦への反応を検証する。",
+  "limitations": "「権威バイアス」に一意の提唱原著があると見なさない。専門性への合理的信頼は常に誤判断ではなく、服従実験を警察署長の推奨効果の証明として流用しない。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Milgram (1963), Behavioral Study of Obedience",
+      "url": "https://doi.org/10.1037/h0040525",
+      "role": "補助的な研究・関連資料",
+      "source_type": "related_primary",
+      "verification_note": "権威への服従に関する一次実験であり、権威バイアスという単一概念の命名原典ではない",
+      "verified_at": "2026-10-03"
+    },
+    {
+      "title": "Cialdini & Goldstein (2004), Social Influence",
+      "url": "https://doi.org/10.1146/annurev.psych.55.090902.142015",
+      "role": "専門レビュー・関連研究",
+      "source_type": "scholarly_review",
+      "verification_note": "社会的影響・服従のレビュー",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "related_sources_checked",
+  "related_terms": [
+    "messenger-effect",
+    "messenger-incentives-norms-defaults-salience-priming-affect-commitments-ego"
+  ],
+  "articles": [],
+  "original_definition": "権威的な立場や肩書きを判断の手掛かりとして用いる傾向を指す便宜的な表現。服従、信頼、発信者効果とは区別する。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "社会的影響"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "concept_related_primary_or_author_account",
+  "origin_audit_note": "「権威バイアス」に一意の提唱原著を割り当てられない。Milgramの服従研究は関連一次研究で、同義ではない。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

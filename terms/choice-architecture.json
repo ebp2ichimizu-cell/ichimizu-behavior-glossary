@@ -1,0 +1,50 @@
+{
+  "id": "choice-architecture",
+  "ja": "選択アーキテクチャ",
+  "en": "Choice Architecture",
+  "cat": "基本概念",
+  "schema_version": "4.0",
+  "academic_domain": "行動経済学・関連心理学",
+  "explanation": "選択肢の順序、配置、デフォルト、導線や手続を通じて、選択を取り巻く環境を構成する。",
+  "application_hypothesis": "防犯設定画面を整理する。",
+  "limitations": "選択肢を隠す・誤認させる操作と区別する。公平性と本人の自律性を確認する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "OECD (2019) BASIC Toolkit",
+      "url": "https://doi.org/10.1787/9ea76a8f-en",
+      "role": "政策・実務上の枠組み",
+      "source_type": "policy_framework"
+    },
+    {
+      "title": "Thaler & Sunstein (2008), Nudge",
+      "url": "https://yalebooks.co.uk/book/9780300146813/nudge/",
+      "role": "原著書籍（本文未精査、書誌/出版社資料）",
+      "source_type": "foundational_book_publisher",
+      "verification_note": "選択アーキテクチャを政策に応用する原著書籍",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "active-choice",
+    "default",
+    "status-quo-bias"
+  ],
+  "articles": [],
+  "original_definition": "選択肢の表示・配置・初期設定など意思決定環境の構造。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "基本概念"
+  ],
+  "academic_domains": [
+    "行動経済学",
+    "関連心理学"
+  ],
+  "origin_audit_status": "direct_or_foundational_study_identified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "cognitive-load",
+  "ja": "認知負荷",
+  "en": "Cognitive Load",
+  "cat": "行動の障壁",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "同時に理解・記憶・操作しなければならない情報が増えることで、限られた作業記憶などの処理資源が圧迫される。",
+  "application_hypothesis": "複雑な広報と簡素化した広報の理解率を比較する。",
+  "limitations": "複雑な情報がすべて不要とは限らない。理解度や操作完了率で評価する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Sweller (1988), Cognitive Load During Problem Solving",
+      "url": "https://doi.org/10.1207/s15516709cog1202_4",
+      "role": "概念を直接扱う原著・一次研究",
+      "source_type": "foundational_primary",
+      "verification_note": "認知負荷理論の初期の基礎研究",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [],
+  "articles": [],
+  "original_definition": "課題を処理する際に限られた認知資源に掛かる負担。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "行動の障壁"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "foundational_or_method_source_verified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "coping-appraisal",
+  "ja": "対処評価",
+  "en": "Coping Appraisal",
+  "cat": "防護行動・リスク認知",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "防護行動を行うことで危険を減らせるか、本人に実行できるか、負担はどの程度かを評価する過程。",
+  "explanation": "対処反応の有効性、自己効力感、反応コストなどの組合せから検討する。",
+  "application_hypothesis": "アプリの有効性、設定できる自信、費用・手間を別々に測る。",
+  "limitations": "本人に能力があっても、実際の環境に対策の機会がなければ実行できない。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Rogers (1975), A Protection Motivation Theory of Fear Appeals and Attitude Change",
+      "url": "https://doi.org/10.1080/00223980.1975.9915803",
+      "role": "理論提唱原著",
+      "source_type": "theoretical_primary",
+      "verification_note": "防護動機理論の初期原著（公開要旨を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "response-efficacy",
+    "self-efficacy",
+    "response-cost"
+  ],
+  "articles": [],
+  "categories": [
+    "防護行動・リスク認知"
+  ]
+}

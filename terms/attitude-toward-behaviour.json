@@ -1,0 +1,41 @@
+{
+  "id": "attitude-toward-behaviour",
+  "ja": "行動に対する態度",
+  "en": "Attitude Toward the Behavior",
+  "cat": "意思決定・動機づけ",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "特定の行動を本人が好ましいか好ましくないかと評価する程度。人や対象一般への好き嫌いとは区別する。",
+  "explanation": "行動の利益・不利益に関する信念や評価が態度に結び付くと考える。",
+  "application_hypothesis": "「防犯アプリが良いと思うか」ではなく「今週導入することをどう評価するか」を測定する。",
+  "limitations": "態度が好意的でも、機会や能力が不足すれば行動が起きないことがある。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Ajzen (1991), The theory of planned behavior",
+      "url": "https://doi.org/10.1016/0749-5978(91)90020-T",
+      "role": "理論・関連研究レビュー",
+      "source_type": "theoretical_primary",
+      "verification_note": "提唱理論の主要原著（公開要旨を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "theory-of-planned-behaviour",
+    "intention-behaviour-gap"
+  ],
+  "articles": [],
+  "categories": [
+    "意思決定・動機づけ"
+  ]
+}

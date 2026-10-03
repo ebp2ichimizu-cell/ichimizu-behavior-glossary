@@ -1,0 +1,41 @@
+{
+  "id": "collective-efficacy",
+  "ja": "集合的効力感",
+  "en": "Collective Efficacy",
+  "cat": "社会心理・対人関係",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "地域の社会的結束と、公共の利益のために周囲が介入しようとする期待を結び付けた概念。",
+  "explanation": "地域で相互に協力し問題へ対応するという共有された期待と社会関係に着目する。",
+  "application_hypothesis": "地域内の協力期待と犯罪発生との関連を、社会経済条件などを考慮して調べる。",
+  "limitations": "Sampsonらの研究は観察研究であり、集合的効力感を高めれば必ず犯罪が減るという因果結論ではない。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Sampson, Raudenbush & Earls (1997), Neighborhoods and Violent Crime",
+      "url": "https://doi.org/10.1126/science.277.5328.918",
+      "role": "観察研究",
+      "source_type": "observational",
+      "verification_note": "集合的効力感と犯罪の関連を扱う観察研究（公開要旨を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "social-norms",
+    "procedural-justice"
+  ],
+  "articles": [],
+  "categories": [
+    "社会心理・対人関係"
+  ]
+}

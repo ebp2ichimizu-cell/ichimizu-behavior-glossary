@@ -1,0 +1,42 @@
+{
+  "id": "capability-opportunity-motivation-behaviour",
+  "ja": "COM-Bモデル",
+  "en": "Capability, Opportunity, Motivation – Behaviour",
+  "cat": "効果検証・設計",
+  "schema_version": "4.0",
+  "academic_domain": "評価・実装研究",
+  "explanation": "能力（身体的・心理的）、機会（物理的・社会的）、動機（熟慮的・自動的）が相互作用して行動を生むと整理する。",
+  "application_hypothesis": "知識、施設、意欲の不足を切り分ける。",
+  "limitations": "分類しただけで因果原因を証明したことにはならない。各障壁について観察・調査・実験を行う。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Michie et al. (2011), Behaviour Change Wheel / COM-B",
+      "url": "https://doi.org/10.1186/1748-5908-6-42",
+      "role": "基礎・代表原著（初出とは限らない）",
+      "source_type": "foundational_or_direct_research"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "response-efficacy",
+    "risk-perception",
+    "self-efficacy"
+  ],
+  "articles": [],
+  "original_definition": "行動を能力・機会・動機の3条件から分析するモデル。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "枠組み。効果の確立を意味しない",
+  "categories": [
+    "効果検証・設計"
+  ],
+  "academic_domains": [
+    "評価",
+    "実装研究"
+  ],
+  "origin_audit_status": "direct_or_foundational_study_identified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

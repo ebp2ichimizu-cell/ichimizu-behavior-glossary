@@ -1,0 +1,41 @@
+{
+  "id": "autonomy-support",
+  "ja": "自律性支援",
+  "en": "Autonomy Support",
+  "cat": "意思決定・動機づけ",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "相手の視点を尊重し、理由を説明し、不必要な統制を避けながら選択を支える関わり方。",
+  "explanation": "本人の納得感と主体性を尊重することが動機づけに関わると考える。",
+  "application_hypothesis": "防犯設定の利点と選択可能な方法を示し、自身で選べる案内を検討する。",
+  "limitations": "選択肢を増やすこと自体が必ず良いわけではない。負担や制度上の条件を考慮する。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Deci & Ryan (2000), The “What” and “Why” of Goal Pursuits",
+      "url": "https://doi.org/10.1207/S15327965PLI1104_01",
+      "role": "理論研究論文",
+      "source_type": "theoretical_primary",
+      "verification_note": "自己決定理論の主要論考（公開要旨を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "self-determination-theory",
+    "psychological-reactance"
+  ],
+  "articles": [],
+  "categories": [
+    "意思決定・動機づけ"
+  ]
+}

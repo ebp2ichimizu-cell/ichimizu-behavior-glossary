@@ -1,0 +1,41 @@
+{
+  "id": "dual-process-theories",
+  "ja": "二重過程理論",
+  "en": "Dual-process Theories",
+  "cat": "基本概念",
+  "schema_version": "4.0",
+  "academic_domain": "行動経済学・関連心理学",
+  "explanation": "速く比較的自動的な処理と、遅く制御的な処理を区別する複数の理論をまとめた呼称。実際の認知過程は相互に作用する。",
+  "application_hypothesis": "習慣的施錠と機器購入時の熟慮を区別する。",
+  "limitations": "異なる理論群を一括する名称で、速い処理と遅い処理が常に明確に分離されると実証されたわけではない。単一の実験・原典を理論群全体の証明としない。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "Evans (2008), Dual-Processing Accounts of Reasoning, Judgment, and Social Cognition",
+      "url": "https://doi.org/10.1146/annurev.psych.59.103006.093629",
+      "role": "専門レビュー・関連研究",
+      "source_type": "scholarly_review",
+      "verification_note": "複数の二重過程理論を整理したレビュー。統一された単一原典は存在しない",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [],
+  "articles": [],
+  "original_definition": "比較的自動的な処理と制御的な処理を区別する認知心理学上の複数の理論の総称。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "基本概念"
+  ],
+  "academic_domains": [
+    "行動経済学",
+    "関連心理学"
+  ],
+  "origin_audit_status": "foundational_or_method_source_verified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}

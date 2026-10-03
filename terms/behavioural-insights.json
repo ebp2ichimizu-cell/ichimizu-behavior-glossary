@@ -1,0 +1,38 @@
+{
+  "id": "behavioural-insights",
+  "ja": "行動インサイト",
+  "en": "Behavioural Insights",
+  "cat": "基本概念",
+  "schema_version": "4.0",
+  "academic_domain": "行動経済学・関連心理学",
+  "explanation": "実際の対象行動を観察・診断し、行動科学に基づく施策を設計、効果検証、改善する政策実践。ナッジだけを意味するものではない。",
+  "application_hypothesis": "防犯アプリの導入障壁を調べる。",
+  "limitations": "特定の介入が効果的である保証はない。倫理、透明性、公平性、選択の自由も検討する。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "OECD (2019) BASIC Toolkit",
+      "url": "https://doi.org/10.1787/9ea76a8f-en",
+      "role": "政策・実務上の枠組み",
+      "source_type": "policy_framework"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [],
+  "articles": [],
+  "original_definition": "心理学・行動科学等の研究知見を実際の行動と政策の設計・検証に結びつける方法。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "基本概念"
+  ],
+  "academic_domains": [
+    "行動経済学",
+    "関連心理学"
+  ],
+  "origin_audit_status": "review_framework_or_representative_source_only",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

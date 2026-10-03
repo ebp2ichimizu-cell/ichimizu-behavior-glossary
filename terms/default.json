@@ -1,0 +1,50 @@
+{
+  "id": "default",
+  "ja": "デフォルト",
+  "en": "Default",
+  "cat": "介入技法",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "明示的に変更しない場合に選択される初期状態。設定を変える手間や暗黙の推奨シグナルが選択に影響し得る。",
+  "application_hypothesis": "同意と権利を尊重した推奨設定を検討する。",
+  "limitations": "本人の同意、プライバシー、オプトアウトの分かりやすさが重要。すべての安全機能を勝手に有効化すべきとは限らない。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "OECD (2019) BASIC Toolkit",
+      "url": "https://doi.org/10.1787/9ea76a8f-en",
+      "role": "政策・実務上の枠組み",
+      "source_type": "policy_framework"
+    },
+    {
+      "title": "Johnson & Goldstein (2003), Do Defaults Save Lives?",
+      "url": "https://doi.org/10.1126/science.1091721",
+      "role": "概念を直接扱う原著・一次研究",
+      "source_type": "representative_primary",
+      "verification_note": "初期設定の影響を扱う代表研究",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [
+    "active-choice",
+    "choice-architecture",
+    "status-quo-bias"
+  ],
+  "articles": [],
+  "original_definition": "変更操作をしない場合に適用される初期選択。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究概念。個別の応用効果とは区別",
+  "categories": [
+    "介入技法"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "direct_or_foundational_study_identified",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics"
+  ]
+}

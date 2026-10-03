@@ -1,0 +1,41 @@
+{
+  "id": "central-route",
+  "ja": "中心ルート",
+  "en": "Central Route",
+  "cat": "広報・説得",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "説得内容の主張や根拠を、比較的丁寧に検討する情報処理の経路。",
+  "explanation": "関心や処理能力があり内容を詳しく吟味する場合に重要になる。",
+  "application_hypothesis": "防犯対策の効果と限界を示す研究結果の詳細ページを設ける。",
+  "limitations": "詳しい説明を用意すれば必ず中心ルートになるわけではない。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Petty & Cacioppo (1986), The Elaboration Likelihood Model of Persuasion",
+      "url": "https://doi.org/10.1016/S0065-2601(08)60214-2",
+      "role": "理論・研究レビュー",
+      "source_type": "theoretical_primary",
+      "verification_note": "精緻化見込みモデルの主要原著（公開概要を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "elaboration-likelihood-model",
+    "peripheral-route"
+  ],
+  "articles": [],
+  "categories": [
+    "広報・説得"
+  ]
+}

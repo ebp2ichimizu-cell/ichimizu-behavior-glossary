@@ -1,0 +1,42 @@
+{
+  "id": "elaboration-likelihood-model",
+  "ja": "精緻化見込みモデル",
+  "en": "Elaboration Likelihood Model (ELM)",
+  "cat": "広報・説得",
+  "schema_version": "4.0",
+  "academic_domain": "心理学（隣接学術分野を含む）",
+  "academic_domains": [
+    "心理学"
+  ],
+  "library_tabs": [
+    "psychology"
+  ],
+  "original_definition": "説得メッセージの吟味の程度に応じ、論拠の精査と周辺的手掛かりなどが態度変化に異なる役割を果たすモデル。",
+  "explanation": "関心、理解力、処理できる状況によって、内容を詳しく検討する程度が変わると考える。",
+  "application_hypothesis": "詳しい比較情報と簡潔な推薦情報を、受け手の関心・時間制約別に検証する。",
+  "limitations": "中心・周辺が個人の固定属性という意味ではない。単純に「論理対感情」と二分しない。",
+  "evidence_note": "掲載出典は概念の定義・理論・関連研究に関する根拠。犯罪予防における介入効果を示したものではない。効果の一般化には介入研究と適切な評価設計が必要。",
+  "sources": [
+    {
+      "title": "Petty & Cacioppo (1986), The Elaboration Likelihood Model of Persuasion",
+      "url": "https://doi.org/10.1016/S0065-2601(08)60214-2",
+      "role": "理論・研究レビュー",
+      "source_type": "theoretical_primary",
+      "verification_note": "精緻化見込みモデルの主要原著（公開概要を確認）",
+      "verified_at": "2026-10-03"
+    }
+  ],
+  "verification_status": "source_checked",
+  "origin_audit_status": "publication_and_abstract_checked_not_fulltext",
+  "origin_audit_note": "原著・学術論考の書誌情報と公開要旨・資料紹介を確認。すべての原著本文を精読したという意味ではない。原著・レビュー・書籍を区別して参照。",
+  "concept_status": "行動変容を考えるための心理学概念。仮説と実証された効果を分離",
+  "related_terms": [
+    "central-route",
+    "peripheral-route",
+    "messenger-effect"
+  ],
+  "articles": [],
+  "categories": [
+    "広報・説得"
+  ]
+}

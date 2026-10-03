@@ -1,0 +1,45 @@
+{
+  "id": "behavioural-bottleneck",
+  "ja": "行動上のボトルネック",
+  "en": "Behavioural Bottleneck",
+  "cat": "行動の障壁",
+  "schema_version": "4.0",
+  "academic_domain": "行動科学・心理学",
+  "explanation": "情報への接触、理解、意図形成、実行、継続という過程のどこで特に脱落するかを、データから特定する診断上の考え方。",
+  "application_hypothesis": "到達→理解→設定→継続のどこで脱落するか調べる。",
+  "limitations": "「面倒だから」と決めつけず、段階ごとに測定する。原因が一つとは限らず、複数の障壁が重なる場合がある。",
+  "evidence_note": "本項目の出典は概念・方法・代表研究の根拠であり、犯罪予防への介入効果を直接保証するものではない。対象、比較群、介入内容、測定指標、研究デザインを確認する。",
+  "sources": [
+    {
+      "title": "OECD (2019) BASIC Toolkit",
+      "url": "https://doi.org/10.1787/9ea76a8f-en",
+      "role": "政策・実務上の枠組み",
+      "source_type": "policy_framework"
+    },
+    {
+      "title": "Michie et al. (2011), Behaviour Change Wheel / COM-B",
+      "url": "https://doi.org/10.1186/1748-5908-6-42",
+      "role": "基礎・代表原著（初出とは限らない）",
+      "source_type": "foundational_or_direct_research"
+    }
+  ],
+  "verification_status": "source_checked",
+  "related_terms": [],
+  "articles": [],
+  "original_definition": "目標行動に到る過程で、行動の実現を主に阻んでいる段階や条件。",
+  "source_scope": "出典の役割は原著研究・書籍書誌・レビュー・政策指針を区別して記載。用語の定義が確認できても、犯罪予防での効果は別途検証する。",
+  "concept_status": "研究実務上の記述語。定義・使われ方が文献間で異なり得る",
+  "categories": [
+    "行動の障壁"
+  ],
+  "academic_domains": [
+    "行動科学",
+    "心理学"
+  ],
+  "origin_audit_status": "review_framework_or_representative_source_only",
+  "origin_audit_note": "原典とは、理論の提唱・初期原著・代表的原著・専門レビュー・実務枠組みのどれかを区別する。出典の存在と介入効果の普遍性は別。",
+  "library_tabs": [
+    "behavioral_economics",
+    "psychology"
+  ]
+}
