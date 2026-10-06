@@ -1,0 +1,696 @@
+{
+  "schema_version": "plain-ja-1.0",
+  "purpose": "専門知識がなく英語を読めない実務家向けの第1表示層",
+  "entries": [
+    {
+      "id": "capability-opportunity-motivation-behaviour",
+      "display_name_ja": "COM-Bモデル（能力・機会・動機から行動を考えるモデル）",
+      "plain_summary": "ある行動ができない理由を、「できる力があるか」「できる環境があるか」「やろうと思えるか」の3つに分けて考える方法。",
+      "plain_example": "防犯アプリが使われない理由を、操作できない・使える環境がない・使おうと思わない、に分けて調べる。"
+    },
+    {
+      "id": "easy-attractive-social-timely",
+      "display_name_ja": "EAST（行動しやすくする4つの視点）",
+      "plain_summary": "人に行動してもらう方法を、「簡単にする」「目を引く」「周囲の影響を生かす」「適切な時に伝える」の4つから考える枠組み。",
+      "plain_example": "自転車を止めた直後に、短く目立つ表示で施錠を促す。"
+    },
+    {
+      "id": "messenger-incentives-norms-defaults-salience-priming-affect-commitments-ego",
+      "display_name_ja": "MINDSPACE（行動に影響する9つの視点）",
+      "plain_summary": "人の行動が、誰から言われるか、得や損、周囲の行動、初期設定、目立ちやすさ、感情などに影響されることを整理した枠組み。",
+      "plain_example": "防犯広報を作るとき、発信者・特典・周囲の行動・見せ方などを一つずつ点検する。"
+    },
+    {
+      "id": "anchoring",
+      "display_name_ja": "アンカリング",
+      "plain_summary": "最初に見た数字や情報が基準になり、その後の判断が引っ張られること。",
+      "plain_example": "最初に示された被害額によって、その後の危険性の感じ方が変わるかを調べる。"
+    },
+    {
+      "id": "incentive",
+      "display_name_ja": "インセンティブ",
+      "plain_summary": "行動することで得られる特典や、行動しないことで生じる負担など、行動の得・損に関わる条件。",
+      "plain_example": "防犯講習への参加者に小さな特典を付けた場合、参加率が変わるか確かめる。"
+    },
+    {
+      "id": "commitment",
+      "display_name_ja": "コミットメント",
+      "plain_summary": "「いつ、何をする」と先に決めたり人に伝えたりすることで、その後の実行を後押しする方法。",
+      "plain_example": "「今週中に迷惑電話対策を設定する」と予定を決めてもらう。"
+    },
+    {
+      "id": "sludge",
+      "display_name_ja": "スラッジ（不要な手続の負担）",
+      "plain_summary": "本来はできるはずの行動を、複雑な手続や分かりにくい画面などが邪魔している状態。",
+      "plain_example": "防犯アプリの登録項目が多すぎて、途中で申込みをやめる人が増えていないか調べる。"
+    },
+    {
+      "id": "social-support",
+      "display_name_ja": "社会的支援",
+      "plain_summary": "家族や周囲の人から受ける、情報、手助け、励ましなどの支援。",
+      "plain_example": "高齢者が防犯アプリを設定するとき、家族の手助けがあると利用が進むか確かめる。"
+    },
+    {
+      "id": "timely-prompt",
+      "display_name_ja": "行動する直前の働きかけ",
+      "plain_summary": "実際に行動できる場所や時間に合わせて、必要な情報を伝える方法。",
+      "plain_example": "自転車を置く場所で、施錠する直前に注意表示を見せる。"
+    },
+    {
+      "id": "default",
+      "display_name_ja": "初期設定",
+      "plain_summary": "何も変更しなかったときに、そのまま選ばれる設定や選択肢。",
+      "plain_example": "安全機能を使うかどうかについて、本人の同意を確保しながら初期設定の違いを検討する。"
+    },
+    {
+      "id": "nudge",
+      "display_name_ja": "ナッジ",
+      "plain_summary": "禁止や大きな金銭的な報酬を使わず、見せ方や置き方などを工夫して、望ましい行動を取りやすくする方法。",
+      "plain_example": "駐輪する場所に表示を置き、施錠を思い出しやすくする。"
+    },
+    {
+      "id": "heuristic",
+      "display_name_ja": "判断の近道",
+      "plain_summary": "時間や情報が少ないときに、すべてを詳しく考えず、簡単な手掛かりで判断すること。",
+      "plain_example": "細かな説明を読む代わりに、信頼している発信者を手掛かりに防犯情報を判断する。"
+    },
+    {
+      "id": "heuristic-systematic-model",
+      "display_name_ja": "簡単な判断と詳しい判断を分けて考えるモデル",
+      "plain_summary": "人は、簡単な手掛かりだけで判断するときと、内容を詳しく検討して判断するときがあると考えるモデル。",
+      "plain_example": "発信者の肩書だけを見る人と、防犯機器の性能まで比較する人を分けて考える。"
+    },
+    {
+      "id": "feedback",
+      "display_name_ja": "結果を知らせる情報",
+      "plain_summary": "自分の行動やその結果を知らせ、次の行動を考える材料にすること。",
+      "plain_example": "地域の施錠率が前月より上がったことを住民に知らせる。"
+    },
+    {
+      "id": "framing-effect",
+      "display_name_ja": "フレーミング効果",
+      "plain_summary": "内容が同じでも、「得をする」と伝えるか「損をする」と伝えるかなど、表現の仕方で判断が変わること。",
+      "plain_example": "同じ防犯効果を「被害を防げる」と伝える場合と「対策しないと被害が残る」と伝える場合を比べる。"
+    },
+    {
+      "id": "boomerang-effect",
+      "display_name_ja": "ブーメラン効果",
+      "plain_summary": "良くしようとした働きかけが、かえって反対の行動を増やしてしまうこと。",
+      "plain_example": "「多くの人が無施錠です」と知らせたことで、施錠する人まで減らないか確かめる。"
+    },
+    {
+      "id": "priming",
+      "display_name_ja": "先に見た刺激の影響",
+      "plain_summary": "先に見たり聞いたりした情報が、その後の考え方や反応に影響すること。",
+      "plain_example": "安全に関する情報を見た直後に、危険の判断が変わるかを調べる。"
+    },
+    {
+      "id": "prospect-theory",
+      "display_name_ja": "プロスペクト理論",
+      "plain_summary": "人は結果を絶対的な大きさだけでなく、「今より得か損か」を基準に判断し、確率についても単純には受け止めないと考える理論。",
+      "plain_example": "被害の可能性と対策費用の見せ方を変えたとき、対策の選び方が変わるか確かめる。"
+    },
+    {
+      "id": "process-evaluation",
+      "display_name_ja": "施策が届き、実行された過程を調べる評価",
+      "plain_summary": "施策の結果だけでなく、「届いたか」「見られたか」「理解されたか」「予定どおり実施されたか」を調べる評価。",
+      "plain_example": "ポスターを設置した後、実際に見られ、内容が理解され、施錠する機会があったか確認する。"
+    },
+    {
+      "id": "messenger-effect",
+      "display_name_ja": "発信者による違い",
+      "plain_summary": "同じ内容でも、誰が伝えるかによって受け止め方が変わること。",
+      "plain_example": "同じ防犯情報を、警察署長・自治体・家族から伝えた場合で反応を比べる。"
+    },
+    {
+      "id": "mental-accounting",
+      "display_name_ja": "お金を用途別に分けて考える傾向",
+      "plain_summary": "同じ金額でも、「生活費」「娯楽費」「防犯費」など、頭の中で別の財布として扱うこと。",
+      "plain_example": "防犯機器が高いのではなく、「防犯に使える予算がない」と感じて購入しない人がいるか調べる。"
+    },
+    {
+      "id": "randomized-controlled-trial",
+      "display_name_ja": "ランダム化比較試験",
+      "plain_summary": "対象者や場所をくじ引きのように偶然でグループに分け、施策を行った場合と行わなかった場合を比べる方法。",
+      "plain_example": "異なる防犯広報を無作為に割り当て、実際の設定完了率を比較する。"
+    },
+    {
+      "id": "risk-perception",
+      "display_name_ja": "危険の感じ方",
+      "plain_summary": "被害が起こりそうか、起きたらどれほど深刻かについて、本人がどう感じているか。",
+      "plain_example": "実際の犯罪統計と、住民が感じている被害の起こりやすさを比べる。"
+    },
+    {
+      "id": "reminder",
+      "display_name_ja": "思い出させる通知",
+      "plain_summary": "やろうと思っていた行動や期限を、必要な時に思い出させること。",
+      "plain_example": "防犯アプリを設定すると決めた日に通知を送る。"
+    },
+    {
+      "id": "central-route",
+      "display_name_ja": "内容をよく考えて判断する経路",
+      "plain_summary": "情報の中身や根拠を比較的丁寧に検討して、納得できるか判断すること。",
+      "plain_example": "防犯機器の効果と限界を、研究結果まで含めて詳しく確認できるページを用意する。"
+    },
+    {
+      "id": "subjective-norm",
+      "display_name_ja": "身近な人からの期待の感じ方",
+      "plain_summary": "自分が大切にしている人たちから「その行動をした方がよい」と期待されていると感じる程度。",
+      "plain_example": "家族が防犯設定をしてほしいと思っていると、本人が感じているか調べる。"
+    },
+    {
+      "id": "theory-of-planned-behaviour",
+      "display_name_ja": "予定行動理論",
+      "plain_summary": "人が行動しようと思うかどうかを、「その行動を良いと思うか」「周囲が望んでいると思うか」「自分にもできそうか」から考える理論。",
+      "plain_example": "防犯アプリを使わない理由が、必要性を感じない・家族の後押しがない・操作できそうにない、のどこにあるか調べる。"
+    },
+    {
+      "id": "dual-process-theories",
+      "display_name_ja": "二重過程理論",
+      "plain_summary": "人の判断には、すばやくほぼ自動で行うものと、時間をかけて考えるものがあると考える理論の総称。",
+      "plain_example": "毎日の施錠は習慣で行い、防犯機器の購入は比較して慎重に考える、といった違いを見る。"
+    },
+    {
+      "id": "implementation-fidelity",
+      "display_name_ja": "施策が計画どおり行われたか",
+      "plain_summary": "決めた内容・回数・方法で施策が実際に実施された程度。",
+      "plain_example": "設置予定のポスターが、予定した場所に期間中ずっと掲示されていたか確認する。"
+    },
+    {
+      "id": "endowment-effect",
+      "display_name_ja": "保有効果",
+      "plain_summary": "すでに持っている物を、持っていない物より高く評価しやすいこと。",
+      "plain_example": "古い防犯機器を持っているため、新しい機器への交換を必要以上に避けていないか調べる。"
+    },
+    {
+      "id": "confidence-interval",
+      "display_name_ja": "信頼区間",
+      "plain_summary": "調査や実験で得た数字には誤差があるため、「本当の値はこのあたりにありそうだ」という幅を示す方法。",
+      "plain_example": "防犯設定率の差を1つの数字だけでなく、どの程度の幅があり得るかと一緒に示す。"
+    },
+    {
+      "id": "health-belief-model",
+      "display_name_ja": "健康信念モデル",
+      "plain_summary": "人が予防行動を取るかどうかを、危険の感じ方、対策の良さ、手間や負担などから考えるモデル。",
+      "plain_example": "特殊詐欺対策について、被害への不安、対策の有効性、設定の面倒さを分けて調べる。"
+    },
+    {
+      "id": "bystander-effect",
+      "display_name_ja": "傍観者効果",
+      "plain_summary": "その場に他の人もいると、「誰かがやるだろう」と考え、通報や援助をしにくくなる場合があること。",
+      "plain_example": "異常を見つけたとき、「誰かが通報する」ではなく具体的な担当を決めた方が行動しやすいか調べる。"
+    },
+    {
+      "id": "intrinsic-motivation",
+      "display_name_ja": "内発的動機づけ",
+      "plain_summary": "報酬のためではなく、その活動自体がおもしろい、役立つ、達成感があると感じて行動すること。",
+      "plain_example": "防犯講習を続ける理由に、知識が増える楽しさや技能の向上が関係しているか調べる。"
+    },
+    {
+      "id": "internal-validity",
+      "display_name_ja": "その結果を「施策のおかげ」と考えてよい確かさ",
+      "plain_summary": "結果に差が出たとき、その差を他の原因ではなく、実施した施策の影響と考えてよい程度。",
+      "plain_example": "防犯キャンペーン後に被害が減ったとき、季節変化や別の施策の影響ではないかも確認する。"
+    },
+    {
+      "id": "gain-loss-message-framing",
+      "display_name_ja": "利益を強調する伝え方・損失を強調する伝え方",
+      "plain_summary": "同じ対策でも、「やれば得られるもの」を示すか、「やらないと失うもの」を示すかで伝え方を変える方法。",
+      "plain_example": "「設定すれば被害を防げる」と伝える場合と「設定しないと被害が残る」と伝える場合を比べる。"
+    },
+    {
+      "id": "availability-heuristic",
+      "display_name_ja": "思い出しやすさによる判断",
+      "plain_summary": "すぐ思い出せる出来事ほど、「よく起きている」と感じやすいこと。",
+      "plain_example": "ニュースで繰り返し見た犯罪を、実際の発生率以上に多いと感じていないか調べる。"
+    },
+    {
+      "id": "reach",
+      "display_name_ja": "実際に情報が届いた割合",
+      "plain_summary": "対象にした人のうち、実際に情報や施策に触れた人がどれくらいいたかを示す割合。",
+      "plain_example": "案内を配った人数ではなく、実際に受け取った人の割合を確認する。"
+    },
+    {
+      "id": "institutional-legitimacy",
+      "display_name_ja": "警察などの組織に対する正当性の認識",
+      "plain_summary": "警察などが権限を使うことを適切だと感じ、協力したり従ったりすることを受け入れられると感じる程度。",
+      "plain_example": "警察の説明の仕方と、市民の信頼や協力しようとする気持ちの関係を調べる。"
+    },
+    {
+      "id": "effect-size",
+      "display_name_ja": "効果の大きさ",
+      "plain_summary": "施策を行った場合と行わなかった場合で、どれくらい差があったかを表す数字。",
+      "plain_example": "防犯設定率が50％から60％になったなら、10ポイントの差として示す。"
+    },
+    {
+      "id": "danger-control",
+      "display_name_ja": "危険そのものへの対処",
+      "plain_summary": "怖さを避けるのではなく、危険を減らすための具体的な行動を取ること。",
+      "plain_example": "詐欺の警告を見た後、実際に着信拒否設定や通話遮断を行ったか確認する。"
+    },
+    {
+      "id": "reference-dependence",
+      "display_name_ja": "基準との比較で得・損を判断する傾向",
+      "plain_summary": "同じ結果でも、「今の状態」や「期待していた状態」と比べて得か損かを判断すること。",
+      "plain_example": "安全対策をしている状態を基準にすると、未対策をどう感じるかが変わるか調べる。"
+    },
+    {
+      "id": "hyperbolic-discounting",
+      "display_name_ja": "将来より目先を強く優先しやすい考え方",
+      "plain_summary": "将来の利益や損失より、今すぐの手間や利益を強く重く感じやすいことを説明するモデル。",
+      "plain_example": "将来の被害防止より、今日の設定作業の面倒さを優先して先延ばしにする行動を考える。"
+    },
+    {
+      "id": "response-cost",
+      "display_name_ja": "対策に感じる負担",
+      "plain_summary": "防犯対策にかかる時間、費用、手間、不便さを、本人がどれくらい負担だと感じているか。",
+      "plain_example": "二重施錠を面倒だと感じる程度を調べる。"
+    },
+    {
+      "id": "response-efficacy",
+      "display_name_ja": "その対策が効くという認識",
+      "plain_summary": "「この対策をすれば被害を減らせる」と本人がどれくらい信じているか。",
+      "plain_example": "迷惑電話対策が特殊詐欺を防ぐのに役立つと思っているか調べる。"
+    },
+    {
+      "id": "peripheral-route",
+      "display_name_ja": "簡単な手掛かりで判断する経路",
+      "plain_summary": "内容を詳しく読まず、発信者の印象、肩書、デザインなどを手掛かりに判断すること。",
+      "plain_example": "同じ防犯情報でも、発信者の肩書や見た目で反応が変わるか調べる。"
+    },
+    {
+      "id": "injunctive-norms",
+      "display_name_ja": "周囲が望ましいと思っている行動",
+      "plain_summary": "周囲の人が「それをするべきだ」「それは良いことだ」と考えていると本人が感じること。",
+      "plain_example": "地域で推奨されている施錠方法を知らせる。"
+    },
+    {
+      "id": "sunk-cost-effect",
+      "display_name_ja": "埋没費用効果",
+      "plain_summary": "すでに使ってしまい取り戻せないお金や労力を理由に、今後も同じ選択を続けてしまうこと。",
+      "plain_example": "効果が確認できない防犯事業を「これまで予算を使ってきたから」という理由だけで続けないか点検する。"
+    },
+    {
+      "id": "stages-of-change-model",
+      "display_name_ja": "行動変容の段階モデル",
+      "plain_summary": "人を、まだ考えていない・考え始めた・準備している・実行している・続けている、などの段階で分けて考えるモデル。",
+      "plain_example": "防犯アプリを知らない人、検討中の人、設定済みの人で案内内容を変える。"
+    },
+    {
+      "id": "external-validity",
+      "display_name_ja": "他の場所や人にも当てはまるか",
+      "plain_summary": "ある研究で得られた結果が、別の地域、年代、時期、組織でも同じように成り立つかを考える視点。",
+      "plain_example": "海外で効果があった防犯対策が、日本でも同じように使えるか検討する。"
+    },
+    {
+      "id": "pluralistic-ignorance",
+      "display_name_ja": "みんなが賛成していると思い込む状態",
+      "plain_summary": "多くの人が内心では疑問を持っているのに、「他の人は問題ないと思っている」と互いに勘違いすること。",
+      "plain_example": "不審な電話に周囲も気づいているのに、誰も問題視していないと思い込み行動しない状況を考える。"
+    },
+    {
+      "id": "mediation-analysis",
+      "display_name_ja": "「なぜ効いたのか」を調べる分析",
+      "plain_summary": "施策が結果を変えたとき、その途中で何が変化して結果につながったのかを調べる方法。",
+      "plain_example": "防犯教室で自信が高まり、その自信の高まりが実際の施錠につながったか調べる。"
+    },
+    {
+      "id": "implementation-intentions",
+      "display_name_ja": "「もし○○なら△△する」と決める方法",
+      "plain_summary": "行動する場面と行動内容をあらかじめ結び付けて、実行しやすくする計画。",
+      "plain_example": "「家に帰ったら迷惑電話対策を設定する」と決めてもらう。"
+    },
+    {
+      "id": "coping-appraisal",
+      "display_name_ja": "対策を実行できそうかの評価",
+      "plain_summary": "その対策が効きそうか、自分にもできそうか、手間や費用が大きすぎないかを考えること。",
+      "plain_example": "防犯アプリが役立つと思うか、設定できそうか、費用や手間が負担かを分けて調べる。"
+    },
+    {
+      "id": "perceived-benefits",
+      "display_name_ja": "対策をする利益の感じ方",
+      "plain_summary": "その対策をすると、危険を減らすなど良い結果が得られると本人が考える程度。",
+      "plain_example": "迷惑電話防止機能を使えば、不審電話との接触を減らせると思っているか調べる。"
+    },
+    {
+      "id": "psychological-reactance",
+      "display_name_ja": "強制されると反発したくなる反応",
+      "plain_summary": "「自由を奪われた」と感じたとき、言われたことに反発したくなる心理的な反応。",
+      "plain_example": "命令口調の防犯広報で、反感や拒否が増えないか調べる。"
+    },
+    {
+      "id": "psychological-safety",
+      "display_name_ja": "失敗や疑問を言いやすい職場・チームの状態",
+      "plain_summary": "質問、懸念、失敗を話しても責められにくいと、チームのメンバーが感じている状態。",
+      "plain_example": "防犯施策の失敗や問題点を、担当者が隠さず報告できるか確認する。"
+    },
+    {
+      "id": "fear-control",
+      "display_name_ja": "危険ではなく恐怖を避けようとする反応",
+      "plain_summary": "危険への対策を取る代わりに、怖い情報を見ない、否定する、考えないようにすること。",
+      "plain_example": "強い詐欺警告を見た人が、対策するのではなく広報自体を避けていないか調べる。"
+    },
+    {
+      "id": "fear-appeal",
+      "display_name_ja": "恐怖や危険を強調する伝え方",
+      "plain_summary": "被害の怖さや深刻さを伝えて、注意や行動を促そうとする方法。",
+      "plain_example": "強い被害事例だけを見せる場合と、具体的な対策方法も一緒に示す場合を比べる。"
+    },
+    {
+      "id": "intention-behaviour-gap",
+      "display_name_ja": "「やろうと思う」と「実際にやる」の差",
+      "plain_summary": "行動するつもりはあるのに、実際には実行しないこと。",
+      "plain_example": "防犯アプリを使いたいと答えた人のうち、実際に設定した人がどれくらいいるか確認する。"
+    },
+    {
+      "id": "affect",
+      "display_name_ja": "感情・気分の影響",
+      "plain_summary": "恐怖、安心、好き嫌いなどの感情が、危険や利益の判断に影響すること。",
+      "plain_example": "犯罪への不安が強い人ほど防犯対策を取るのか、逆に避けるのかを調べる。"
+    },
+    {
+      "id": "procedural-justice",
+      "display_name_ja": "手続の公正さ",
+      "plain_summary": "結果だけでなく、説明の仕方、扱われ方、意見を言う機会などが公平だと感じられること。",
+      "plain_example": "防犯協力を求めるとき、理由を説明し質問できる機会を設ける。"
+    },
+    {
+      "id": "extended-parallel-process-model",
+      "display_name_ja": "恐怖情報への反応を説明するモデル",
+      "plain_summary": "危険を強く感じても、「対策が効く」「自分にもできる」と思えなければ、対策ではなく否定や回避に向かうことがあると考えるモデル。",
+      "plain_example": "詐欺被害の怖さだけを伝える場合と、具体的な設定方法も一緒に示す場合を比べる。"
+    },
+    {
+      "id": "inoculation-theory",
+      "display_name_ja": "誤情報への抵抗力を高める考え方",
+      "plain_summary": "後からだまされにくくするために、典型的なだまし方と見破り方を先に知らせておく考え方。",
+      "plain_example": "詐欺犯が使う代表的な言い回しと、それへの対処方法を事前に示す。"
+    },
+    {
+      "id": "loss-aversion",
+      "display_name_ja": "損失回避",
+      "plain_summary": "同じ程度なら、得をする喜びよりも損をする痛みを強く感じやすい傾向。",
+      "plain_example": "防犯機器を買う費用を、安全になる利益より強く負担に感じていないか調べる。"
+    },
+    {
+      "id": "friction-costs",
+      "display_name_ja": "小さな手間の積み重なり",
+      "plain_summary": "入力、クリック、待ち時間、移動など、一つひとつは小さくても行動を邪魔する負担。",
+      "plain_example": "防犯アプリの登録項目を減らしたとき、設定完了率が上がるか確かめる。"
+    },
+    {
+      "id": "statistical-power",
+      "display_name_ja": "差を見つけるために必要な調査の力",
+      "plain_summary": "本当は差があるときに、調査や実験でその差を見つけられる可能性。",
+      "plain_example": "参加者が少なすぎて、本当は効果があるのに「差がない」と判断してしまわないか確認する。"
+    },
+    {
+      "id": "optimism-bias",
+      "display_name_ja": "自分は大丈夫だと思いやすい傾向",
+      "plain_summary": "悪いことは他人には起きても、自分には起きにくいと考えやすい傾向。",
+      "plain_example": "特殊詐欺の被害について、自分は同年代の人より遭いにくいと思っていないか調べる。"
+    },
+    {
+      "id": "authority-bias",
+      "display_name_ja": "肩書や権威を重く見すぎる傾向",
+      "plain_summary": "内容そのものより、専門家や役職者の肩書を理由に情報を受け入れやすくなること。",
+      "plain_example": "同じ防犯情報でも、専門家名を付けた場合に反応が変わるか調べる。"
+    },
+    {
+      "id": "limited-attention",
+      "display_name_ja": "人が一度に注意できる量の限界",
+      "plain_summary": "人はすべての情報に同じように注意を向けられず、重要な情報でも見落とすことがある。",
+      "plain_example": "駐輪場に掲示した表示が、実際にどれくらいの人に見られているか測る。"
+    },
+    {
+      "id": "present-bias",
+      "display_name_ja": "目先を優先しやすい傾向",
+      "plain_summary": "将来の大きな利益よりも、今すぐの小さな手間や利益を強く重く感じること。",
+      "plain_example": "将来の盗難防止より、今の施錠の手間を優先してしまう行動を考える。"
+    },
+    {
+      "id": "status-quo-bias",
+      "display_name_ja": "今のままを選びやすい傾向",
+      "plain_summary": "特に強い理由がなくても、今の状態を変えない方を選びやすいこと。",
+      "plain_example": "迷惑電話対策が必要だと思っていても、電話の設定を変えない行動を考える。"
+    },
+    {
+      "id": "heterogeneous-treatment-effects",
+      "display_name_ja": "人や場所によって施策の効き方が違うこと",
+      "plain_summary": "同じ施策でも、年齢、地域、もともとの状態などによって効果が違うこと。",
+      "plain_example": "防犯広報の効果が、高齢者と若年者、駅と住宅地で違うか確認する。"
+    },
+    {
+      "id": "goal-setting-theory",
+      "display_name_ja": "目標設定理論",
+      "plain_summary": "具体的で分かりやすい目標を持つことや、進み具合を確認することが行動にどう関わるかを考える理論。",
+      "plain_example": "「防犯意識を高める」ではなく「今週中に迷惑電話対策を設定する」と具体化する。"
+    },
+    {
+      "id": "perceived-behavioural-control",
+      "display_name_ja": "自分で実行できそうだという感覚",
+      "plain_summary": "その行動を自分でできそうか、必要な条件がそろっていそうかと感じる程度。",
+      "plain_example": "防犯アプリを設定する自信だけでなく、使える端末や手助けがあると感じているか調べる。"
+    },
+    {
+      "id": "probability-weighting",
+      "display_name_ja": "確率をそのまま受け止めない傾向",
+      "plain_summary": "実際の確率と、人が判断するときに感じる確率の重みが一致しないこと。",
+      "plain_example": "発生確率が低い犯罪でも、実際以上に大きな危険として感じる場合があるか調べる。"
+    },
+    {
+      "id": "confirmation-bias",
+      "display_name_ja": "自分の考えに合う情報を重く見る傾向",
+      "plain_summary": "すでに持っている考えを支持する情報を探しやすく、反対の情報を軽く見やすいこと。",
+      "plain_example": "「自分は詐欺に遭わない」という考えに合う情報ばかり集めていないか調べる。"
+    },
+    {
+      "id": "social-learning-theory",
+      "display_name_ja": "他人を見て学ぶ理論",
+      "plain_summary": "人は自分で経験しなくても、他人の行動やその結果を見ることで学ぶと考える理論。",
+      "plain_example": "家族が防犯設定を実演する動画と、文章だけの説明で理解や実行が変わるか比べる。"
+    },
+    {
+      "id": "social-proof",
+      "display_name_ja": "周囲の人の行動を手掛かりにすること",
+      "plain_summary": "何が正しいか分からないとき、他の人がしていることを参考にして自分の行動を決めること。",
+      "plain_example": "周囲の人がどの防犯設定を使っているかを参考にして選ぶ。"
+    },
+    {
+      "id": "social-norms",
+      "display_name_ja": "社会規範",
+      "plain_summary": "周囲で「普通に行われている」「望ましい」と考えられている行動の基準。",
+      "plain_example": "地域で実際に多くの人が施錠している事実を、防犯広報で伝える。"
+    },
+    {
+      "id": "elaboration-likelihood-model",
+      "display_name_ja": "精緻化見込みモデル",
+      "plain_summary": "人が説得されるとき、内容をよく考える場合と、簡単な手掛かりで判断する場合があると考えるモデル。",
+      "plain_example": "詳しい比較情報と短い推薦情報のどちらが有効か、受け手の関心や時間の違いも含めて確かめる。"
+    },
+    {
+      "id": "outcome-expectancy",
+      "display_name_ja": "行動した結果への予想",
+      "plain_summary": "ある行動をすると、どんな結果になると本人が予想しているか。",
+      "plain_example": "二重施錠をすれば盗難リスクが下がると思っているか調べる。"
+    },
+    {
+      "id": "statistical-significance",
+      "display_name_ja": "統計的有意差",
+      "plain_summary": "2つの結果に差があったとき、その差が単なる偶然のばらつきだけでは説明しにくいと統計的に判断された状態。",
+      "plain_example": "2種類の防犯広報で設定完了率に差があるかを調べる。"
+    },
+    {
+      "id": "perceived-susceptibility",
+      "display_name_ja": "自分が被害に遭う可能性の感じ方",
+      "plain_summary": "自分自身がその危険や被害を受ける可能性を、どの程度あると思っているか。",
+      "plain_example": "自分にも特殊詐欺の電話がかかってくる可能性があると思っているか調べる。"
+    },
+    {
+      "id": "habit-formation",
+      "display_name_ja": "習慣形成",
+      "plain_summary": "同じ場面で同じ行動を繰り返し、あまり考えなくても自然に行うようになること。",
+      "plain_example": "自転車を止めたら毎回二重施錠する行動を繰り返す。"
+    },
+    {
+      "id": "active-choice",
+      "display_name_ja": "本人に必ず選んでもらう方法",
+      "plain_summary": "何もしないまま先に進めるのではなく、「使う・使わない」などを本人に明確に選んでもらう設計。",
+      "plain_example": "防犯機能を利用するかどうかを、利用者自身に明示的に選んでもらう。"
+    },
+    {
+      "id": "threat-appraisal",
+      "display_name_ja": "危険の大きさをどう評価するか",
+      "plain_summary": "被害がどれくらい起こりそうか、起きたらどれほど深刻かなどを本人が考えること。",
+      "plain_example": "特殊詐欺の被害可能性だけでなく、電話に出る便利さも含めて本人の判断を調べる。"
+    },
+    {
+      "id": "self-efficacy",
+      "display_name_ja": "自分にもできるという感覚",
+      "plain_summary": "ある行動を、自分の力で実行できそうだと感じる程度。",
+      "plain_example": "スマートフォンの防犯設定を自分で最後までできそうだと感じているか調べる。"
+    },
+    {
+      "id": "self-determination-theory",
+      "display_name_ja": "自己決定理論",
+      "plain_summary": "人が行動を続けるうえで、「自分で選んでいる」「自分にもできる」「周囲とつながっている」と感じることを重視する理論。",
+      "plain_example": "防犯対策を一方的に命令する場合と、理由を示して本人が選べる場合を比べる。"
+    },
+    {
+      "id": "autonomy-support",
+      "display_name_ja": "本人の選択を支える関わり方",
+      "plain_summary": "一方的に命令せず、理由を説明し、本人の考えを尊重しながら選べるよう支援すること。",
+      "plain_example": "防犯設定の利点と複数の方法を示し、本人が納得して選べるようにする。"
+    },
+    {
+      "id": "attitude-toward-behaviour",
+      "display_name_ja": "その行動を良いと思うかどうか",
+      "plain_summary": "特定の行動について、本人が「やる価値がある」「やりたくない」など、どう評価しているか。",
+      "plain_example": "防犯アプリそのものの好き嫌いではなく、「今週導入すること」をどう感じているか聞く。"
+    },
+    {
+      "id": "behavioural-insights",
+      "display_name_ja": "行動科学を施策づくりに生かす考え方",
+      "plain_summary": "人が実際にどう行動するかを調べ、その結果を使って施策を設計し、試し、改善する方法。",
+      "plain_example": "防犯アプリが使われない理由を調べ、その理由に合った対策を小さく試す。"
+    },
+    {
+      "id": "behavioural-bottleneck",
+      "display_name_ja": "行動が止まっている場所",
+      "plain_summary": "情報を知る、理解する、やろうと思う、実行する、続ける、という流れのどこで人が止まっているかを考える視点。",
+      "plain_example": "防犯アプリについて、案内を見る→理解する→設定する→使い続ける、のどこで離脱が多いか調べる。"
+    },
+    {
+      "id": "readiness-to-change",
+      "display_name_ja": "行動を変える準備の程度",
+      "plain_summary": "まだ考えていない、考え始めた、準備している、すでに実行しているなど、その人がどの段階にいるかを見る考え方。",
+      "plain_example": "防犯機器をまだ知らない人と、購入を検討中の人を分けて案内する。"
+    },
+    {
+      "id": "prompt-cue",
+      "display_name_ja": "行動を思い出させる合図",
+      "plain_summary": "その行動が必要な場所や場面で、実行を思い出させる表示や合図。",
+      "plain_example": "自転車の鍵をかける場所に、施錠を促す表示を置く。"
+    },
+    {
+      "id": "behavioral-economics",
+      "display_name_ja": "行動経済学",
+      "plain_summary": "人がいつも完全に合理的に判断するとは限らないことを、実験やデータから調べる研究分野。",
+      "plain_example": "施錠が大切だと分かっているのに実際には施錠しない理由を考える。"
+    },
+    {
+      "id": "implementation-plan",
+      "display_name_ja": "具体的な行動計画",
+      "plain_summary": "「いつ・どこで・何を・どうするか」を具体的に決めておくこと。",
+      "plain_example": "防犯機器を設置する日時と手順をあらかじめ決める。"
+    },
+    {
+      "id": "observational-learning",
+      "display_name_ja": "見て学ぶこと",
+      "plain_summary": "他の人が実際に行動する様子を見て、自分もその方法を学ぶこと。",
+      "plain_example": "防犯担当者がスマートフォンの設定方法を実演する。"
+    },
+    {
+      "id": "implementation-intention-gap",
+      "display_name_ja": "計画したのに実行しない状態",
+      "plain_summary": "「この日にやる」と計画していても、実際には実行しないことを表す説明上の言い方。",
+      "plain_example": "防犯設定の日を決めた人のうち、実際に設定まで終えた人がどれくらいいるか確認する。"
+    },
+    {
+      "id": "planning-fallacy",
+      "display_name_ja": "必要な時間を短く見積もりやすい傾向",
+      "plain_summary": "作業にかかる時間や手間を、実際より少なく見積もってしまいやすいこと。",
+      "plain_example": "防犯機器の設定に「5分で終わる」と思った人の予想と、実際の所要時間を比べる。"
+    },
+    {
+      "id": "descriptive-norms",
+      "display_name_ja": "周囲の人が実際にしている行動",
+      "plain_summary": "周囲の人たちが実際にはどんな行動をしていると本人が認識しているか。",
+      "plain_example": "地域で実際に測った二重施錠率を知らせる。"
+    },
+    {
+      "id": "cognitive-bias",
+      "display_name_ja": "認知バイアス",
+      "plain_summary": "判断や情報の受け取り方が、一定の方向に偏ることの総称。",
+      "plain_example": "印象に残る事件を、実際より頻繁に起きていると判断していないか調べる。"
+    },
+    {
+      "id": "cognitive-dissonance",
+      "display_name_ja": "考えと行動が食い違うときの不快感",
+      "plain_summary": "自分の考えと実際の行動が矛盾すると、その矛盾を小さくするために考え方を変えたり理由を付けたりすること。",
+      "plain_example": "施錠しない人が「この地域は安全だから必要ない」と説明する理由を調べる。"
+    },
+    {
+      "id": "cognitive-appraisal",
+      "display_name_ja": "出来事の意味と対処できるかを考えること",
+      "plain_summary": "起きたことが自分にとって脅威か、どれほど重大か、対処できそうかを評価すること。",
+      "plain_example": "詐欺の警告を見た人が、どれほど危険と感じ、対処できそうと感じたかを分けて調べる。"
+    },
+    {
+      "id": "cognitive-load",
+      "display_name_ja": "考える負担",
+      "plain_summary": "一度に理解・記憶・操作しなければならない情報が多く、頭の処理が追いつきにくくなる状態。",
+      "plain_example": "複雑な防犯広報と、手順を絞った広報で理解率を比べる。"
+    },
+    {
+      "id": "diffusion-of-responsibility",
+      "display_name_ja": "「誰かがやるだろう」と責任が薄まること",
+      "plain_summary": "周囲に他の人がいると、一人ひとりが自分の役割だと感じにくくなること。",
+      "plain_example": "防犯講習で「誰かが通報」ではなく、担当者を具体的に決める。"
+    },
+    {
+      "id": "overconfidence",
+      "display_name_ja": "過信",
+      "plain_summary": "自分の知識や判断力を、実際より高く評価してしまうこと。",
+      "plain_example": "「自分は詐欺を見抜ける」という自信と、模擬問題の成績を比べる。"
+    },
+    {
+      "id": "choice-architecture",
+      "display_name_ja": "選び方を左右する環境の設計",
+      "plain_summary": "選択肢の並び方、初期設定、画面の導線など、選ぶときの環境そのものを設計すること。",
+      "plain_example": "防犯設定画面で、安全機能を見つけやすく、選びやすくする。"
+    },
+    {
+      "id": "simplification",
+      "display_name_ja": "分かりやすく簡単にすること",
+      "plain_summary": "不要な説明や手順を減らし、必要な情報と操作を分かりやすく整理すること。",
+      "plain_example": "防犯設定の方法を、必要な3手順にまとめる。"
+    },
+    {
+      "id": "choice-overload",
+      "display_name_ja": "選択肢が多すぎて選びにくくなること",
+      "plain_summary": "選べるものが多すぎると、比較が大変になり、決められなくなる場合があること。",
+      "plain_example": "防犯機器が多すぎて、どれを買えばよいか分からず購入を先延ばしにする。"
+    },
+    {
+      "id": "perceived-severity",
+      "display_name_ja": "被害の深刻さの感じ方",
+      "plain_summary": "被害が起きたときの身体的、経済的、社会的な影響を、本人がどれほど重大だと感じるか。",
+      "plain_example": "住宅侵入や口座情報流出について、被害をどれほど深刻だと思っているか調べる。"
+    },
+    {
+      "id": "bounded-rationality",
+      "display_name_ja": "人の判断には限界があるという考え方",
+      "plain_summary": "人は時間、情報、考える力に限りがあるため、いつも最も良い選択を計算して決められるわけではないという考え方。",
+      "plain_example": "複雑すぎる防犯機能の説明が、利用者の判断を難しくしていないか考える。"
+    },
+    {
+      "id": "perceived-barriers",
+      "display_name_ja": "行動するうえで感じる障壁",
+      "plain_summary": "費用、時間、面倒さ、不安など、本人が「これがあるから実行しにくい」と感じていること。",
+      "plain_example": "防犯アプリについて、料金、操作の面倒さ、権限設定への不安を分けて調べる。"
+    },
+    {
+      "id": "collective-efficacy",
+      "display_name_ja": "地域で協力して問題に対応できるという感覚",
+      "plain_summary": "地域の人たちが互いにつながり、必要なときには協力して地域の問題に対応できるという共有された感覚。",
+      "plain_example": "地域住民の協力意識と、犯罪発生や通報行動との関係を調べる。"
+    },
+    {
+      "id": "salience",
+      "display_name_ja": "目立ちやすさ",
+      "plain_summary": "色、大きさ、置く場所などによって、情報が目に入りやすくなる性質。",
+      "plain_example": "自転車を施錠する場所の近くに、目立つ表示を置く。"
+    }
+  ]
+}
