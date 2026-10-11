@@ -113,43 +113,31 @@ for t in items:
 
     (ROOT/'words'/(t['id']+'.html')).write_text(frame(p['display_name_ja'],c),encoding='utf-8')
 
-REFS=json.loads((ROOT/'sources'/'references.json').read_text(encoding='utf-8'))
+# ---- theory pages ----
+# theories/<id>/index.html は各理論ごとに作成済みの詳細ページを正本として保持する。
+# publish_library.py は理論ページ自体を上書きせず、一覧掲載用の状態確認だけを行う。
+registered_theory_ids={t['id'] for t in theories}
+theory_dirs={p.name for p in (ROOT/'theories').iterdir() if p.is_dir()}
+missing_registration=sorted(theory_dirs-registered_theory_ids)
+missing_directory=sorted(registered_theory_ids-theory_dirs)
+if missing_registration:
+    print('WARNING: theories/ にあるが theories.json 未登録:', ', '.join(missing_registration))
+if missing_directory:
+    print('WARNING: theories.json 登録済みだがフォルダなし:', ', '.join(missing_directory))
+
 for t in theories:
-    d=ROOT/'theories'/t['id']; d.mkdir(parents=True,exist_ok=True)
+    d=ROOT/'theories'/t['id']
     slides=[]
-    for n in range(1,4):
-        hits=[ext for ext in ['png','jpg','jpeg','webp'] if (d/(f'slide{n}.'+ext)).is_file()]
-        if hits:slides.append((n,'slide'+str(n)+'.'+hits[0]))
-    status='掲載済み（3枚）' if len(slides)==3 else ('一部掲載済み' if slides else 'スライド未配置')
-    c='<p class="back"><a href="../../">← 検索・索引へ戻る</a></p><h2>'+e(t['ja'])+'</h2><section class="panel"><p>'+e(t['short'])+'</p><p class="note">'+e(status)+'。理論・研究成果と防犯実務への応用を区別してお読みください。</p></section>'
-
-    if t.get('en'):
-        c+='<details class="panel"><summary>文献検索用情報</summary><div class="detail-row"><strong>英語名</strong><p>'+e(t['en'])+'</p></div></details>'
-
-    if (d/'slides.pdf').is_file():
-        c+='<div class="download"><a href="slides.pdf" target="_blank" rel="noopener noreferrer">3枚スライドPDFを見る・保存</a></div>'
-
-    for n,file in slides:
-        c+='<section class="slide"><h2>スライド '+str(n)+'</h2><a href="'+e(file)+'" target="_blank" rel="noopener noreferrer" title="別タブで拡大"><img src="'+e(file)+'" alt="'+e(t['ja'])+' スライド'+str(n)+'" loading="lazy"></a></section>'
-
-    if len(slides)!=3:
-        c+='<div class="empty">3枚スライドの原本はまだ掲載されていません。</div>'
-
-    refs=REFS.get(t['id'],[])
-    if refs:
-        c+='<section class="panel refs"><h2>参考文献</h2><p class="note">添付RISに登録された文献の書誌情報です。各研究の原著全文やスライド中の記述との個別照合が完了したことを意味しません。</p>'
-        c+='<details><summary>文献 '+str(len(refs))+' 件を表示</summary><ol>'
-        for r in refs:
-            author=', '.join(r.get('authors',[])[:3])+(' ほか' if len(r.get('authors',[]))>3 else '')
-            label=(author+' ('+str(r.get('year','年不詳'))+'). '+r.get('title','書名・論文名不詳')).strip()
-            url=r.get('url','')
-            if not url and r.get('doi'):url='https://doi.org/'+r['doi']
-            c+='<li>'+(('<a href="'+e(url)+'" target="_blank" rel="noopener noreferrer">'+e(label)+'</a>') if url.startswith(('https://','http://')) else e(label))+'</li>'
-        c+='</ol></details><p class="download"><a href="../../sources/'+e(t['reference_file'])+'" download>参考文献データ（RIS）を保存</a></p></section>'
-
-    c+='<p class="note">関連する概念については、上部の検索・索引から行動経済学・心理学の用語も横断検索できます。</p>'
-    (d/'index.html').write_text(frame(t['ja'],c),encoding='utf-8')
+    if d.is_dir():
+        for n in range(1,4):
+            hits=[ext for ext in ['png','jpg','jpeg','webp'] if (d/(f'slide{n}.'+ext)).is_file()]
+            if hits:
+                slides.append((n,'slide'+str(n)+'.'+hits[0]))
     t['slide_status']='published' if len(slides)==3 else ('partial' if slides else 'pending')
+    if not (d/'index.html').is_file():
+        print('WARNING: 理論ページ index.html なし:', t['id'])
+    if t.get('reference_file') and not (ROOT/'sources'/t['reference_file']).is_file():
+        print('WARNING: 参考文献RISなし:', t['id'], t['reference_file'])
 
 view=[]
 for t in items:
