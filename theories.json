@@ -34,5 +34,32 @@
     "slide_status": "published",
     "reference_file": "EBP_nudge_policing_literature_2026-09-16.ris",
     "source_status": "添付された3枚スライドを掲載。参考文献は添付RISの登録情報を収録。"
+  },
+  {
+    "id": "crime-pattern-theory",
+    "ja": "犯罪パターン理論",
+    "en": "Crime Pattern Theory",
+    "short": "活動拠点・移動経路・境界・認知空間と犯罪機会の重なりから、犯行場所の選択を考える理論。",
+    "slide_status": "published",
+    "reference_file": "Crime_Pattern_Theory_Zotero.ris",
+    "source_status": "掲載済みの3枚スライドと参考文献資料を登録。参考文献は添付RISの登録情報を収録。"
+  },
+  {
+    "id": "rational-choice-theory",
+    "ja": "合理的選択理論",
+    "en": "Rational Choice Theory",
+    "short": "犯罪者が、その場で予想する利益・発覚リスク・手間や制約を踏まえて、犯罪の実行方法・標的・場所や時間を選ぶ過程に注目する理論。",
+    "slide_status": "published",
+    "reference_file": "rational_choice_theory_26_references.ris",
+    "source_status": "掲載済みの3枚スライドと参考文献資料を登録。参考文献は添付RISの登録情報を収録。"
+  },
+  {
+    "id": "situational-crime-prevention",
+    "ja": "状況的犯罪予防",
+    "en": "Situational Crime Prevention",
+    "short": "犯罪が起きやすい状況や機会に着目し、犯行の手間・リスク・利益・誘因・正当化の条件を変えるアプローチ。",
+    "slide_status": "published",
+    "reference_file": "SCP_Zotero_20261004.ris",
+    "source_status": "掲載済みの3枚スライドと参考文献資料を登録。参考文献は添付RISの登録情報を収録。"
   }
 ]
